@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for file in pages/*.swf; do
+    # grab jpeg ids from the output of swfextract
+    ids=$(swfextract "$file" | awk '/JPEGs/ {gsub(/,/, ""); for(i=5;i<=NF;++i) print $i}')
+    count=0
+    for id in $ids; do
+        padded_count=$(printf "%02d" $count)
+        format="images/$(basename ${file} .swf)-${padded_count}.jpg"
+        swfextract --outputformat "$format" -j $id "$file"
+        (( count++ ))
+    done
+done

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+for i in {1..200}; do
+    fn=$(printf "%03d" $i)
+    wget -O "audio/$fn.mp3" "http://holmes.anthropology.museum/shawnee/Audio/Pg${i}.mp3"
+done
