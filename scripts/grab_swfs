@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+for i in {1..200}; do
+    url="http://holmes.anthropology.museum/shawnee/pages/page${i}.swf"
+    wget -O "pages/${i}.swf" "$url"
+done

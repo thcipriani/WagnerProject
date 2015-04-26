@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+set -x
+
+if [ ! -d pages ]; then
+    echo "Execute this program from the top level of this repo"
+    exit 1
+fi
+
+for i in {1..200}; do
+    fn=$(printf "%03d\n" $i)
+
+    old_file="pages/${i}.swf"
+    new_file="pages/${fn}.swf"
+
+    if [ -f "${old_file}" ]; then
+        mv "$old_file" "$new_file"
+    fi
+done
