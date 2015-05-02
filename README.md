@@ -102,10 +102,10 @@ B.A., M.A. Anthropology
 
 * [Mission Work and The Lutheran Church – Missouri Synod](#mission-work-and-the-lutheran-church---missouri-synod)
 * [The Beginning – William P. Wagner and Ruth L. Prueter](#the-beginning---william-p-wagner)
-* [Marriage Proposal – Then off to New Guinea!](#marriage-proposal---then-off-to-new-guinea)
-* Starting a New Life Together – Arriving in New Guinea
-* Bush houses – How they are built
-* Home Away from Home – Getting Settled
+* [Marriage Proposal – Then off to New Guinea!](marriage-proposal---then-off-to-new-guinea)
+* [Starting a New Life Together – Arriving in New Guinea](#starting-a-new-life-together--arriving-in-papua-new-guinea)
+* [Bush houses – How they are built](#bush-houses---how-they-are-built)
+* [Home Away from Home – Getting Settled](#home-away-from-home---getting-settled)
 * Mrs. Ruth Wagner – A Missionary Wife’s Life
 * Raising a Family - In New Guinea
 * Christmas – Away From Home
