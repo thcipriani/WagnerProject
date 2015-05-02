@@ -295,4 +295,88 @@ into the Hewa territories.
 
 [Click HERE to hear Mrs. Wagner](audio/016.mp3)
 
-==> text/017.txt <==
+![Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.](images/017-03.jpg)
+
+![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](images/017-02.jpg)
+
+![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](images/017-01.jpg)
+
+## STARTING A NEW LIFE TOGETHER – Arriving in Papua, New Guinea
+
+In March 1955, Reverend William and Ruth Wagner's plane touched down in
+New Guinea.  Reverend Wagner writes:
+
+> “As our plane circled over Yaramanda, we could see people running
+> out of houses and looking up at us.  The plane continued on a short
+> distance; we looked back and saw the crowd dissolve into a line and
+> the far end of the line start toward the air-strip.  The crowd came
+> streaming down the hill as the plane came over the strip and
+> dropped down to land.  The Cessna taxied to a stop and the moment
+> the propeller stopped turning the plane was surrounded by a
+> hundred or more natives.  Everyone wanted to shake hands with us
+> and welcome us to Yaramanda.  To whooping and the chanting, we
+> climbed the long hill to the station.  We had arrived in New Guinea.”
+> (Wagner Newsletter, May 9, 1955).
+
+Their first stop was the station at Yaramanda, the home of pioneer
+Missionary Otto Hintze, one of the first missionaries in the Highlands
+(arrival in 1948), who was in charge of this circuit. This would be the
+Wagner's home for the next two months, until they would continue on to
+Saka Raiakama to begin a new main station and circuit of their own.
+
+[Click HERE to hear Mrs. Wagner](audio/018.mp3)
+
+![a woman splitting the bamboo](images/019-01.jpg)
+![preparing bamboo for pounding](images/019-02.jpg)
+
+Both Enga men and women construct blind walls. Shown above, a woman
+splitting the bamboo, preparing it for pounding
+
+[Click HERE to view movie clip](video/WallBuilding.wmf)
+
+## BUSH HOUSES - How they are built
+
+Bush houses, like the one Reverend William and Mrs. Ruth Wagner lived
+in when they arrived in Yaramanda and also similar to their living quarters
+in Saka Raiakama, were built mostly of saplings, trees, and grass, with
+sawn lumber only used for doors and door frames, window frames, and
+window sills.
+
+[Click HERE to hear Mrs. Wagner](audio/Pg20a.mp3)
+
+These houses were only temporary accommodations for the missionaries,
+although they lived in them for years.  The Bush houses would eventually
+be replaced by permanent frame-houses built by mission carpenters.
+The Wagners would finally receive their permanent house in May of
+1958, and it had some modern conveniences, including piped-in water
+for the kitchen and bath.  This water came from a large metal tank
+designed to catch rain water.
+
+[Click HERE to hear Mrs. Wagner](audio/Pg20b.mp3)
+
+![1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house](images/021-01.jpg)
+
+![Mrs. Ruth Wagner feeding chickens in chicken yard of Bush House](images/021-02.jpg)
+
+[Click HERE to hear Mrs. Wagner](audio/Pg21b.mp3)
+
+![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](images/021-03.jpg)
+
+[Click HERE to hear Mrs. Wagner](audio/Pg21a.mp3)
+
+## HOME AWAY FROM HOME - Getting Settled
+
+Four months later, in August 1955, the Wagners officially moved to
+Raiakama and began work at the new main station.  The house where
+they would live would take some getting used to.  Mrs. Ruth Wagner
+states:
+
+> “The first sight of our home was almost like looking at a lone
+> tree in the midst of dirt”
+> (Wagner Newsletter, pg 7, September 1955).
+
+She continues to explain the nature of Bush house:
+
+[Click HERE to hear Mrs. Wagner](audio/Pg22.mp3)
+
+==> text/023.txt <==
