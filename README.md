@@ -231,7 +231,7 @@ Yaramanda, Enga Province.
 
 ![William P. Wagner - Graduation from Concordia Seminary, Springfield, Illinois](images/013-02.jpg)
 
-![Position as vicar - Westbend, Wisconsin Previous](images/013-02.jpg)
+![Position as vicar - Westbend, Wisconsin Previous](images/013-01.jpg)
 
 [Click HERE to watch movie clip](video/Life.wmv)
 
