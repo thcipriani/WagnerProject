@@ -375,74 +375,33 @@ states:
 > tree in the midst of dirt”
 > (Wagner Newsletter, pg 7, September 1955).
 
-She continues to explain the nature of Bush house:
-
 [Click HERE to hear Mrs. Wagner](audio/Pg22.mp3)
 
-==> text/023.txt <==
-Click HERE to
-hear Mrs. Wagner
-Closet, bassinet, and changing table
-Foodsafe + door left of table to bedroom
-Bedroom and Shower on the left
-Kitchen Pantry; notice floor
-Previous
-
-[Click HERE to hear Mrs. Wagner](audio/023-001.mp3)
-
-[Click HERE to hear Mrs. Wagner](audio/023-002.mp3)
+![Bedroom and Shower on the left](images/023-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-003.mp3)
 
+![Closet, bassinet, and changing table](images/023-02.jpg)
+
+[Click HERE to hear Mrs. Wagner](audio/023-001.mp3)
+
+![Kitchen Pantry; notice floor](images/023-03.jpg)
+
 [Click HERE to hear Mrs. Wagner](audio/023-004.mp3)
 
-![images/023-01.jpg](images/023-01.jpg)
+![Foodsafe + door left of table to bedroom](images/023-04.jpg)
 
-![images/023-02.jpg](images/023-02.jpg)
+[Click HERE to hear Mrs. Wagner](audio/023-002.mp3)
 
-![images/023-03.jpg](images/023-03.jpg)
+She continues to explain the nature of Bush house:
 
-![images/023-04.jpg](images/023-04.jpg)
-
-
-
-==> text/024.txt <==
-The Lutherans in New Guinea
-German missionaries of the Neuendettelsau and Rhenish missions
-began the work in 1886, entering at two points on the north coast of
-what was then the new German colony of East New Guinea. The
-inhabitants, Melanesians and Papuans by race, were considered
-primitive.  Today in unexplored pockets in the inland mountains, there
-still live some of the most primitive people on earth; of all the mission
-fields of Asia this is the one where Western civilization has been the
-last to come.  The land is mountainous, forested and as might be
-expected, thinly populated.  The missionaries faced a tremendous
-problem of language.  In 1957, the half a million people populating
-the area of the Lutheran church were divided into sixty or eighty
-tribes and spoke as many different tongues.  During that time, in a
-single church district of 8,000 people four languages are used.  None
-of these languages had ever been put into writing.  The missionaries
-chose three of the principal languages as “church languages” and
-used them and interpreters for their work, adding “pidgin” which is an
-adaptation of English.
-The story of the development leading up to the remarkable
-organization that is the Lutheran Mission New Guinea has a dramatic
-history of missionary vision and loyalty, of the bond of faith bringing
-aid in the emergencies caused by two world wars, and of the final
-union in 1953 of German (Neuendettelsau), Australian (UELCA),  and
-the American (ALC, which replaced the Rhenish Mission) missions into
-a single internationally staffed and financed (with substantial
-subsidies from the LWF) organization.  It was equipped as never
-before to carry on in times that was critical for the development of
-the New Guinean people and for the church.
-3
-Cont'd
 There were two rooms in the Bush house, each 15’ x 15’, of which one
 was their bedroom.  This room was also a semi-storage room and
 contained a shower.  The shower was a converted milking bucket with a
 hose attached underneath, resembling a sprinkler can, and manipulated
 up and down by means of a rope and pulley.  Water was heated on the
 stove and brought to the bathroom.
+
 The other room, a kitchen, contained a food-safe for the storage of food,
 which was partly enclosed by a screen. There was a cabinet similar to a
 buffet with two drawers on top and two large doors with shelves inside, a
@@ -450,6 +409,7 @@ buffet with two drawers on top and two large doors with shelves inside, a
 wood stove and firewood box, a counter and shelves along one side, a
 shelf for holding the water buckets, plus odds-and-ends in corners and
 various articles hanging on the walls.
+
 The ceiling in the house had large strips of waterproof tar paper nailed to
 saplings, with the paper extending from one end of the house to the
 other.  This ceiling afforded a catch-all for fragments from the saplings
@@ -460,34 +420,16 @@ were not strong enough to catch these rats.  Reverend William Wagner
 used a hammer at night; he learned to be quick getting out of bed.   Rats
 were frequent visitors in all bush houses, and cats were also very helpful
 to keep down their population [Wagner Oral Slide History].
-Next
-
-==> text/025.txt <==
-The Washing Machine
-used in Bush and
-Permanent house
-The Coleman Gas Iron;
-For each ironing job, it is
-filled with gasoline, then
-pumped with air, a
-button near the bottom
-is pushed to prime, then
-the iron is finally ignited
-Previous
-Click HERE
-to hear
-Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/025-001.mp3)
 
-![images/025-01.jpg](images/025-01.jpg)
+![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](images/025-01.jpg)
 
-![images/025-02.jpg](images/025-02.jpg)
+![The Washing Machine used in Bush and Permanent house](images/025-02.jpg) 
 
 
+## MRS. RUTH WAGNER - A Missionary Wife’s Life
 
-==> text/026.txt <==
-MRS. RUTH WAGNER - A Missionary Wife’s Life
 The Enga women watched curiously and intently when Ruth hung out her
 wash.  The Enga women did not wash clothes because there were no
 clothes to wash; a woman's attire was limited to a reed or “kuta” skirt.
@@ -499,7 +441,9 @@ vernacular, which Ruth Wagner conducted [Conference Paper: "The Enga
 Woman"].   Ruth also gave medical attention to the Enga, and introduced
 the Lamaze Technique of childbirth to European mothers-to-be; this
 technique was developed in the 1940s.
-Next
+
+[Click HERE to hear Mrs. Wagner](audio/026-001.mp3)
+
 In daily living, the duties were much the same as those of a housewife
 in the United States, except that the equipment she worked with was
 quite different.  The washing machine was a tall, cylindrical tub on legs
@@ -510,112 +454,52 @@ between the two rinsing tubs used for wringing the clothes.
 The ironing was done with a Coleman gas iron with a little tank attached
 to the rear, which is filled with gasoline for each ironing job, pumped
 with air, primed at the bottom and then ignited.
-Click HERE to hear Mrs. Wagner
 
-[Click HERE to hear Mrs. Wagner](audio/026-001.mp3)
-
-
-
-==> text/027.txt <==
-Mrs. Wagner's Australian wood-
-burning cook stove in bush house
-Wedding cake baked in Mrs. Wagner's
-wood-burning cook stove; decorated
-by another missisionary wife
-Enga women come to sell
-vegetables to missionary wives
-Previous
-Click HERE to
-hear Mrs. Wagner
+![Mrs. Wagner's Australian wood-burning cook stove in bush house](images/027-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-001.mp3)
 
+![Wedding cake baked in Mrs. Wagner's wood-burning cook stove; decorated by another missisionary wife](images/027-02.jpg)
+
+![Enga women come to sell vegetables to missionary wives](images/027-03.jpg)
+
 [Click HERE to hear Mrs. Wagner](audio/027-002.mp3)
 
-![images/027-01.jpg](images/027-01.jpg)
-
-![images/027-02.jpg](images/027-02.jpg)
-
-![images/027-03.jpg](images/027-03.jpg)
-
-
-
-==> text/028.txt <==
 For cooking, the Australian stove was boxed-in and filled with dirt on
 three sides, to prevent the loss of heat.  It had the firebox on top and
 oven underneath, and if there were strong winds, too much wood, they
 would quickly send the oven temperature to 450 degrees or more,
 resulting in many semi-baking failures.  During the next few years, Mrs.
 Ruth Wagner would learn to control the heat.
+
 The housewife in New Guinea had no store to visit to purchase her daily
 food, and until her gardens were planted and began producing, some of
 their fruits and all of their vegetables were bought from the Enga women,
 who came to the house twice a week, carrying the food in their billums.
+
 Since the Enga women did almost all of the gardening, it was usually they
 who came to sell, although some school boys and men also appeared.
 Enga women coming home from their gardens bear unbelievable amounts
 of food in billums on their backs often with a small child perched on top.
 The weight was so great that they were often walking bent over.
+
 For beads, money, or newspaper, missionary wives bought green beans,
 peas, cabbage, onions, potatoes, mapu – the white sweet potato, the
 Engas’ main item of diet, occasional yams,  kumu - the native spinach,
 pumpkin greens, corn, several varieties of bananas, papaya, tomatoes,
 and chicken eggs to supplement their diet (WNL).
-Next
- Cont'd
 
-==> text/029.txt <==
-Click HERE to hear
-Mrs. Wagner
-Reverend William Wagner and wife, Ruth
-Wagner with their five daughters.  L to R -
-Jennifer, Kristen [in front], Lisa [behind Kristen],
-Sarah and Stephanie [in front of Sarah]
-November 17, 1955; Daughter Sarah in
-Mrs. Ruth Wagner's arms.
-Leaving Jaguam Lutheran Hospital to
-return home to the Highlands of New
-Guinea
-Previous
+![Reverend William Wagner and wife, Ruth Wagner with their five daughters.  Left to Right - Jennifer, Kristen (in front), Lisa (behind Kristen), Sarah and Stephanie (in front of Sarah)](images/029-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-001.mp3)
 
-![images/029-01.jpg](images/029-01.jpg)
+![November 17, 1955; Daughter Sarah in Mrs. Ruth Wagner's arms. Leaving Jaguam Lutheran Hospital to return home to the Highlands of New Guinea](images/029-02.jpg)
 
-![images/029-02.jpg](images/029-02.jpg)
+[Click HERE to hear Mrs. Wagner](audio/029-002.mp3)
 
 
+## RAISING A FAMILY – In New Guinea
 
-==> text/030.txt <==
-The Lutherans in New Guinea
-German missionaries of the Neuendettelsau and Rhenish missions
-began the work in 1886, entering at two points on the north coast of
-what was then the new German colony of East New Guinea. The
-inhabitants, Melanesians and Papuans by race, were considered
-primitive.  Today in unexplored pockets in the inland mountains, there
-still live some of the most primitive people on earth; of all the mission
-fields of Asia this is the one where Western civilization has been the
-last to come.  The land is mountainous, forested and as might be
-expected, thinly populated.  The missionaries faced a tremendous
-problem of language.  In 1957, the half a million people populating
-the area of the Lutheran church were divided into sixty or eighty
-tribes and spoke as many different tongues.  During that time, in a
-single church district of 8,000 people four languages are used.  None
-of these languages had ever been put into writing.  The missionaries
-chose three of the principal languages as “church languages” and
-used them and interpreters for their work, adding “pidgin” which is an
-adaptation of English.
-The story of the development leading up to the remarkable
-organization that is the Lutheran Mission New Guinea has a dramatic
-history of missionary vision and loyalty, of the bond of faith bringing
-aid in the emergencies caused by two world wars, and of the final
-union in 1953 of German (Neuendettelsau), Australian (UELCA),  and
-the American (ALC, which replaced the Rhenish Mission) missions into
-a single internationally staffed and financed (with substantial
-subsidies from the LWF) organization.  It was equipped as never
-before to carry on in times that was critical for the development of
-the New Guinean people and for the church.
-3
 Sarah, shown with her mother, Ruth, was born at Jagaum Lutheran
 Hospital near Madang – which is on the New Guinean coast.  Mrs. Ruth
 Wagner went there because the hospital in their mission circuit was still
@@ -624,18 +508,19 @@ hospital to the government airstrip and station at Wapenamada, where
 they took the mission Landrover to Mambisanda and waited for Reverend
 Wagner to arrive.  They then would head back to their home at Raiakama,
 in the Saka Valley.
-RAISING A FAMILY – In New Guinea
-Next
-“Bill saw Sarah for the first time that same morning they left for
-Saka Laiagam, with Reverend Bill walking and Ruth in a chair
-carried by Engas as she was not allowed to climb up and down
-cliff sides and valleys.  Sarah wrapped in blankets and lying on a
-“turi” in her “bilum”, traveling Enga fashion on the back of our
-houseboy” [Wagner Newsletter, Dec 1955].
+
+> “Bill saw Sarah for the first time that same morning they left for
+> Saka Laiagam, with Reverend Bill walking and Ruth in a chair
+> carried by Engas as she was not allowed to climb up and down
+> cliff sides and valleys.  Sarah wrapped in blankets and lying on a
+> “turi” in her “bilum”, traveling Enga fashion on the back of our
+> houseboy” (Wagner Newsletter, Dec 1955).
+
 Sarah is the Reverend and Mrs. Wagner’s first child; she was born in New
 Guinea.  Throughout the couple’s fourteen years with the Enga, Duna,
 and Hewa people, the Wagners had five beautiful daughters; Sarah,
 Jennifer, Stephanie, Lisa, and Kristen; all were born in New Guinea.
+
 Being a new mother was always a learning experience, but caring for a
 new baby in New Guinea with just the barest of essentials needed to care
 for her was difficult, and had, of course, changed the couple’s daily
@@ -643,36 +528,12 @@ routine.   Washing was now done at least three times a week, two baby
 washes were boiled in the copper outside, and one washed with the
 regular wash.
 
-==> text/031.txt <==
-1955; New Guinea -
-The Wagner's
-houseboy,
-Sakaraiadana
-1957; Rev. and Mrs.
-Ruth Wagner
-traveling by
-motorcycle,
-carrying Sarah in a
-home-made baby
-carrier -
-an  Australian
-knapsack with holes
-cut for her legs
-Previous
-Click HERE
-to hear
-Mrs. Wagner
+![1955; New Guinea - The Wagner's houseboy, Sakaraiadana](images/031-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/031-001.mp3)
 
-![images/031-01.jpg](images/031-01.jpg)
+![1957; Rev. and Mrs. Ruth Wagner traveling by motorcycle, carrying Sarah in a home-made baby carrier - an  Australian knapsack with holes cut for her legs](images/031-02.jpg)
 
-![images/031-02.jpg](images/031-02.jpg)
-
-
-
-==> text/032.txt <==
-Cont'd
 The copper was a large basin which held about ten gallons of water and
 rested in the top of a 44-gallon gasoline drum.  A hole had been cut in the
 side of the drum at the bottom, and the houseboy built a fire inside to heat
@@ -684,240 +545,176 @@ pole resting on the shoulders.  About thirteen buckets of water were
 needed to fill two rinsing tubs and the copper, in which the washing water
 was heated.  In addition, from four to six buckets were kept filled in the
 house for daily use.
-Next
-“Sarah is now four months old and the natives are very excited
-about seeing a white child.  When she went to church for the
-first time since Christmas a few weeks ago, the reaction was
-unexpected.  Very little attention was given to the sermon, and
-when she started for home, the women and children, the men
-being more reserved and just smiling, shouted and laughed,
-reached up as if to touch her, shook their hands in front of
-themselves as we do to get our hands warm when they are
-cold, their expressions of surprise and amazement, and kept
-repeating – “Wamo! Wamo!”  [The Enga expression of surprise].
-The parade followed her to the gate to our yard and Sarah sat
-up in her daddy’s arm and just looked back at them.  Yes, it
-must be strange for them to see a father carry his tiny
-daughter, for that is something only the women do in the native
-society”
-  [Wagner Newsletter, March 1955].
 
-==> text/033.txt <==
-Click HERE to hear Mrs. Wagner
-Christmas time in New Guinea
-Previous
+> “Sarah is now four months old and the natives are very excited
+> about seeing a white child.  When she went to church for the
+> first time since Christmas a few weeks ago, the reaction was
+> unexpected.  Very little attention was given to the sermon, and
+> when she started for home, the women and children, the men
+> being more reserved and just smiling, shouted and laughed,
+> reached up as if to touch her, shook their hands in front of
+> themselves as we do to get our hands warm when they are
+> cold, their expressions of surprise and amazement, and kept
+> repeating – “Wamo! Wamo!”  (The Enga expression of surprise).
+> The parade followed her to the gate to our yard and Sarah sat
+> up in her daddy’s arm and just looked back at them.  Yes, it
+> must be strange for them to see a father carry his tiny
+> daughter, for that is something only the women do in the native
+> society” (Wagner Newsletter, March 1955).
 
 [Click HERE to hear Mrs. Wagner](audio/033-001.mp3)
 
-![images/033-01.jpg](images/033-01.jpg)
+![Christmas time in New Guinea](images/033-01.jpg)
 
+## CHRISTMAS - Away From Home
 
-
-==> text/034.txt <==
 Many people asked how the Wagners celebrated Christmas in the
 Highlands.  Native teachers and evangelists in their circuit along with their
 families came to the station for a Christmas party.  After a simple church
 service in the Mission’s teacher’s house, which included the sermon and
 Christmas carols sung in Pidgin English, the group retired to another room
 with a fire burning in the center for warmth and light.
-CHRISTMAS - Away From Home
-“Here we played “Button, button, who’s got the button?” with a
-small potato and the natives literally rolled on the floor with
-laughter.  This game they have never played before.  The food
-served was quite strange to them and included whole wheat
-bread sandwiches of fish and cheese, oatmeal cookies and candy.
-Even the bread, they said, was sweet.  When they first tasted the
-food they held it gingerly and took very little bites, but all of it
-was eaten except the cookies.  They were too sweet.  Later, gifts
-were distributed for the Mission Cheer Committee to each
-family”.
- [Wagner Newsletter, March 1955]
-Next
+
+> “Here we played “Button, button, who’s got the button?” with a
+> small potato and the natives literally rolled on the floor with
+> laughter.  This game they have never played before.  The food
+> served was quite strange to them and included whole wheat
+> bread sandwiches of fish and cheese, oatmeal cookies and candy.
+> Even the bread, they said, was sweet.  When they first tasted the
+> food they held it gingerly and took very little bites, but all of it
+> was eaten except the cookies.  They were too sweet.  Later, gifts
+> were distributed for the Mission Cheer Committee to each
+> family”. (Wagner Newsletter, March 1955)
+
 Celebrating the family Christmas at home in their ‘Bush’ house, Mrs. Ruth
 Wagner states:
-“In our little home there was a simple Christmas tree on the table
-made of branches of the Napi tree on which were hung tiny
-ornaments and tinsel sent by friends in the States.  With a piece
-of a white sheet underneath around the tin can in which the tree
-rested, with boxes from home waiting to be opened, with Sarah
-[Reverend William and Ruth’s first daughter] in her bassinet and
-the story of the birth of Jesus still sounding in our hearts we had
-a lovely, simple Christmas eve”.
- [Wagner Newsletter, March
-1955]
 
-==> text/035.txt <==
-Haus Sik
-Missionaries and their families gather for
-evening bible class led by Reverend Wagner
-[Photo courtesy Edward C. May]
-Missionaries take
-instruction
-from Reverend
-William Wagner,
-an expert linguist
-[Photo courtesy
-Edward C. May]
- Rakada [center man, facing]
-is Rev. Wagner's 'Doctor Boy'
-Previous
-Transportation in the Highlands
-Jeep and motorcycle
-Click
-HERE
-to hear
-Mrs.
-Wagner
-Click HERE to hear
-Mrs. Wagner
+> “In our little home there was a simple Christmas tree on the table
+> made of branches of the Napi tree on which were hung tiny
+> ornaments and tinsel sent by friends in the States.  With a piece
+> of a white sheet underneath around the tin can in which the tree
+> rested, with boxes from home waiting to be opened, with Sarah
+> (Reverend William and Ruth’s first daughter) in her bassinet and
+> the story of the birth of Jesus still sounding in our hearts we had
+> a lovely, simple Christmas eve”. (Wagner Newsletter, March 1955)
+
+![Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’](images/035-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/035-001.mp3)
 
+![Haus Sik](images/035-04.jpg)
+
+![Missionaries and their families gather for evening bible class led by Reverend Wagner (Photo courtesy Edward C. May)](images/035-01.jpg)
+
+![Missionaries take instruction from Reverend William Wagner, an expert linguist (Photo courtesy Edward C. May)](images/035-05.jpg)
+
 [Click HERE to hear Mrs. Wagner](audio/035-002.mp3)
 
-![images/035-01.jpg](images/035-01.jpg)
-
-![images/035-02.jpg](images/035-02.jpg)
-
-![images/035-03.jpg](images/035-03.jpg)
-
-![images/035-04.jpg](images/035-04.jpg)
-
-![images/035-05.jpg](images/035-05.jpg)
+![Transportation in the Highlands Jeep and motorcycle](images/035-02.jpg)
 
 
+## Reverend William P. Wagner - His Missionary Duties
 
-==> text/036.txt <==
 Reverend Wagner worked long days in the Western Highlands of New
 Guinea and did it all on his Indian motorcyle, later replaced by two [2]
 other bikes, but the Indian was his favorite.  His work took him to the
 hydroplant, the hospital, the prison, carpentry duties, repairing the Land
 Rovers, and preparing lessons for language classes.
+
 Twice a week, Reverend Wagner taught at the government school, and
 also held class for missionaries who had not mastered the Enga language.
 During the mornings, he taught religion at one of the mission schools and
-also taught religion classes for the 'Doctor Boys,' who were young Enga
+also taught religion classes for the ‘Doctor Boys,’ who were young Enga
 men trained by a medical team to help the MDs.  The 'Doctor Boy' worked
 in a 'Haus Sik' which is a Pidgin word for clinic.  These  clinics were
 located at many of the mission stations.
+
 While at Mambisanda, in the afternoons, Reverend Wagner fulfilled his
 duties as the New Guinean prison chaplain at Wapenamanda, where he
 would give counsel and hold services for the inmates.  The Warden,
 prison guards, policemen, and other prison personnel would also gather
 their families to listen to Reverend Wagner's Gospel as he was also their
 pastor.  A Bible class was held for them following service.
+
 One evening a week, he prepared Enga policemen and their families for
 baptisms; also on another evening, missionaries and their families
 gathered for Bible study led by Reverend Wagner.
+
 On Fridays, he instructed Enga evangelists and elders of the
 congregations in his territory.  Reverend Wagner was a very busy man.
-Reverend William P. Wagner - His Missionary Duties
-Next
 
-==> text/037.txt <==
-Click HERE to hear
-Mrs. Wagner
-Click HERE to stop audio
-Bill has the ability and finds time
-to service and maintain the
-power plant [Photo courtsey of
-Edward C. May]
-Bill fashions a piece of crude
-lumber into a finished board for
-the altar [Photo courtsey of
-Edward C. May]
-Distant church on Walkabout
-Mitianda means Gospel House in Enga
-- where Rev. Wagner has catechetical
-instructions and devotions
-Previous
+![Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions](images/037-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/037-001.mp3)
 
-![images/037-01.jpg](images/037-01.jpg)
+![Bill fashions a piece of crude lumber into a finished board for the altar (Photo courtsey of Edward C. May)](images/037-03.jpg)
 
-![images/037-02.jpg](images/037-02.jpg)
+![Distant church on Walkabout](images/037-04.jpg)
 
-![images/037-03.jpg](images/037-03.jpg)
+![Bill has the ability and finds time to service and maintain the power plant (Photo courtsey of Edward C. May)](images/037-01.jpg)
 
-![images/037-04.jpg](images/037-04.jpg)
-
-
-
-==> text/038.txt <==
 A typical Sunday for Reverend Wagner consisted of five to six church
 services for missionary personnel stationed in or around Mambisanda.
 He would then walk three or so miles to reach one of the out-station
 churches where he would conduct one or two communion services in the
 Enga tongue.
+
 He was also hospital chaplain, counseling elders of his congregation who
 visited Enga patients.  When missionaries, their wives, or other European
 patients were registered, he or his wife, Mrs. Ruth Wagner, visited them
 personally.
+
 Reverend Wagner also set aside two nights a week for study and prayer.
 This time was guarded and employed conscientiously because without
 consistent study, the rest of his program would become empty and futlle.
 Reverend Wagner worked 60 hours a week, but this was not all -
+
 In a culture that had never seen the wheel, a screw, or a nail, developing
 tradesmen like carpenters, electricians, or mechanics was a difficult job.
 So, Reverend Wagner worked on the complex engines in Land Rovers and
 dynamos in hydro and diesel electric plants.  He serviced and maintained
 the power plant, motorcycles, and other power equipment that kept the
 mission station at Mambisanda in working order.
+
 In one instance, a nurse at one of the out-stations had just radioed in
 that her motorcycle had broken down and no one could fix it.  This
 emergency was for Reverend Wagner, because tomorrow she must visit
-the sick with medicine [May, Edward C., "Triple-Threat Missionary," The
-Lutheran Witness. Jan. 21, 1964].
-Next
-Cont'd
+the sick with medicine (May, Edward C., "Triple-Threat Missionary," The
+Lutheran Witness. Jan. 21, 1964).
 
-==> text/039.txt <==
-This is the Wagner Mission Radio Log Book.
-It contains handwritten messages to be sent
-by receiver.  After the message had been
-relayed and received, it was crossed out only
-once as it may need to be read again.
-"Click" Book to Open in PDF Format
-Previous
-Click HERE
-to hear Mrs. Wagner
+![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](images/039-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/039-001.mp3)
 
-![images/039-01.jpg](images/039-01.jpg)
+## KEEPING IN TOUCH - Communication New Guinea Style
 
+> Imagine living in a lonely outpost with no near neighbors outside
+> a few friendly natives.  No one to talk to over coffee, none of
+> your friends around to help out in case of emergency, no
+> newspaper, telephone, mailman, corner grocery, what would you
+> do? (Dicke, Ed. Mission Accessories).
 
-
-==> text/040.txt <==
-KEEPING IN TOUCH - Communication New Guinea Style
-Next
-Imagine living in a lonely outpost with no near neighbors outside
-a few friendly natives.  No one to talk to over coffee, none of
-your friends around to help out in case of emergency, no
-newspaper, telephone, mailman, corner grocery, what would you
-do?
- [Dicke, Ed. Mission Accessories].
 The Wagners, along with the rest of the missionaries, lived in this type of
 situation.  They often lived very far from each other -
+
+> as much as a twenty-hour hike up and down the mountains (Dicke, Ed. Mission Accessories).
+
 How did the missionaries keep in touch?  Well - they communicated
 through a receiver, a device similar to a radio.
+
+> At special times of the day, 8 a.m., noonday, and 5 p.m.,  you get
+> a chance to talk while everybody listens.  It is the only opportunity
+> to get the news and keep in touch with each other. Nurses
+> stationed in remote territories can get in touch with a doctor for
+> counsel on difficult medical problems and keep him informed on
+> patients progress.  Groceries and supplies from the business office
+> are ordered by transceiver - saving someone a three, or  four day
+> walk.  News was also collected from the 'outside' (Dickie, Ed. Mission Accessories)
+
 The receivers were powered by automobile batteries and their wavelength
 was limited to only the mission territory.  The New Guinean field had a
 system of ten receivers that were provided by a grant from the Lutheran
 Women's Mission League.
-At special times of the day, 8 a.m., noonday, and 5 p.m.,  you get
-a chance to talk while everybody listens.  It is the only opportunity
-to get the news and keep in touch with each other. Nurses
-stationed in remote territories can get in touch with a doctor for
-counsel on difficult medical problems and keep him informed on
-patients progress.  Groceries and supplies from the business office
-are ordered by transceiver - saving someone a three, or  four day
-walk.  News was also collected from the 'outside'
-[Dickie, Ed.
-Mission Accessories]
-as much as a twenty-hour hike up and down the mountains
-[Dicke, Ed. Mission Accessories].
 
 ==> text/041.txt <==
 New road still under construction
