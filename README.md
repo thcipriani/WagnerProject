@@ -389,13 +389,21 @@ Kitchen Pantry; notice floor
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/023-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/023-002.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/023-003.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/023-004.mp3)
+
 ![images/023-01.jpg](images/023-01.jpg)
+
 ![images/023-02.jpg](images/023-02.jpg)
+
 ![images/023-03.jpg](images/023-03.jpg)
+
 ![images/023-04.jpg](images/023-04.jpg)
+
 
 
 ==> text/024.txt <==
@@ -471,8 +479,11 @@ to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/025-001.mp3)
+
 ![images/025-01.jpg](images/025-01.jpg)
+
 ![images/025-02.jpg](images/025-02.jpg)
+
 
 
 ==> text/026.txt <==
@@ -504,6 +515,7 @@ Click HERE to hear Mrs. Wagner
 [Click HERE to hear Mrs. Wagner](audio/026-001.mp3)
 
 
+
 ==> text/027.txt <==
 Mrs. Wagner's Australian wood-
 burning cook stove in bush house
@@ -517,10 +529,15 @@ Click HERE to
 hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/027-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/027-002.mp3)
+
 ![images/027-01.jpg](images/027-01.jpg)
+
 ![images/027-02.jpg](images/027-02.jpg)
+
 ![images/027-03.jpg](images/027-03.jpg)
+
 
 
 ==> text/028.txt <==
@@ -562,8 +579,11 @@ Guinea
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/029-001.mp3)
+
 ![images/029-01.jpg](images/029-01.jpg)
+
 ![images/029-02.jpg](images/029-02.jpg)
+
 
 
 ==> text/030.txt <==
@@ -644,8 +664,11 @@ to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/031-001.mp3)
+
 ![images/031-01.jpg](images/031-01.jpg)
+
 ![images/031-02.jpg](images/031-02.jpg)
+
 
 
 ==> text/032.txt <==
@@ -685,7 +708,9 @@ Christmas time in New Guinea
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/033-001.mp3)
+
 ![images/033-01.jpg](images/033-01.jpg)
+
 
 
 ==> text/034.txt <==
@@ -747,12 +772,19 @@ Click HERE to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/035-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/035-002.mp3)
+
 ![images/035-01.jpg](images/035-01.jpg)
+
 ![images/035-02.jpg](images/035-02.jpg)
+
 ![images/035-03.jpg](images/035-03.jpg)
+
 ![images/035-04.jpg](images/035-04.jpg)
+
 ![images/035-05.jpg](images/035-05.jpg)
+
 
 
 ==> text/036.txt <==
@@ -801,10 +833,15 @@ instructions and devotions
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/037-001.mp3)
+
 ![images/037-01.jpg](images/037-01.jpg)
+
 ![images/037-02.jpg](images/037-02.jpg)
+
 ![images/037-03.jpg](images/037-03.jpg)
+
 ![images/037-04.jpg](images/037-04.jpg)
+
 
 
 ==> text/038.txt <==
@@ -847,7 +884,9 @@ Click HERE
 to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/039-001.mp3)
+
 ![images/039-01.jpg](images/039-01.jpg)
+
 
 
 ==> text/040.txt <==
@@ -901,11 +940,17 @@ Click HERE to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/041-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/041-002.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/041-003.mp3)
+
 ![images/041-01.jpg](images/041-01.jpg)
+
 ![images/041-02.jpg](images/041-02.jpg)
+
 ![images/041-03.jpg](images/041-03.jpg)
+
 
 
 ==> text/042.txt <==
@@ -957,9 +1002,13 @@ stop
  audio
 
 [Click HERE to hear Mrs. Wagner](audio/043-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/043-002.mp3)
+
 ![images/043-01.jpg](images/043-01.jpg)
+
 ![images/043-02.jpg](images/043-02.jpg)
+
 
 
 ==> text/044.txt <==
@@ -994,10 +1043,15 @@ Click HERE to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
+
 ![images/045-01.jpg](images/045-01.jpg)
+
 ![images/045-02.jpg](images/045-02.jpg)
+
 ![images/045-03.jpg](images/045-03.jpg)
+
 ![images/045-04.jpg](images/045-04.jpg)
+
 
 
 ==> text/046.txt <==
@@ -1037,8 +1091,11 @@ Click HERE to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/047-001.mp3)
+
 ![images/047-01.jpg](images/047-01.jpg)
+
 ![images/047-02.jpg](images/047-02.jpg)
+
 
 
 ==> text/048.txt <==
@@ -1071,7 +1128,9 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/049-001.mp3)
+
 ![images/049-01.jpg](images/049-01.jpg)
+
 
 
 ==> text/050.txt <==
@@ -1105,6 +1164,7 @@ Returning to the United States; at the Airport in  Honolulu, Hawaii
 Previous
 
 ![images/051-01.jpg](images/051-01.jpg)
+
 
 
 ==> text/052.txt <==
@@ -1149,6 +1209,7 @@ Click Map to Enlarge
 ![images/053-01.jpg](images/053-01.jpg)
 
 
+
 ==> text/054.txt <==
 THE WESTERN HIGHLANDS PROVINCE: The Enga People
 Where is Enga Province?
@@ -1181,6 +1242,7 @@ Previous
 ![images/055-01.jpg](images/055-01.jpg)
 
 
+
 ==> text/056.txt <==
 Click HERE to hear Mrs. Wagner
 WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction
@@ -1207,7 +1269,9 @@ were ready to begin their work as missionaries with the Enga people of
 the Enga Province.
 
 [Click HERE to hear Mrs. Wagner](audio/056-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/056-002.mp3)
+
 
 
 ==> text/057.txt <==
@@ -1242,9 +1306,13 @@ inside
 Previous
 
 ![images/057-01.jpg](images/057-01.jpg)
+
 ![images/057-02.jpg](images/057-02.jpg)
+
 ![images/057-03.jpg](images/057-03.jpg)
+
 ![images/057-04.jpg](images/057-04.jpg)
+
 
 
 ==> text/058.txt <==
@@ -1274,12 +1342,14 @@ Cont'd
 [Click HERE to hear Mrs. Wagner](audio/058-001.mp3)
 
 
+
 ==> text/059.txt <==
 Ta[m]bu: Gate with a spell telling all who approach -
 "Do not pass" or "Keep Out"
 Previous
 
 ![images/059-01.jpg](images/059-01.jpg)
+
 
 
 ==> text/060.txt <==
@@ -1305,6 +1375,7 @@ Click HERE to stop audio
 [Click HERE to hear Mrs. Wagner](audio/060-001.mp3)
 
 
+
 ==> text/061.txt <==
 Boys from five years of age
 and older live in the men’s
@@ -1324,8 +1395,11 @@ baby by stimulating the genitals
 Previous
 
 ![images/061-01.jpg](images/061-01.jpg)
+
 ![images/061-02.jpg](images/061-02.jpg)
+
 ![images/061-03.jpg](images/061-03.jpg)
+
 
 
 ==> text/062.txt <==
@@ -1353,6 +1427,7 @@ birth; the parents wait for a month or two to see if the child lives before
 naming him/her.
 
 [Click HERE to hear Mrs. Wagner](audio/062-001.mp3)
+
 
 
 ==> text/063.txt <==
@@ -1393,8 +1468,11 @@ large extent
 Previous
 
 ![images/063-01.jpg](images/063-01.jpg)
+
 ![images/063-02.jpg](images/063-02.jpg)
+
 ![images/063-03.jpg](images/063-03.jpg)
+
 
 
 ==> text/064.txt <==
@@ -1416,6 +1494,7 @@ Next
 [Click HERE to hear Mrs. Wagner](audio/064-001.mp3)
 
 
+
 ==> text/065.txt <==
 Enga Man's House
 Enga Woman's House
@@ -1426,9 +1505,13 @@ to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/065-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/065-002.mp3)
+
 ![images/065-01.jpg](images/065-01.jpg)
+
 ![images/065-02.jpg](images/065-02.jpg)
+
 
 
 ==> text/066.txt <==
@@ -1457,6 +1540,7 @@ Click HERE to stop audio
 [Click HERE to hear Mrs. Wagner](audio/066-001.mp3)
 
 
+
 ==> text/067.txt <==
 The Sandalu Ceremony [The Bachelor Cult] - Where young bachelors
 are transformed into attractive, socially competent, young men
@@ -1468,8 +1552,11 @@ Ceremonies are also held
 Previous
 
 ![images/067-01.jpg](images/067-01.jpg)
+
 ![images/067-02.jpg](images/067-02.jpg)
+
 ![images/067-03.jpg](images/067-03.jpg)
+
 
 
 ==> text/068.txt <==
@@ -1494,6 +1581,7 @@ Click HERE to hear Mrs. Wagner
 [Click HERE to hear Mrs. Wagner](audio/068-001.mp3)
 
 
+
 ==> text/069.txt <==
 Click HERE to hear Mrs. Wagner
 Click HERE to stop audio
@@ -1501,7 +1589,9 @@ Picture of happy bride
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/069-001.mp3)
+
 ![images/069-01.jpg](images/069-01.jpg)
+
 
 
 ==> text/070.txt <==
@@ -1532,6 +1622,7 @@ Click HERE to stop audio
 [Click HERE to hear Mrs. Wagner](audio/070-001.mp3)
 
 
+
 ==> text/071.txt <==
 As punishment for committing adultery, a husband would cut
 off the front of his wife's nose. This woman covers what was
@@ -1540,6 +1631,7 @@ men are not punished for committing the same act.
 Previous
 
 ![images/071-01.jpg](images/071-01.jpg)
+
 
 
 ==> text/072.txt <==
@@ -1558,6 +1650,7 @@ Click HERE to hear Mrs. Wagner
 [Click HERE to hear Mrs. Wagner](audio/072-001.mp3)
 
 
+
 ==> text/073.txt <==
 Enga grief
 Enga Grief
@@ -1565,7 +1658,9 @@ Click HERE to hear Mrs. Wagner
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/073-001.mp3)
+
 ![images/073-01.jpg](images/073-01.jpg)
+
 
 
 ==> text/074.txt <==
@@ -1592,6 +1687,7 @@ frost either harms or kills the sweet potato vines.
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/074-001.mp3)
+
 
 
 ==> text/075.txt <==
@@ -1624,9 +1720,13 @@ Girl wearing a “kuta”
 Previous
 
 ![images/075-01.jpg](images/075-01.jpg)
+
 ![images/075-02.jpg](images/075-02.jpg)
+
 ![images/075-03.jpg](images/075-03.jpg)
+
 ![images/075-04.jpg](images/075-04.jpg)
+
 
 
 ==> text/076.txt <==
@@ -1652,6 +1752,7 @@ to a belt.
 [Click HERE to hear Mrs. Wagner](audio/076-001.mp3)
 
 
+
 ==> text/077.txt <==
 Sweet potato garden - Enga
 children between sweet potato
@@ -1667,9 +1768,13 @@ stick in sweet potato
 garden
 
 ![images/077-01.jpg](images/077-01.jpg)
+
 ![images/077-02.jpg](images/077-02.jpg)
+
 ![images/077-03.jpg](images/077-03.jpg)
+
 ![images/077-04.jpg](images/077-04.jpg)
+
 
 
 ==> text/078.txt <==
@@ -1689,6 +1794,7 @@ Next
 [Click HERE to hear Mrs. Wagner](audio/078-001.mp3)
 
 
+
 ==> text/079.txt <==
 The Enga kept the Sacred
 Stone in the "V" of a
@@ -1705,7 +1811,9 @@ men in the background
 Previous
 
 ![images/079-01.jpg](images/079-01.jpg)
+
 ![images/079-02.jpg](images/079-02.jpg)
+
 
 
 ==> text/080.txt <==
@@ -1724,6 +1832,7 @@ Click HERE to hear Mrs. Wagner
 Click HERE to stop audio
 
 [Click HERE to hear Mrs. Wagner](audio/080-001.mp3)
+
 
 
 ==> text/081.txt <==
@@ -1758,9 +1867,13 @@ public during a Te Cycle of the
 of Norma L. Heinicke]
 
 ![images/081-01.jpg](images/081-01.jpg)
+
 ![images/081-02.jpg](images/081-02.jpg)
+
 ![images/081-03.jpg](images/081-03.jpg)
+
 ![images/081-04.jpg](images/081-04.jpg)
+
 
 
 ==> text/082.txt <==
@@ -1785,7 +1898,9 @@ knock-down agent in DDT.  The Australian government and the Mission
 introduced other 'cash crops' as well.  Listen Below -
 
 [Click HERE to hear Mrs. Wagner](audio/082-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/082-002.mp3)
+
 
 
 ==> text/083.txt <==
@@ -1805,9 +1920,13 @@ Using a tool to shred a leaf for thread
 Previous
 
 ![images/083-01.jpg](images/083-01.jpg)
+
 ![images/083-02.jpg](images/083-02.jpg)
+
 ![images/083-03.jpg](images/083-03.jpg)
+
 ![images/083-04.jpg](images/083-04.jpg)
+
 
 
 ==> text/084.txt <==
@@ -1831,6 +1950,7 @@ Skills & Handicrafts
 [Click HERE to hear Mrs. Wagner](audio/084-001.mp3)
 
 
+
 ==> text/085.txt <==
 Duna boy has carved comb and
 net bag - Hewa man on the [L]
@@ -1847,8 +1967,11 @@ arrows; and other mentioned items
 Previous
 
 ![images/085-01.jpg](images/085-01.jpg)
+
 ![images/085-02.jpg](images/085-02.jpg)
+
 ![images/085-03.jpg](images/085-03.jpg)
+
 
 
 ==> text/086.txt <==
@@ -1894,6 +2017,7 @@ Next
 [Click HERE to hear Mrs. Wagner](audio/086-001.mp3)
 
 
+
 ==> text/087.txt <==
 Click
 HERE to
@@ -1913,9 +2037,13 @@ Late 1960s
 Previous
 
 [Click HERE to hear Mrs. Wagner](audio/087-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/087-002.mp3)
+
 ![images/087-01.jpg](images/087-01.jpg)
+
 ![images/087-02.jpg](images/087-02.jpg)
+
 
 
 ==> text/088.txt <==
@@ -1933,6 +2061,7 @@ Next
 [Click HERE to hear Mrs. Wagner](audio/088-001.mp3)
 
 
+
 ==> text/089.txt <==
 Previous
 <http://www.sil.org/pacific/png/maps/SHP_Enga_small.jpg>
@@ -1942,7 +2071,9 @@ north-western area, and the Duna live South-West of the Hewa
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/089-001.mp3)
+
 ![images/089-01.jpg](images/089-01.jpg)
+
 
 
 ==> text/090.txt <==
@@ -1990,8 +2121,11 @@ people who do this.  The Enga and Hewa
 men do not.
 
 ![images/091-01.jpg](images/091-01.jpg)
+
 ![images/091-02.jpg](images/091-02.jpg)
+
 ![images/091-03.jpg](images/091-03.jpg)
+
 
 
 ==> text/092.txt <==
@@ -2020,6 +2154,7 @@ Next
 [Click HERE to hear Mrs. Wagner](audio/092-001.mp3)
 
 
+
 ==> text/093.txt <==
 Lake Kopiago;
 Duna Men
@@ -2033,9 +2168,13 @@ Click HERE to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/093-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/093-002.mp3)
+
 ![images/093-01.jpg](images/093-01.jpg)
+
 ![images/093-02.jpg](images/093-02.jpg)
+
 
 
 ==> text/094.txt <==
@@ -2077,8 +2216,11 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/095-001.mp3)
+
 ![images/095-01.jpg](images/095-01.jpg)
+
 ![images/095-02.jpg](images/095-02.jpg)
+
 
 
 ==> text/096.txt <==
@@ -2106,6 +2248,7 @@ establish the work”
 [Click HERE to hear Mrs. Wagner](audio/096-001.mp3)
 
 
+
 ==> text/097.txt <==
 Previous
 Photo on Left:
@@ -2123,9 +2266,13 @@ to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/097-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/097-002.mp3)
+
 ![images/097-01.jpg](images/097-01.jpg)
+
 ![images/097-02.jpg](images/097-02.jpg)
+
 
 
 ==> text/098.txt <==
@@ -2178,10 +2325,15 @@ Click HERE to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/099-001.mp3)
+
 ![images/099-01.jpg](images/099-01.jpg)
+
 ![images/099-02.jpg](images/099-02.jpg)
+
 ![images/099-03.jpg](images/099-03.jpg)
+
 ![images/099-04.jpg](images/099-04.jpg)
+
 
 
 ==> text/100.txt <==
@@ -2232,9 +2384,13 @@ Mrs.
 Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/101-001.mp3)
+
 ![images/101-01.jpg](images/101-01.jpg)
+
 ![images/101-02.jpg](images/101-02.jpg)
+
 ![images/101-03.jpg](images/101-03.jpg)
+
 
 
 ==> text/102.txt <==
@@ -2294,9 +2450,13 @@ Hewa man standing
 behind
 
 [Click HERE to hear Mrs. Wagner](audio/103-001.mp3)
+
 ![images/103-01.jpg](images/103-01.jpg)
+
 ![images/103-02.jpg](images/103-02.jpg)
+
 ![images/103-03.jpg](images/103-03.jpg)
+
 
 
 ==> text/104.txt <==
@@ -2325,6 +2485,7 @@ decided for the sake of their family to go back to the United States.
 [Click HERE to hear Mrs. Wagner](audio/104-001.mp3)
 
 
+
 ==> text/105.txt <==
 2005.08.001
  L 10" x W 1.75"
@@ -2334,8 +2495,11 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/105-001.mp3)
+
 ![images/105-01.jpg](images/105-01.jpg)
+
 ![images/105-02.jpg](images/105-02.jpg)
+
 
 
 ==> text/106.txt <==
@@ -2365,8 +2529,11 @@ Previous
 Click HERE to view film clip
 
 ![images/107-01.jpg](images/107-01.jpg)
+
 ![images/107-02.jpg](images/107-02.jpg)
+
 ![images/107-03.jpg](images/107-03.jpg)
+
 
 
 ==> text/108.txt <==
@@ -2409,8 +2576,11 @@ for film clip
 Previous
 
 ![images/109-01.jpg](images/109-01.jpg)
+
 ![images/109-02.jpg](images/109-02.jpg)
+
 ![images/109-03.jpg](images/109-03.jpg)
+
 
 
 ==> text/110.txt <==
@@ -2461,13 +2631,21 @@ Information provided by
 Kristen Wagner
 
 ![images/111-01.jpg](images/111-01.jpg)
+
 ![images/111-02.jpg](images/111-02.jpg)
+
 ![images/111-03.jpg](images/111-03.jpg)
+
 ![images/111-04.jpg](images/111-04.jpg)
+
 ![images/111-05.jpg](images/111-05.jpg)
+
 ![images/111-06.jpg](images/111-06.jpg)
+
 ![images/111-07.jpg](images/111-07.jpg)
+
 ![images/111-08.jpg](images/111-08.jpg)
+
 
 
 ==> text/112.txt <==
@@ -2513,13 +2691,21 @@ Click HERE to
 hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/113-001.mp3)
+
 [Click HERE to hear Mrs. Wagner](audio/113-002.mp3)
+
 ![images/113-01.jpg](images/113-01.jpg)
+
 ![images/113-02.jpg](images/113-02.jpg)
+
 ![images/113-03.jpg](images/113-03.jpg)
+
 ![images/113-04.jpg](images/113-04.jpg)
+
 ![images/113-05.jpg](images/113-05.jpg)
+
 ![images/113-06.jpg](images/113-06.jpg)
+
 
 
 ==> text/114.txt <==
@@ -2558,9 +2744,13 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/115-001.mp3)
+
 ![images/115-01.jpg](images/115-01.jpg)
+
 ![images/115-02.jpg](images/115-02.jpg)
+
 ![images/115-03.jpg](images/115-03.jpg)
+
 
 
 ==> text/116.txt <==
@@ -2583,6 +2773,7 @@ leaves.  Rolled plant fiber used as stitching. L 48" x W 34"
 ![images/116-01.jpg](images/116-01.jpg)
 
 
+
 ==> text/117.txt <==
 2006.02.003
   L 12"
@@ -2593,9 +2784,13 @@ Click HERE to hear Mrs. Wagner
 Click HERE to stop audio
 
 [Click HERE to hear Mrs. Wagner](audio/117-001.mp3)
+
 ![images/117-01.jpg](images/117-01.jpg)
+
 ![images/117-02.jpg](images/117-02.jpg)
+
 ![images/117-03.jpg](images/117-03.jpg)
+
 
 
 ==> text/118.txt <==
@@ -2618,6 +2813,7 @@ to a point.  L 12"
 ![images/118-01.jpg](images/118-01.jpg)
 
 
+
 ==> text/119.txt <==
 2006.02.007
 L 11"
@@ -2630,10 +2826,15 @@ L 13.66" x Circum. Big End 9.25" - Mouth 4"
 Previous
 
 ![images/119-01.jpg](images/119-01.jpg)
+
 ![images/119-02.jpg](images/119-02.jpg)
+
 ![images/119-03.jpg](images/119-03.jpg)
+
 ![images/119-04.jpg](images/119-04.jpg)
+
 ![images/119-05.jpg](images/119-05.jpg)
+
 
 
 ==> text/120.txt <==
@@ -2707,6 +2908,7 @@ We just slept there.  The building off to the side is one of Otto's
 [Click HERE to hear Mrs. Wagner](audio/120-001.mp3)
 
 
+
 ==> text/121.txt <==
 2006.02.005
 L 28" x Circum. 19" around the drum head
@@ -2717,7 +2919,9 @@ Click HERE to hear Mrs. Wagner
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/121-001.mp3)
+
 ![images/121-01.jpg](images/121-01.jpg)
+
 
 
 ==> text/122.txt <==
@@ -2752,8 +2956,11 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/123-001.mp3)
+
 ![images/123-01.jpg](images/123-01.jpg)
+
 ![images/123-02.jpg](images/123-02.jpg)
+
 
 
 ==> text/124.txt <==
@@ -2790,8 +2997,11 @@ musical twangs.”
 [Stephanie Wagner, email 04/02/2007]
 
 ![images/125-01.jpg](images/125-01.jpg)
+
 ![images/125-02.jpg](images/125-02.jpg)
+
 ![images/125-03.jpg](images/125-03.jpg)
+
 
 
 ==> text/126.txt <==
@@ -2825,8 +3035,11 @@ Next
 Previous
 
 ![images/127-01.jpg](images/127-01.jpg)
+
 ![images/127-02.jpg](images/127-02.jpg)
+
 ![images/127-03.jpg](images/127-03.jpg)
+
 
 
 ==> text/128.txt <==
@@ -2850,6 +3063,7 @@ Next
 ![images/128-01.jpg](images/128-01.jpg)
 
 
+
 ==> text/129.txt <==
 2006.02.022
 L 19"
@@ -2868,11 +3082,17 @@ to hear
 Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/129-001.mp3)
+
 ![images/129-01.jpg](images/129-01.jpg)
+
 ![images/129-02.jpg](images/129-02.jpg)
+
 ![images/129-03.jpg](images/129-03.jpg)
+
 ![images/129-04.jpg](images/129-04.jpg)
+
 ![images/129-05.jpg](images/129-05.jpg)
+
 
 
 ==> text/130.txt <==
@@ -2906,7 +3126,9 @@ L 7.25"
 Previous
 
 ![images/131-01.jpg](images/131-01.jpg)
+
 ![images/131-02.jpg](images/131-02.jpg)
+
 
 
 ==> text/132.txt <==
@@ -2931,7 +3153,9 @@ L 22.5"
 Previous
 
 ![images/133-01.jpg](images/133-01.jpg)
+
 ![images/133-02.jpg](images/133-02.jpg)
+
 
 
 ==> text/134.txt <==
@@ -2965,8 +3189,11 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/135-001.mp3)
+
 ![images/135-01.jpg](images/135-01.jpg)
+
 ![images/135-02.jpg](images/135-02.jpg)
+
 
 
 ==> text/136.txt <==
@@ -2995,6 +3222,7 @@ Next
 ![images/136-01.jpg](images/136-01.jpg)
 
 
+
 ==> text/137.txt <==
 2006.02.012
  L 29.5" x W 4.5"
@@ -3002,8 +3230,11 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/137-001.mp3)
+
 ![images/137-01.jpg](images/137-01.jpg)
+
 ![images/137-02.jpg](images/137-02.jpg)
+
 
 
 ==> text/138.txt <==
@@ -3055,8 +3286,11 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/139-001.mp3)
+
 ![images/139-01.jpg](images/139-01.jpg)
+
 ![images/139-02.jpg](images/139-02.jpg)
+
 
 
 ==> text/140.txt <==
@@ -3074,6 +3308,7 @@ H 3.7" x Diam. 12.2"
 ![images/140-01.jpg](images/140-01.jpg)
 
 
+
 ==> text/141.txt <==
 2006.02.032
 L 23" x W 18"
@@ -3082,8 +3317,11 @@ L 22" x W 12"
 Previous
 
 ![images/141-01.jpg](images/141-01.jpg)
+
 ![images/141-02.jpg](images/141-02.jpg)
+
 ![images/141-03.jpg](images/141-03.jpg)
+
 
 
 ==> text/142.txt <==
@@ -3114,6 +3352,7 @@ Highland Pig-Killing Aprons
 ![images/142-01.jpg](images/142-01.jpg)
 
 
+
 ==> text/143.txt <==
 2006.02.010
 L 14' & 24" x W 2" & 9"
@@ -3126,10 +3365,15 @@ L 16.75" & 12" x W 35"
 Previous
 
 ![images/143-01.jpg](images/143-01.jpg)
+
 ![images/143-02.jpg](images/143-02.jpg)
+
 ![images/143-03.jpg](images/143-03.jpg)
+
 ![images/143-04.jpg](images/143-04.jpg)
+
 ![images/143-05.jpg](images/143-05.jpg)
+
 
 
 ==> text/144.txt <==
@@ -3197,7 +3441,9 @@ We just slept there.  The building off to the side is one of Otto's
 8
 
 [Click HERE to hear Mrs. Wagner](audio/144-001.mp3)
+
 ![images/144-01.jpg](images/144-01.jpg)
+
 
 
 ==> text/145.txt <==
@@ -3206,6 +3452,7 @@ We just slept there.  The building off to the side is one of Otto's
 Previous
 
 ![images/145-01.jpg](images/145-01.jpg)
+
 
 
 ==> text/146.txt <==
@@ -3233,9 +3480,13 @@ L 10" x 3 3/8"
 Previous
 
 ![images/147-01.jpg](images/147-01.jpg)
+
 ![images/147-02.jpg](images/147-02.jpg)
+
 ![images/147-03.jpg](images/147-03.jpg)
+
 ![images/147-04.jpg](images/147-04.jpg)
+
 
 
 ==> text/148.txt <==
@@ -3266,6 +3517,7 @@ Next
 ![images/148-01.jpg](images/148-01.jpg)
 
 
+
 ==> text/149.txt <==
 2005.08.073
 L 19.75" x Diam. 7.75"
@@ -3273,7 +3525,9 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/149-001.mp3)
+
 ![images/149-01.jpg](images/149-01.jpg)
+
 
 
 ==> text/150.txt <==
@@ -3291,6 +3545,7 @@ Next
 ![images/150-01.jpg](images/150-01.jpg)
 
 
+
 ==> text/151.txt <==
 2006.02.034
 L 5.25" x Diam. 4"
@@ -3299,7 +3554,9 @@ L 10.6"
 Previous
 
 ![images/151-01.jpg](images/151-01.jpg)
+
 ![images/151-02.jpg](images/151-02.jpg)
+
 
 
 ==> text/152.txt <==
@@ -3324,6 +3581,7 @@ Next
 ![images/152-01.jpg](images/152-01.jpg)
 
 
+
 ==> text/153.txt <==
 2005.08.067
 10" x Diam. 1.25"
@@ -3332,7 +3590,9 @@ L 10.5" x Diam. 1.5"
 Previous
 
 ![images/153-01.jpg](images/153-01.jpg)
+
 ![images/153-02.jpg](images/153-02.jpg)
+
 
 
 ==> text/154.txt <==
@@ -3355,6 +3615,7 @@ Next
 ![images/154-01.jpg](images/154-01.jpg)
 
 
+
 ==> text/155.txt <==
 2006.02.020a
 H 4" x W 6" x Depth 3.5"
@@ -3369,9 +3630,13 @@ at each end
 Previous
 
 ![images/155-01.jpg](images/155-01.jpg)
+
 ![images/155-02.jpg](images/155-02.jpg)
+
 ![images/155-03.jpg](images/155-03.jpg)
+
 ![images/155-04.jpg](images/155-04.jpg)
+
 
 
 ==> text/156.txt <==
@@ -3408,6 +3673,7 @@ Next
 [Click HERE to hear Mrs. Wagner](audio/156-001.mp3)
 
 
+
 ==> text/157.txt <==
 2006.02.049
 Diam. 6.5"
@@ -3421,10 +3687,15 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/157-001.mp3)
+
 ![images/157-01.jpg](images/157-01.jpg)
+
 ![images/157-02.jpg](images/157-02.jpg)
+
 ![images/157-03.jpg](images/157-03.jpg)
+
 ![images/157-04.jpg](images/157-04.jpg)
+
 
 
 ==> text/158.txt <==
@@ -3462,7 +3733,9 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/159-001.mp3)
+
 ![images/159-01.jpg](images/159-01.jpg)
+
 
 
 ==> text/160.txt <==
@@ -3517,13 +3790,21 @@ to hear
 Mrs.Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/161-001.mp3)
+
 ![images/161-01.jpg](images/161-01.jpg)
+
 ![images/161-02.jpg](images/161-02.jpg)
+
 ![images/161-03.jpg](images/161-03.jpg)
+
 ![images/161-04.jpg](images/161-04.jpg)
+
 ![images/161-05.jpg](images/161-05.jpg)
+
 ![images/161-06.jpg](images/161-06.jpg)
+
 ![images/161-07.jpg](images/161-07.jpg)
+
 
 
 ==> text/162.txt <==
@@ -3566,9 +3847,13 @@ L 65.5"
 Previous
 
 ![images/163-01.jpg](images/163-01.jpg)
+
 ![images/163-02.jpg](images/163-02.jpg)
+
 ![images/163-03.jpg](images/163-03.jpg)
+
 ![images/163-04.jpg](images/163-04.jpg)
+
 
 
 ==> text/164.txt <==
@@ -3600,7 +3885,9 @@ L 37.25"
 Previous
 
 ![images/165-01.jpg](images/165-01.jpg)
+
 ![images/165-02.jpg](images/165-02.jpg)
+
 
 
 ==> text/166.txt <==
@@ -3638,8 +3925,11 @@ L 38"
 Previous
 
 ![images/167-01.jpg](images/167-01.jpg)
+
 ![images/167-02.jpg](images/167-02.jpg)
+
 ![images/167-03.jpg](images/167-03.jpg)
+
 
 
 ==> text/168.txt <==
@@ -3688,11 +3978,17 @@ L 38.25"
 Previous
 
 ![images/169-01.jpg](images/169-01.jpg)
+
 ![images/169-02.jpg](images/169-02.jpg)
+
 ![images/169-03.jpg](images/169-03.jpg)
+
 ![images/169-04.jpg](images/169-04.jpg)
+
 ![images/169-05.jpg](images/169-05.jpg)
+
 ![images/169-06.jpg](images/169-06.jpg)
+
 
 
 ==> text/170.txt <==
@@ -3736,10 +4032,15 @@ L 38.25"
 Previous
 
 ![images/171-01.jpg](images/171-01.jpg)
+
 ![images/171-02.jpg](images/171-02.jpg)
+
 ![images/171-03.jpg](images/171-03.jpg)
+
 ![images/171-04.jpg](images/171-04.jpg)
+
 ![images/171-05.jpg](images/171-05.jpg)
+
 
 
 ==> text/172.txt <==
@@ -3781,9 +4082,13 @@ L 37.25"
 Previous
 
 ![images/173-01.jpg](images/173-01.jpg)
+
 ![images/173-02.jpg](images/173-02.jpg)
+
 ![images/173-03.jpg](images/173-03.jpg)
+
 ![images/173-04.jpg](images/173-04.jpg)
+
 
 
 ==> text/174.txt <==
@@ -3824,9 +4129,13 @@ L 37"
 Previous
 
 ![images/175-01.jpg](images/175-01.jpg)
+
 ![images/175-02.jpg](images/175-02.jpg)
+
 ![images/175-03.jpg](images/175-03.jpg)
+
 ![images/175-04.jpg](images/175-04.jpg)
+
 
 
 ==> text/176.txt <==
@@ -3866,9 +4175,13 @@ L 38.25"
 Previous
 
 ![images/177-01.jpg](images/177-01.jpg)
+
 ![images/177-02.jpg](images/177-02.jpg)
+
 ![images/177-03.jpg](images/177-03.jpg)
+
 ![images/177-04.jpg](images/177-04.jpg)
+
 
 
 ==> text/178.txt <==
@@ -3910,9 +4223,13 @@ L 42"
 Previous
 
 ![images/179-01.jpg](images/179-01.jpg)
+
 ![images/179-02.jpg](images/179-02.jpg)
+
 ![images/179-03.jpg](images/179-03.jpg)
+
 ![images/179-04.jpg](images/179-04.jpg)
+
 
 
 ==> text/180.txt <==
@@ -3949,8 +4266,11 @@ L 38"
 Previous
 
 ![images/181-01.jpg](images/181-01.jpg)
+
 ![images/181-02.jpg](images/181-02.jpg)
+
 ![images/181-03.jpg](images/181-03.jpg)
+
 
 
 ==> text/182.txt <==
@@ -3979,7 +4299,9 @@ L  38.25"
 Previous
 
 ![images/183-01.jpg](images/183-01.jpg)
+
 ![images/183-02.jpg](images/183-02.jpg)
+
 
 
 ==> text/184.txt <==
@@ -4016,10 +4338,15 @@ L 38.25"
 Previous
 
 ![images/185-01.jpg](images/185-01.jpg)
+
 ![images/185-02.jpg](images/185-02.jpg)
+
 ![images/185-03.jpg](images/185-03.jpg)
+
 ![images/185-04.jpg](images/185-04.jpg)
+
 ![images/185-05.jpg](images/185-05.jpg)
+
 
 
 ==> text/186.txt <==
@@ -4054,8 +4381,11 @@ L 32"
 Previous
 
 ![images/187-01.jpg](images/187-01.jpg)
+
 ![images/187-02.jpg](images/187-02.jpg)
+
 ![images/187-03.jpg](images/187-03.jpg)
+
 
 
 ==> text/188.txt <==
@@ -4094,9 +4424,13 @@ L 37.75"
 Previous
 
 ![images/189-01.jpg](images/189-01.jpg)
+
 ![images/189-02.jpg](images/189-02.jpg)
+
 ![images/189-03.jpg](images/189-03.jpg)
+
 ![images/189-04.jpg](images/189-04.jpg)
+
 
 
 ==> text/190.txt <==
@@ -4136,8 +4470,11 @@ L 31.5"
 Previous
 
 ![images/191-01.jpg](images/191-01.jpg)
+
 ![images/191-02.jpg](images/191-02.jpg)
+
 ![images/191-03.jpg](images/191-03.jpg)
+
 
 
 ==> text/192.txt <==
@@ -4164,6 +4501,7 @@ Previous
 ![images/193-01.jpg](images/193-01.jpg)
 
 
+
 ==> text/194.txt <==
 Cont'd                            Highland Barbed Arrows
 This specific arrow type is not present in all highland areas.  Thick, short
@@ -4186,7 +4524,9 @@ Previous
 Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/195-001.mp3)
+
 ![images/195-01.jpg](images/195-01.jpg)
+
 
 
 ==> text/196.txt <==
@@ -4261,6 +4601,7 @@ Tyler Cipriani      Computer Technical Advisor
 ![images/198-01.jpg](images/198-01.jpg)
 
 
+
 ==> text/199.txt <==
 "Contact Us"
 Name:
@@ -4311,3 +4652,4 @@ Kapyokoo/Kopiago-------------------------------- Kahp-pee-AH-go
 Kumbasakama----------------------------------- Koom-bah-sah-KA-mah
 Wapenamanda------------------------------------ Wah-pen-ah-MUN-dah
 Pinis
+
