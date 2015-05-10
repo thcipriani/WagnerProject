@@ -96,7 +96,7 @@ B.A., M.A. Anthropology
 * [What is this Website About?](#what-is-this-website-about)
 * [Acknowledgements](#acknowledgments)
 * [Contents](#contents)
-* Pronunciation Key
+* [Pronunciation Key](#pronunciation-key)
 
 **Chapter 1**: The Wagner Story
 
@@ -106,14 +106,14 @@ B.A., M.A. Anthropology
 * [Starting a New Life Together – Arriving in New Guinea](#starting-a-new-life-together--arriving-in-papua-new-guinea)
 * [Bush houses – How they are built](#bush-houses---how-they-are-built)
 * [Home Away from Home – Getting Settled](#home-away-from-home---getting-settled)
-* Mrs. Ruth Wagner – A Missionary Wife’s Life
-* Raising a Family - In New Guinea
-* Christmas – Away From Home
-* Reverend William Wagner – His Missionary Duties
-* Keeping in Touch – Communication New Guinean Style
-* Traveling in New Guinea – The Making of Roads
-* Bridges – Connecting Roads
-* New Guinean “Walkabout”
+* [Mrs. Ruth Wagner – A Missionary Wife’s Life](#mrs-ruth-wagner---a-missionary-wifes-life)
+* [Raising a Family - In New Guinea](#raising-a-family--in-new-guinea)
+* [Christmas – Away From Home](#christmas---away-from-home)
+* [Reverend William Wagner – His Missionary Duties](#reverend-william-p-wagner---his-missionary-duties)
+* [Keeping in Touch – Communication New Guinean Style](#keeping-in-touch---communication-new-guinea-style)
+* [Traveling in New Guinea – The Making of Roads](#traveling-in-new-guinea---the-making-of-roads)
+* [Bridges – Connecting Roads](#bridges---connecting-roads)
+* [New Guinean “Walkabout”](#a-new-guinean-walkabout)
 * Going Home
 
 ![Reverend Wagner with Enga in the Kandep](images/007-01.jpg)
@@ -792,7 +792,7 @@ it is not regarded as wasted.  If the men have to pull a number of logs and
 it becomes a bit commonplace, they put less energy into the dancing and
 more energy into the pulling.
 
-### Reverend Wagner's ‘Walkabout’
+### Reverend Wagner’s ‘Walkabout’
 
 ![images/045-01.jpg](images/045-01.jpg)
 
@@ -4343,45 +4343,45 @@ Message:
 Submit
 Previous
 
-==> text/200.txt <==
- Pronunciation Key
-Maimake---------------- My-MAH-kee
-Mambisanda----- Mom-bi-SON-dah
-Mapu------------------------ MAH-poo
-Mitii-anda------------ MIT-tee-ahn-da
-Nuu------------------------------- New
-Ochre--------------------------- O-ker
-Pandanus---------------- Pan-DAN-us
-[SAGA] Raiakama---- RYE-a-kah-ma
-Saka Laiagam---- SA-ga LY-a-gum-a
-Semongo-------------- see-MOAN-go
-Sirunki-------------- Tsi-ROONG-kee
-Tanget leaves---------------- TUNK-it
-Turi-------------------------- TOUR-ee
-Wabag---------------------- WAH-bag
-Yabati----------------- YaM-BAHT-tee
-Yaibos-------------------- YIGH-bohss
-Yaramanda--------- Yahr-a-MUN-dah
-Bilum ----------------------- BILL-um
-Cassowary --------- CASS-o-wear-ee
-Cassava ---------------- Ca-SAH-bah
-Casuarina --------- CAZZ-your-reena
-Duna ------------------------ DOO-na
-Enga ---------------------- [h] ANG-a
-Hewa ----------------------- HEY-wah
-Ipi ---------------------------- EE-pee
-Irelya--------------------- ee-REY-lya
-Job's------------------------- joe-BBZ
-Kandep--------------------- KON-dep
-Kundu -------------------- KOON-doo
-Kunai Grass --------------- Koon-EYE
-Kuta Skirt-------------------- KOOT-a
-Lagaip---------------------- Luh-GIPE
-Lai-------------------------------- Lie
-Madang------------------- Mah-DANG
-Madi------------------------ MON-dee
-Kapyokoo/Kopiago-------------------------------- Kahp-pee-AH-go
-Kumbasakama----------------------------------- Koom-bah-sah-KA-mah
-Wapenamanda------------------------------------ Wah-pen-ah-MUN-dah
-Pinis
+## Pronunciation Key
 
+Word|Pronunciation
+----|-------------
+Bilum|BILL-um
+Cassowary|CASS-o-wear-ee
+Cassava|Ca-SAH-bah
+Casuarina|CAZZ-your-reena
+Duna|DOO-na
+Enga|[h] ANG-a
+Hewa|HEY-wah
+Ipi|EE-pee
+Irelya|ee-REY-lya
+Job's|joe-BBZ
+Kandep|KON-dep
+Kundu|KOON-doo
+Kunai Grass|Koon-EYE
+Kuta Skirt|KOOT-a
+Lagaip|Luh-GIPE
+Lai|Lie
+Madang|Mah-DANG
+Madi|MON-dee
+Kapyokoo/Kopiago|Kahp-pee-AH-go
+Kumbasakama|Koom-bah-sah-KA-mah
+Maimake|My-MAH-kee
+Mambisanda|Mom-bi-SON-dah
+Mapu|MAH-poo
+Mitii-anda|MIT-tee-ahn-da
+Nuu|New
+Ochre|O-ker
+Pandanu|Pan-DAN-us
+[SAGA] Raiakama|RYE-a-kah-ma
+Saka Laiagam|SA-ga LY-a-gum-a
+Semongo|see-MOAN-go
+Sirunki|Tsi-ROONG-kee
+Tanget leaves|TUNK-it
+Turi|TOUR-ee
+Wabag|WAH-bag
+Wapenamanda|Wah-pen-ah-MUN-dah
+Yabati|YaM-BAHT-tee
+Yaibos|YIGH-bohss
+Yaramanda|Yahr-a-MUN-dah
