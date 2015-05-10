@@ -716,130 +716,83 @@ was limited to only the mission territory.  The New Guinean field had a
 system of ten receivers that were provided by a grant from the Lutheran
 Women's Mission League.
 
-==> text/041.txt <==
-New road still under construction
-Duna building Roads
-Previous
-Highland men
-build the roads
-- Right Photo;
-While women
-gather the
-rocks for the
-surface. Photo
-Left - A
-Woman's bilum
-is packed with
-rocks, and she
-uses her turi as
-sun shade
-Click HERE to hear
-Mrs. Wagner
+![New road still under construction](images/041-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-001.mp3)
 
+![Highland men build the roads](images/041-02.jpg)
+
 [Click HERE to hear Mrs. Wagner](audio/041-002.mp3)
+
+![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](images/041-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-003.mp3)
 
-![images/041-01.jpg](images/041-01.jpg)
+## TRAVELING IN NEW GUINEA - The Making of Roads
 
-![images/041-02.jpg](images/041-02.jpg)
-
-![images/041-03.jpg](images/041-03.jpg)
-
-
-
-==> text/042.txt <==
-Traveling in New Guinea – The making of Roads
 Until 1954, traffic problems were nonexistent; there were no roads or
 bridges.  If anyone wanted to go anywhere, he walked – not over nice,
 graveled paths, but up and down grassy clay trails which also served as
 gutters to drain the rains off the mountains.  Later on, the first traffic
 “problem” developed.  The local Australian government officer purchased a
-Land Rover [a British Jeep] and then the mission received as a gift, a Land
+Land Rover (a British Jeep) and then the mission received as a gift, a Land
 Rover as well, considering the possibility, however remote, that these two
 Land Rovers might meet head on at a sharp bend in the only (singular)
 mountain road, something had to be done.  By 1956, there were over
 some 120 miles of road in the Wabag and Laiagam sub districts.
+
 Roads were carved out of the mountains with pick, shovel, and the force of
 numbers, as this was the only means at hand to build roads. And even
 though more and more roads were being built by the Enga and Duna
 people, transportation in the immediate area where the Wagner’s lived,
 was very limited.  The missionaries did a great deal of walking and the
 Enga carried supplies, lumber, etc., on their backs.
+
 The mission territory on the whole, owned eight four-wheel drive jeeps
 and a truck.  Each mission station may have had one jeep, but the mission
-also had twenty-one [21] motorcycles which everyone traveled by.
+also had twenty-one (21) motorcycles which everyone traveled by.
+
 The carpenters went  to work on motorcycles; the teachers visited their
 schools on motorcycles.  The evangelistic missionaries reached as many
 out-stations as possible by motorcycle, each as far as the road could take
 them, and then it was by foot again.  To connect roads and to cross rivers,
 bridges had to be put in place.
-TRAVELING IN NEW GUINEA - The Making of Roads
-Next
 
-==> text/043.txt <==
-Bridge building
-Pulling log for
-bridge building
-Click HERE
-
- to view film clip
-Previous
-Click
-HERE
-to
-hear
-Mrs.Wagner
-Click
-HERE
-to
-stop
- audio
+![Pulling log for bridge building](images/043-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-001.mp3)
 
+![Bridge building](images/043-01.jpg)
+
 [Click HERE to hear Mrs. Wagner](audio/043-002.mp3)
 
-![images/043-01.jpg](images/043-01.jpg)
-
-![images/043-02.jpg](images/043-02.jpg)
-
-
-
-==> text/044.txt <==
-BRIDGES - Connecting Roads
+## BRIDGES - Connecting Roads
 Imagine huge logs, about 24 to 30 inches in diameter and 65 to 70 feet
 long, being pulled by a hundred or more men.  Several of these huge logs
 are pulled to a river, ravine, or gully to make a bridge for the jeep to
 cross.
+
 A hole is chopped in the end of the log, much like an eye of a needle; the
 vine or root ropes are threaded through this hole and tied.  Root ropes are
 cut from a tree that grows in well-watered places.  The roots of this tree
 grow just beneath the surface of the ground and quite often are 30 to 40
 feet long.  Smaller logs or saplings are used to keep the log moving by
 being placed and replaced under the log as it is pulled along the ground.
+
 It is usual to see 100 or more men pulling a log.  All of them make the
 occasion of pulling a log a festive one and do everything to make
 themselves more handsome and more attractive to the girls who will
 watch them.  They put feathers in their hair, paint their noses red, put
 tree oil all over their bodies, or smear charcoal on their faces.
+
 They chant and dance as they pull the log.  Their jumping up and down is
 timed to coordinate with the cadence of their chant, and at each jump the
 log is pulled a few inches.  Much energy is used jumping up and down, but
 it is not regarded as wasted.  If the men have to pull a number of logs and
 it becomes a bit commonplace, they put less energy into the dancing and
 more energy into the pulling.
-Next
 
-==> text/045.txt <==
-Previous
-Reverend Wagner's 'Walkabout'
-Click HERE to hear
-Mrs. Wagner
-
-[Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
+### Reverend Wagner's ‘Walkabout’
 
 ![images/045-01.jpg](images/045-01.jpg)
 
@@ -849,85 +802,67 @@ Mrs. Wagner
 
 ![images/045-04.jpg](images/045-04.jpg)
 
+[Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
 
 
-==> text/046.txt <==
-A NEW GUINEAN “WALKABOUT”
+## A NEW GUINEAN “WALKABOUT”
 To a New Guinean missionary -
-Next
-Consider this incident of a descent and add a few more ascents
-and descents to it, to visualize a one-day journey.  We were above
-Makare, and the altimeter read 8,000 feet.  At Makare, forty-five
-minutes later, of which the last ten minutes were more or less
-level going, the altimeter read 6,600 feet – a drop of 1,400 feet in
-a little more than half an hour
-[Wagner Newsletter, pg 3, May 9,
-1955].
-The first “Walkabout” the Reverend Bill Wagner took was when he and
-Mrs. Ruth Wagner first arrived in New Guinea.  Missionaries Hintze and
-Strackbein took Reverend Wagner on a “Walkabout” to tour the out-
-stations in the Highlands.  They left Yaramanda and were gone for four
-[4] days.  When they returned, they left again, three [3] days later, for
-another four [4] days.  This time they visited Raiakama, where the
-Wagners were to build their station, and witnessed a native reception.
-Walkabout” is a very common term.  It is a rather extensive
-hike of days or several weeks to survey new areas or to make
-arrangements with new communities to be served by native
-evangelists
-[Mission Newsletter. Let’s talk about a
-“walkabout” by Reverend Ian Kleinig].
+
+> “Walkabout” is a very common term.  It is a rather extensive
+> hike of days or several weeks to survey new areas or to make
+> arrangements with new communities to be served by native
+> evangelists (Mission Newsletter. Let’s talk about a “walkabout” by Reverend Ian Kleinig).
+
 The missionaries reached the Enga, Duna, and Hewa locales throughout
 the Highlands, by “Walkabouts,” and to give you an idea of the paths
 they followed, and the mountains they climbed,
 
-==> text/047.txt <==
-Previous
-"Walkabout" Footpath
-"Walkabout" Footbridge
-Click HERE to hear
-Mrs. Wagner
+
+> Consider this incident of a descent and add a few more ascents
+> and descents to it, to visualize a one-day journey.  We were above
+> Makare, and the altimeter read 8,000 feet.  At Makare, forty-five
+> minutes later, of which the last ten minutes were more or less
+> level going, the altimeter read 6,600 feet – a drop of 1,400 feet in
+> a little more than half an hour (Wagner Newsletter, pg 3, May 9, 1955).
+
+The first “Walkabout” the Reverend Bill Wagner took was when he and
+Mrs. Ruth Wagner first arrived in New Guinea.  Missionaries Hintze and
+Strackbein took Reverend Wagner on a “Walkabout” to tour the out-
+stations in the Highlands.  They left Yaramanda and were gone for four
+(4) days.  When they returned, they left again, three (3) days later, for
+another four (4) days.  This time they visited Raiakama, where the
+Wagners were to build their station, and witnessed a native reception.
 
 [Click HERE to hear Mrs. Wagner](audio/047-001.mp3)
 
-![images/047-01.jpg](images/047-01.jpg)
+![“Walkabout” Footpath](images/047-01.jpg)
 
-![images/047-02.jpg](images/047-02.jpg)
+![“Walkabout” Footbridge](images/047-02.jpg)
 
-
-
-==> text/048.txt <==
-Cont'd
 Word that they were coming had gone ahead of them, and as they came
 down the mountain, the “yodeling,” so to speak, of the carriers told them
 that they were near.  As they approached the station and were in sight of
 it, they noticed that branches had been placed across the road and that
 the native teacher, Tomaonec, and Ere, the interpreter, were standing
 behind it.
-Next
-Our carriers dropped back, and alone, the missionaries walked up to
-the barricade and stopped.  Ere spoke a prayer in Pidgin…
-[Wagner Newsletter, May 1955].
+
+> Our carriers dropped back, and alone, the missionaries walked up to
+> the barricade and stopped.  Ere spoke a prayer in Pidgin… (Wagner Newsletter, May 1955).
+
 The branches were symbolically lifted, and they were welcomed into the
-valley.  The missionaries shook hands for fifteen [15] minutes, going
+valley.  The missionaries shook hands for fifteen (15) minutes, going
 from one set of hands to another, along the line.  Shaking hands as a
 greeting had been introduced by missionaries and government men and
 almost was, by then, an accepted way of greeting your fellow man.
 Yaramanda is 5,600 feet above sea level and Raiakama is 6,200 feet.
+
 Since Reverend Wagner’s first “Walkabout”, he undertook many, many
 more to get to the people he needed to see throughout his working
 career in the Western Highlands of New Guinea.
 
-==> text/049.txt <==
-Sarah Wagner, second from left, waits with other
-missionary children for a plane that will take them 3000
-miles from their New Guinean home to a school in Australia
-Previous
-Click HERE to hear Mrs. Wagner
+![Sarah Wagner, second from left, waits with other missionary children for a plane that will take them 3000 miles from their New Guinean home to a school in Australia](images/049-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/049-001.mp3)
-
-![images/049-01.jpg](images/049-01.jpg)
-
 
 
 ==> text/050.txt <==
