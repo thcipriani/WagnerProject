@@ -1225,462 +1225,313 @@ Next
 
 [Click HERE to hear Mrs. Wagner](audio/064-001.mp3)
 
-
-
-==> text/065.txt <==
-Enga Man's House
-Enga Woman's House
-Previous
-Click
- HERE
-to hear
-Mrs. Wagner
-
 [Click HERE to hear Mrs. Wagner](audio/065-001.mp3)
 
 [Click HERE to hear Mrs. Wagner](audio/065-002.mp3)
 
-![images/065-01.jpg](images/065-01.jpg)
+* * *
 
-![images/065-02.jpg](images/065-02.jpg)
+![Enga Man's House](images/065-01.jpg)
 
+![Enga Woman's House](images/065-02.jpg)
 
+## Houses
 
-==> text/066.txt <==
-Houses
-The houses the Enga people build serve their need in the climate.  The
-mountains cause the nights to be cold.  They build low houses with solid,
+The houses the Enga people build serve their need in the climate. The
+mountains cause the nights to be cold. They build low houses with solid,
 more or less windproof walls and a grass roof.
+
 There is only one door to the house with a kyta or crash door built into the
-ceiling to the rear of the house.  In the event of a fire, the occupants can
+ceiling to the rear of the house. In the event of a fire, the occupants can
 break through this door and out of the house, although it is never used
 except in the event of a fire.
+
 The front door to the house is an opening in the wall, and the door is
 closed by sliding doubled-over banana leaves back and forth on a pole
-which is fastened over the opening.  Quite often axe-hewn planks are
+which is fastened over the opening. Quite often axe-hewn planks are
 placed one by one across the doorway in slots made by two upright posts
 to close the opening.
-A fire built in the main room of the house heats the house.  The smoke
-finds its way out through the grass, for there is no chimney.  These houses
+
+A fire built in the main room of the house heats the house. The smoke
+finds its way out through the grass, for there is no chimney. These houses
 are very warm, even hot, and the Engas are thus able to sleep warmly
-without blankets.  Food is cooked on the fire and there are no cooking
+without blankets. Food is cooked on the fire and there are no cooking
 utensils.
-Next
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
 
 [Click HERE to hear Mrs. Wagner](audio/066-001.mp3)
 
+![The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men](images/067-01.jpg)
 
+![Before, a Boy, Now, a Man - Returning after the Sandalu Ceremony](images/067-02.jpg)
 
-==> text/067.txt <==
-The Sandalu Ceremony [The Bachelor Cult] - Where young bachelors
-are transformed into attractive, socially competent, young men
-Before, a Boy, Now, a Man -
-Returning after the Sandalu
-Ceremony
-The clan meeting place; where
-Ceremonies are also held
-Previous
+![The clan meeting place; where Ceremonies are also held Previous](images/067-03.jpg)
 
-![images/067-01.jpg](images/067-01.jpg)
+## Clan
 
-![images/067-02.jpg](images/067-02.jpg)
-
-![images/067-03.jpg](images/067-03.jpg)
-
-
-
-==> text/068.txt <==
-Clan
 The clan is concerned with its own existence, and all matters in the clan
-reflect this.  There are no declared chiefs or rulers in the clan.  A clan
+reflect this. There are no declared chiefs or rulers in the clan. A clan
 matter is usually brought up at the clan meeting place, a place where
-also clan ceremonies are held.  Everyone is free to speak, but of course
+also clan ceremonies are held. Everyone is free to speak, but of course
 the opinion of the most influential member of the clan will receive support
-much more so than the opinion of a “rubbish man” in the clan.  So it is
+much more so than the opinion of a “rubbish man” in the clan. So it is
 the men with the most pigs, the most ground, the most wives and the
 most influence who rule the clan.
+
 The clan at one time carried on warfare with one or another of the
-neighboring clans.  A sort of dual code arose in this situation.  You
+neighboring clans. A sort of dual code arose in this situation. You
 could steal from the enemy but you could not ever steal from someone
-in your clan.  Outside of the clan, nothing was a felony and a particularly
+in your clan. Outside of the clan, nothing was a felony and a particularly
 successful crime might even receive the praise of the perpetrator’s
 clansmen.
-Next
-Click HERE to hear Mrs. Wagner
+
 
 [Click HERE to hear Mrs. Wagner](audio/068-001.mp3)
 
-
-
-==> text/069.txt <==
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
-Picture of happy bride
-Previous
+![Picture of happy bride](images/069-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/069-001.mp3)
 
-![images/069-01.jpg](images/069-01.jpg)
 
+## Marriage
 
-
-==> text/070.txt <==
-Marriage
-In Enga society polygyny was practiced.  There wasn't a limit on the
-number of wives a man could have, but since there was the custom of
-paying a bride price, the number of wives was naturally tied up with what
+In Enga society polygyny was practiced. There wasn't a limit on the
+number of wives a man could have, but since there was the custom
+of paying a bride price, the number of wives was naturally tied up with what
 a man was able to afford.
+
 The marriage proper was carried out in the presence of a sorcerer, or
 "topori".
+
 A feast of cooked pig, the payment of the bride price, exchange of gifts
 and all having been completed, the “topori” says the proper magic
 formulas to ensure a good and fruitful married life.
+
 The taro plant, a plant with large leaves and an edible, starchy, tuberous
-root figures largely in the wedding ceremony.  A man and his newly
+root figures largely in the wedding ceremony. A man and his newly
 acquired bride will go to a secluded place, and there will sit on the ground
 with their legs outstretched, facing each other so that the soles of his feet
-touch the soles of her feet.  They will then plant a taro between their
-outstretched legs at the place where the soles of their feet touch. They
-then live happily ever after.
-Next
-on Dating, Pre-marital or
-Adulterous Pregnancy, and
-Marriage
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
+touch the soles of her feet. They will then plant a taro between their
+outstretched legs at the place where the soles of their feet touch.
+They then live happily ever after.
 
 [Click HERE to hear Mrs. Wagner](audio/070-001.mp3)
 
-
-
-==> text/071.txt <==
-As punishment for committing adultery, a husband would cut
+![As punishment for committing adultery, a husband would cut
 off the front of his wife's nose. This woman covers what was
 once her nose with a leaf.  However, a double standard exists;
-men are not punished for committing the same act.
-Previous
+men are not punished for committing the same act.](images/071-01.jpg)
 
-![images/071-01.jpg](images/071-01.jpg)
+## Adultery
 
-
-
-==> text/072.txt <==
-Adultery
 In former days, a husband would cut off his wife’s nose or the top of her
-ear or her fingers, her toes, or the back of her leg.  There would often
+ear or her fingers, her toes, or the back of her leg. There would often
 be fights between clans because of adultery.
+
 The wife of an adulterous man might club the woman who had
 committed adultery with her husband.
+
 A change was implemented by the Australian government around 1955.
-There is not the same fear for adultery.  People serve a jail sentence for
+There is not the same fear for adultery. People serve a jail sentence for
 the repercussions of acts of revenge.
-Next
-Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/072-001.mp3)
 
+* * *
 
-
-==> text/073.txt <==
-Enga grief
-Enga Grief
-Click HERE to hear Mrs. Wagner
-Previous
+![Enga Grief](images/073-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/073-001.mp3)
 
-![images/073-01.jpg](images/073-01.jpg)
+* * *
 
+## Death and Grief
 
-
-==> text/074.txt <==
-Death and Grief
 Death resides in the house as one of the family, and all are acquainted
-with death.  Burial of the dead is the general rule. Some, however,
+with death. Burial of the dead is the general rule. Some, however,
 depending on circumstances, were placed in holes or caves in cliffs, or
 thrown into a swiftly moving river or sunk in a quagmire.
-In burial the deceased is wrapped up to resemble a cocoon.  His body is
+
+In burial the deceased is wrapped up to resemble a cocoon. His body is
 then suspended between two poles and all gather around to mourn and
-wail.  To wail for one day is common but some will leave the body
+wail. To wail for one day is common but some will leave the body
 suspended between two poles and wail for two or three days.
+
 As an expression of grief when relative or loved one dies, one joint of a
-finger was severed.  There are often several deaths within a family.  This
+finger was severed. There are often several deaths within a family. This
 expression is practiced by men, women, and sometimes in the state of
 grief, the finger joint of a child will be taken.
-Next
-"When we left Saka Raiakama [Laiagam] to go home on
-furlough, we must have shaken hands with two thousand [2000]
-people, and oh, how many had lost parts of their fingers.”
-[A note written by Mrs. Ruth Wagner]
+
+> “When we left Saka Raiakama (Laiagam) to go home on
+> furlough, we must have shaken hands with two thousand (2000)
+> people, and oh, how many had lost parts of their fingers.”
+> (A note written by Mrs. Ruth Wagner)
+
 Especially in the Highlands, the death wail is also expressed when a killing
 frost either harms or kills the sweet potato vines.
-Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/074-001.mp3)
 
+* * *
 
+![Enga man wearing a “yabati”, an apron-like
+woven garment in the front and a bunch of leaves in the rear](images/075-01.jpg)
 
-==> text/075.txt <==
-Enga man
-wearing a
-“yabati”,
-an apron-
-like woven
-garment in
-the front
-and a
-bunch of
-leaves in
-the rear
-Group of Enga women, girls & young man,
-man wearing "yabati" and women wearing
-"kuta" skirts
-Enga woman
-wearing a
-two section
-skirt or
-“kuta,”
-fastened
-around her
-waist,
-covering the
-front and the
-rear
-Girl wearing a “kuta”
-Previous
+![Group of Enga women, girls & young man, man wearing "yabati"
+and women wearing "kuta" skirts](images/075-02.jpg)
 
-![images/075-01.jpg](images/075-01.jpg)
+![Enga woman wearing a two section skirt or “kuta,” fastened
+around her waist, covering the front and the rear](images/075-03.jpg)
 
-![images/075-02.jpg](images/075-02.jpg)
+![Girl wearing a “kuta”](images/075-04.jpg)
 
-![images/075-03.jpg](images/075-03.jpg)
+* * *
 
-![images/075-04.jpg](images/075-04.jpg)
+## Clothing
 
-
-
-==> text/076.txt <==
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
-Clothing
 The days are warm, and therefore, there is no need for warm
 clothing.
+
 The Enga man wears no clothing to cover his body from the waist up,
-and walks barefooted.  He wears a belt made of string or rope, which
-he has made himself.  Some have acquired a leather belt to put
+and walks barefooted. He wears a belt made of string or rope, which
+he has made himself. Some have acquired a leather belt to put
 around his waist, with the “yabati,” an apron-like woven garment in
-the front and a bunch of leaves in the rear.  The little boys
+the front and a bunch of leaves in the rear. The little boys
 approximently 12 years old and under wear nothing but a smile.
+
 The Enga woman wears a two-section skirt or “Kuta” fastened around
-her waist covering the front and the rear.  The Enga girls also wear
+her waist covering the front and the rear. The Enga girls also wear
 “kuta” skirts, just like their mothers.
-Next
+
 The "kuta" is made of reeds which are grown in a small pond much like
 the cultivation of rice in Asia.  These reeds are harvested and attached
 to a belt.
 
 [Click HERE to hear Mrs. Wagner](audio/076-001.mp3)
 
+* * *
 
+![Sweet potato garden - Enga children between sweet potato mounds](images/077-01.jpg)
 
-==> text/077.txt <==
-Sweet potato garden - Enga
-children between sweet potato
-mounds
-Enga woman carrying
-sweet potato vines to
-plant in mounds
-Previous
-Enga man's sugar cane garden
-Enga woman using
-Cassowary bone as digging
-stick in sweet potato
-garden
+![Enga woman carrying sweet potato vines to plant in mounds](images/077-02.jpg)
 
-![images/077-01.jpg](images/077-01.jpg)
+![Enga man's sugar cane garden](images/077-03.jpg)
 
-![images/077-02.jpg](images/077-02.jpg)
+![Enga woman using Cassowary bone as digging stick in sweet potato garden](images/077-04.jpg)
 
-![images/077-03.jpg](images/077-03.jpg)
+* * *
 
-![images/077-04.jpg](images/077-04.jpg)
+## Gardens
 
-
-
-==> text/078.txt <==
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
-Gardens
 The economy among the Enga people is largely a subsistence economy.
 They plant gardens to supply their needs and since gardens grow all year
 long, year after year, they can live off their garden.
+
 Sweet potato, similar to the one we know, is the main food in their diet
-and there are over 30 varities.  Sugar cane, types of beans, taro, a
-spinach-like green, and other greens are also eaten.  Europeans
+and there are over 30 varities. Sugar cane, types of beans, taro,
+a spinach-like green, and other greens are also eaten. Europeans
 introduced the pumpkin, corn, peanuts, and Irish potatoes to the Enga
 diet as well.
-Next
 
 [Click HERE to hear Mrs. Wagner](audio/078-001.mp3)
 
+* * *
 
+![The Enga kept the Sacred Stone in the "V" of a special tree on
+Ceremonial grounds. Women and children are not allowed
+anywhere on or near the grounds](images/079-01.jpg)
 
-==> text/079.txt <==
-The Enga kept the Sacred
-Stone in the "V" of a
-special tree on
-Ceremonial grounds.
-Women and children are
-not allowed anywhere on
-or near the grounds
-The Ceremonial Sacred
-Stone anointed with paint
-and precious Tree Oil.
-Notice the crowd of Enga
-men in the background
-Previous
+![The Ceremonial Sacred Stone anointed with paint and
+precious Tree Oil. Notice the crowd of Enga men in
+the background](images/079-02.jpg)
 
-![images/079-01.jpg](images/079-01.jpg)
+* * *
 
-![images/079-02.jpg](images/079-02.jpg)
+## Ceremonial Grounds
 
-
-
-==> text/080.txt <==
-Ceremonial Grounds
-Each clan has a meeting place where ceremonies are held.  Quite often
-near this place there is a sort of sacred grove of trees.  Women, girls
+Each clan has a meeting place where ceremonies are held. Quite often
+near this place there is a sort of sacred grove of trees. Women, girls
 or young boys are not allowed to go inside this grove, as this is a place
-only for men.  In this sacred grove, there is a house, usually inside or
+only for men. In this sacred grove, there is a house, usually inside or
 at the base of a tree, where the sacred stones are kept.
+
 The sacred stones are the link between the Enga people and deceased
-persons who are now spirits.  Each sacred stone is bathed in tree oil,
-and painted with natural or trade store color.  The Enga seek aid from
+persons who are now spirits. Each sacred stone is bathed in tree oil,
+and painted with natural or trade store color. The Enga seek aid from
 the spirits via the stone.
-Next
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
 
 [Click HERE to hear Mrs. Wagner](audio/080-001.mp3)
 
+* * *
 
+![1950s; Enga men with their Pigs on the way to a Te Cycle;
+pigs are a sign of wealth](images/081-01.jpg)
 
-==> text/081.txt <==
-1950s; Enga
-men with
-their Pigs on
-the way to a
-Te Cycle;
-pigs are a
-sign of
-wealth
-The Aga Nut; a prized possession bartered on
-the trade route
-In the
-1950s, the
-Australian
-Gov.
-implemented
-the growing
-and buying
-of Pyrethrum
-flowers from
-the Enga
-people for
-production
-of DDT
-Previous
-Parade of pearl shells before a line
-of traditional dancers and the
-public during a Te Cycle of the
-1950s [Photo from the Collection
-of Norma L. Heinicke]
+![The Aga Nut; a prized possession bartered on the trade route](images/081-02.jpg)
 
-![images/081-01.jpg](images/081-01.jpg)
+![In the 1950s, the Australian Government implemented the growing and
+buying of Pyrethrum flowers from the Enga people for production of DDT](images/081-03.jpg)
 
-![images/081-02.jpg](images/081-02.jpg)
+![Parade of pearl shells before a line of traditional dancers and the public during a Te Cycle of the 1950s
+(Photo from the Collection of Norma L. Heinicke)](images/081-04.jpg)
 
-![images/081-03.jpg](images/081-03.jpg)
+* * *
 
-![images/081-04.jpg](images/081-04.jpg)
+## Trade and Commerce
 
-
-
-==> text/082.txt <==
-Click HERE to hear Mrs. Wagner
-Trade and Commerce
 While the economy is largely subsistence, wealth being connected with
 pigs, gardens, etc., there is a kind of money used.
+
 In the Gulf of Papua, off the southern coast of Papua new Guinea, the
-shell of a large clam is taken from the coral reefs.  This shell is cut and
-polished to reveal its golden color.  The shell is five or six inches wide.
+shell of a large clam is taken from the coral reefs. This shell is cut and
+polished to reveal its golden color. The shell is five or six inches wide.
 This shell follows a trade route and has purchase value at each stop.
+
 It would be difficult to determine how a shell found in the Gulf of Papua
 reaches the Enga, but it comes to them via a people in the Hagen area
 and represents a pig, which means that somewhere a man gave a pig to
-obtain the shell.  This in then used as money, one shell equalling one pig.
+obtain the shell. This in then used as money, one shell equalling one pig.
 The shell is accepted at face value in paying a bride price, reparations in
 the Te Ceremony, obtaining a prized Aga Nut, or Tree Oil, etc.
-Next
-The Enga later made money by growing and gathering dry blossoms of
-the Pyrethrum plant, then sold them to the Australian government as a
-knock-down agent in DDT.  The Australian government and the Mission
-introduced other 'cash crops' as well.  Listen Below -
 
 [Click HERE to hear Mrs. Wagner](audio/082-001.mp3)
 
+The Enga later made money by growing and gathering dry blossoms of
+the Pyrethrum plant, then sold them to the Australian government as a
+knock-down agent in DDT.   The Australian government and the Mission
+introduced other 'cash crops' as well.   Listen Below -
+
 [Click HERE to hear Mrs. Wagner](audio/082-002.mp3)
 
+* * *
 
+![Building a haus-mari (Pidgin for woman's house); Enga men sharpening the stakes to be pounded into the ground](images/083-01.jpg)
 
-==> text/083.txt <==
-Building a haus-mari [Pidgin for
-woman's house]; Enga men
-sharpening the stakes to be
-pounded into the ground
-Using bamboo strips as a
-frame to form loose loops for
-a bilum or net bag
-An Enga woman uses thread made
-from tree bark to make her son's or
-grandson's "yambati" - The sisal plant
-introduced from the Coast, is
-sometimes used
-Using a tool to shred a leaf for thread
-Previous
+![Using bamboo strips as a frame to form loose loops for a bilum or net bag](images/083-02.jpg)
 
-![images/083-01.jpg](images/083-01.jpg)
+![An Enga woman uses thread made from tree bark to make her son's or grandson's “yambati” - The sisal plant introduced from the Coast, is sometimes used](images/083-03.jpg)
 
-![images/083-02.jpg](images/083-02.jpg)
+![Using a tool to shred a leaf for thread](images/083-04.jpg)
 
-![images/083-03.jpg](images/083-03.jpg)
+* * *
 
-![images/083-04.jpg](images/083-04.jpg)
+## Skills & Handicrafts
 
-
-
-==> text/084.txt <==
-Click HERE
-
-for film clip
 The Enga man is adept with an axe. His axe is used to chop firewood,
-build a house, clear a garden and is used for self defense, sometimes
-war.
-Next
-The Enga woman can twist the bark fibers available to her into a small
-string for stringing seeds or turn it into a large string for weaving her
-net bag.  Bark fibers made into string produce bags used to carry
-heavy loads.  Fibers from the sisal plant, which was introduced from
-the coast, produce a finer string for making lighter weight bags and
-the men's yambati.  Their skills are limited to tasks which are
-necessary for them to live, making the Enga people very utilitarian.
-Click HERE to hear Mrs. Wagner
-Skills & Handicrafts
+build a house, clear a garden and is used for self defense, sometimes war.
 
 [Click HERE to hear Mrs. Wagner](audio/084-001.mp3)
 
+The Enga woman can twist the bark fibers available to her into a small
+string for stringing seeds or turn it into a large string for weaving her
+net bag. Bark fibers made into string produce bags used to carry
+heavy loads. Fibers from the sisal plant, which was introduced from
+the coast, produce a finer string for making lighter weight bags and
+the men's yambati. Their skills are limited to tasks which are necessary
+for them to live, making the Enga people very utilitarian.
+
+Click HERE for film clip
+
+* * *
 
 
 ==> text/085.txt <==
