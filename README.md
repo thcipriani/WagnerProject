@@ -944,114 +944,120 @@ career in the Western Highlands of New Guinea.
 
 [Click HERE to hear Mrs. Wagner](audio/049-001.mp3)
 
-==> text/050.txt <==
+* * *
+
 Leaving New Guinea was a difficult choice for Reverend Bill and Mrs. Ruth
-Wagner.  They had spent fourteen years of their life in New Guinea and all
-of their children had been born there.  Therefore it was understandable
+Wagner. They had spent fourteen years of their life in New Guinea and all
+of their children had been born there. Therefore it was understandable
 that they would have mixed feelings about taking up a new life back home
 in the United States.
+
 Newly married and full of enthusiasm, they had arrived in March 1955, to
 bring the word of Christ to the peoples in the highlands of New Guinea.
-What made them more uneasy were stories they had heard about how
-much more difficult it was to adjust to life in their homeland than it was to
-adjust to life in a foreign land.
+What made them more uneasy were stories they had heard about how much
+more difficult it was to adjust to life in their homeland than it was
+to adjust to life in a foreign land.
+
 But, the Wagner children were growing up and a decision had to be made
-about their future.  The Reverend Bill and Mrs. Ruth Wagner were torn
+about their future. The Reverend Bill and Mrs. Ruth Wagner were torn
 between staying in Enga-land, or doing what was best for their daughters.
+
 As Reverend Wagner struggled with this, he finally came to a decision -
-Next
-We have weighed the call to New Guinea to serve Engas with the
-Word of God and feel that after 14 years to want to serve the Lord
-elsewhere is not denouncing His call to serve Engas as a lesser
-call but merely a decision to try to do the best we can for our
-children, His gifts to us, while at the same time endeavoring to
-continue to serve in a new situation.  We do not feel that it is wise
-nor expedient to do one task at the expense of another when both
-are incumbent upon us [Wagner Newsletter, November 28, 1968].
-Returning to the United States
 
-==> text/051.txt <==
-Returning to the United States; at the Airport in  Honolulu, Hawaii
-Previous
+> “Next We have weighed the call to New Guinea to serve Engas with the
+> Word of God and feel that after 14 years to want to serve the Lord
+> elsewhere is not denouncing His call to serve Engas as a lesser
+> call but merely a decision to try to do the best we can for our
+> children, His gifts to us, while at the same time endeavoring to
+> continue to serve in a new situation. We do not feel that it is wise
+> nor expedient to do one task at the expense of another when both
+> are incumbent upon us” (Wagner Newsletter, November 28, 1968).
 
-![images/051-01.jpg](images/051-01.jpg)
+* * *
 
+![Returning to the United States; at the Airport in Honolulu, Hawaii](images/051-01.jpg)
 
+* * *
 
-==> text/052.txt <==
 The facts were that one teenage daughter was already 3,000 miles away
 attending one of the secondary schools in Australia and another daughter
-would be going there in two years to also further her education.  The
-Wagners realized that this was a difficult task for any child to endure. One
-of their daughters was living most of the time away from home and
-another would follow.  As parents, Reverend and Mrs. Ruth Wagner
+would be going there in two years to also further her education. The
+Wagners realized that this was a difficult task for any child to endure.
+One of their daughters was living most of the time away from home and
+another would follow. As parents, Reverend and Mrs. Ruth Wagner
 understood the isolation their daughter felt and they did not want to
-continue being separated from her or their other daughters for most of the
-time.
-Next
-Cont'd
-Our first Christmas there and how it had meant so much to us because
-Sarah, our first born, had arrived one month earlier.  But now, Sarah
-would be returning home from Luther College in Melbourne [Australia]
-to New Guinea for the family’s last Christmas together before going to
-America.  [Wagner Newsletter.  1968]
-Although their future [at that time] was quite indefinite, the Wagners had
-found a new peace in their decision.  Reverend Wagner made inquiries
-about studying again before accepting a call into the parish ministry.  In
-the meantime, the Wagners would follow God’s guiding hand.  It had been
-arranged that another Pastor and his wife would replace them at their last
-mission station in Sirunki.  In all, the Wagners were in New Guinea from
-1955 at Raiakama, moved to Mambisanda in 1961, and then left Sirunki in
-1969, a total of 14 years in New Guinea; a place where the Wagners still
-refer to - as home.
+continue being separated from her or their other daughters for most of
+the time.
+
 In the decision to leave for the USA, Mrs. Ruth Wagner looks back to the
 joy of her first memories of being in New Guinea -
+
+> Our first Christmas there and how it had meant so much to us because
+> Sarah, our first born, had arrived one month earlier.  But now, Sarah
+> would be returning home from Luther College in Melbourne (Australia)
+> to New Guinea for the family’s last Christmas together before going to
+> America. (Wagner Newsletter. 1968)
+
+Although their future [at that time] was quite indefinite, the Wagners had
+found a new peace in their decision. Reverend Wagner made inquiries about
+studying again before accepting a call into the parish ministry. In the
+meantime, the Wagners would follow God’s guiding hand. It had been arranged
+that another Pastor and his wife would replace them at their last mission
+station in Sirunki. In all, the Wagners were in New Guinea from 1955 at
+Raiakama, moved to Mambisanda in 1961, and then left Sirunki in 1969, a
+total of 14 years in New Guinea; a place where the Wagners still refer to
+- as home.
+
 The Wagners and their five daughters left New Guinea for the United
 States in April of 1969.
 
-==> text/053.txt <==
-<http://www.sil.org/pacific/png/maps/SHP_Enga_small.jpg>
-Enga Province lies toward the north-western end of the
-highlands region while Southern Highlands and Western
-Highlands lie south and east respectively.
-Previous
-Click Map to Enlarge
+* * *
+
+Click to Enlarge Map
 
 ![images/053-01.jpg](images/053-01.jpg)
 
+http://www.sil.org/pacific/png/maps/SHP_Enga_small.jpg
+
+Enga Province lies toward the north-western end of the
+highlands region while Southern Highlands and Western
+Highlands lie south and east respectively.
 
 
-==> text/054.txt <==
-THE WESTERN HIGHLANDS PROVINCE: The Enga People
-Where is Enga Province?
+
+* * *
+
+## THE WESTERN HIGHLANDS PROVINCE: The Enga People
+
+### Where is Enga Province?
+
 Enga Province is one of the five (5) Highland Provinces in New Guinea,
 which includes Eastern Highlands, Western Highlands, Chimbu, and
 Southern Highlands. Enga lies towards the far north-western end of the
 Highlands region in New Guinea.
+
 Enga has five (5) District Regions:
-1.Wabag Central District
-2.Tsak Wapenamanda District
-3.Lagaip Porgera District
-4.Kompiam Ambum District
-5.Kandep District
+
+1. Wabag Central District
+2. Tsak Wapenamanda District
+3. Lagaip Porgera District
+4. Kompiam Ambum District
+5. Kandep District
+
 The provincial headquarter and the capital is centered in Wabag.
-The Enga Province is the highest and most rugged in New Guinea.  It
-covers an area of 4942.2 square miles.   Much of the province is at
-altitudes of over 6561.7 feet.  Lower altitude areas are typically valleys,
+
+The Enga Province is the highest and most rugged in New Guinea. It
+covers an area of 4942.2 square miles. Much of the province is at
+altitudes of over 6561.7 feet. Lower altitude areas are typically valleys,
 which form the watershed for the two major river systems that drain the
 province, the Lagaip [which is a tributary of the Fly] and the Lai [which is
-a tributary of the Wahgi] <http://en.wikipedia.org/wiki/Enga_Province>.
-Next
+a tributary of the Wahgi](http://en.wikipedia.org/wiki/Enga_Province).
 
-==> text/055.txt <==
-Enga Sing Sing
-Click
- HERE
- to watch film clip
-Previous
+* * *
 
-![images/055-01.jpg](images/055-01.jpg)
+![Enga Sing Sing](images/055-01.jpg)
 
+Click HERE to watch film clip
 
 * * *
 
