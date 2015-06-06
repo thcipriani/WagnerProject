@@ -15,6 +15,8 @@
 
 [Click HERE to hear Mrs. Wagner](audio/001.mp3)
 
+* * *
+
 ## FORWARD
 
 ### What is this website about?
@@ -51,6 +53,8 @@ Enjoy!
 
 [Click HERE to hear Mrs. Wagner](audio/003.mp3)
 
+* * *
+
 ## ACKNOWLEDGMENTS
 
 I would like to give special thanks to all the people who helped put this
@@ -83,6 +87,8 @@ B.A., M.A. Anthropology
 ![Destination: Papua New Guinea](images/005-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/005.mp3)
+
+* * *
 
 ## CONTENTS
 
@@ -162,6 +168,8 @@ B.A., M.A. Anthropology
 
 [Click HERE to hear Mrs. Wagner](audio/009.mp3)
 
+* * *
+
 ## MISSION WORK AND THE LUTHERAN CHURCH - Missouri Synod
 
 The Highland Mountains were inhabited by some of the most primitive people
@@ -237,6 +245,8 @@ Yaramanda, Enga Province.
 
 [Click HERE to hear Mrs. Wagner](audio/014.mp3)
 
+* * *
+
 ## THE BEGINNING - William P. Wagner
 
 William (Bill) P. Wagner, the son of Mr. and Mrs. Philip G Wagner, was
@@ -262,11 +272,15 @@ This was the BEGINNING of his life as a Pastor; William Wagner spent
 his vicarage at St. Johns Church in West Bend, Wisconsin, and
 graduated on June 4, 1954.
 
+* * *
+
 ![1953; Taken when Ruth and Bill first met.  L to R - Ruth L. Prueter, Ester (Ruth's sister), Ruth's Father, Ruth's Mother, Bill Wagner behind pole](images/015-02.jpg)
 
 ![Jan 11, 1955; Concordia Seminary, St Louis, MO.; School Paper: The Quad. Graduation from Mission School: Mr. and Mrs. Wagner are the middle, or second couple from the Left. Ordination - Feburary, 1955.](images/015-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/015.mp3)
+
+* * *
 
 ## MARRIAGE PROPOSAL - Then Off to New Guinea!
 
@@ -295,11 +309,15 @@ into the Hewa territories.
 
 [Click HERE to hear Mrs. Wagner](audio/016.mp3)
 
+* * *
+
 ![Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.](images/017-03.jpg)
 
 ![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](images/017-02.jpg)
 
 ![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](images/017-01.jpg)
+
+* * *
 
 ## STARTING A NEW LIFE TOGETHER – Arriving in Papua, New Guinea
 
@@ -326,13 +344,19 @@ Saka Raiakama to begin a new main station and circuit of their own.
 
 [Click HERE to hear Mrs. Wagner](audio/018.mp3)
 
+* * *
+
 ![a woman splitting the bamboo](images/019-01.jpg)
 ![preparing bamboo for pounding](images/019-02.jpg)
+
+* * *
 
 Both Enga men and women construct blind walls. Shown above, a woman
 splitting the bamboo, preparing it for pounding
 
 [Click HERE to view movie clip](video/WallBuilding.wmf)
+
+* * *
 
 ## BUSH HOUSES - How they are built
 
@@ -354,6 +378,8 @@ designed to catch rain water.
 
 [Click HERE to hear Mrs. Wagner](audio/Pg20b.mp3)
 
+* * *
+
 ![1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house](images/021-01.jpg)
 
 ![Mrs. Ruth Wagner feeding chickens in chicken yard of Bush House](images/021-02.jpg)
@@ -363,6 +389,8 @@ designed to catch rain water.
 ![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](images/021-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/Pg21a.mp3)
+
+* * *
 
 ## HOME AWAY FROM HOME - Getting Settled
 
@@ -376,6 +404,8 @@ states:
 > (Wagner Newsletter, pg 7, September 1955).
 
 [Click HERE to hear Mrs. Wagner](audio/Pg22.mp3)
+
+* * *
 
 ![Bedroom and Shower on the left](images/023-01.jpg)
 
@@ -392,6 +422,8 @@ states:
 ![Foodsafe + door left of table to bedroom](images/023-04.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-002.mp3)
+
+* * *
 
 She continues to explain the nature of Bush house:
 
@@ -421,12 +453,15 @@ used a hammer at night; he learned to be quick getting out of bed.   Rats
 were frequent visitors in all bush houses, and cats were also very helpful
 to keep down their population [Wagner Oral Slide History].
 
+* * *
+
 [Click HERE to hear Mrs. Wagner](audio/025-001.mp3)
 
 ![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](images/025-01.jpg)
 
 ![The Washing Machine used in Bush and Permanent house](images/025-02.jpg) 
 
+* * *
 
 ## MRS. RUTH WAGNER - A Missionary Wife’s Life
 
@@ -455,6 +490,8 @@ The ironing was done with a Coleman gas iron with a little tank attached
 to the rear, which is filled with gasoline for each ironing job, pumped
 with air, primed at the bottom and then ignited.
 
+* * *
+
 ![Mrs. Wagner's Australian wood-burning cook stove in bush house](images/027-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-001.mp3)
@@ -464,6 +501,8 @@ with air, primed at the bottom and then ignited.
 ![Enga women come to sell vegetables to missionary wives](images/027-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-002.mp3)
+
+* * *
 
 For cooking, the Australian stove was boxed-in and filled with dirt on
 three sides, to prevent the loss of heat.  It had the firebox on top and
@@ -489,6 +528,8 @@ Engas’ main item of diet, occasional yams,  kumu - the native spinach,
 pumpkin greens, corn, several varieties of bananas, papaya, tomatoes,
 and chicken eggs to supplement their diet (WNL).
 
+* * *
+
 ![Reverend William Wagner and wife, Ruth Wagner with their five daughters.  Left to Right - Jennifer, Kristen (in front), Lisa (behind Kristen), Sarah and Stephanie (in front of Sarah)](images/029-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-001.mp3)
@@ -497,6 +538,7 @@ and chicken eggs to supplement their diet (WNL).
 
 [Click HERE to hear Mrs. Wagner](audio/029-002.mp3)
 
+* * *
 
 ## RAISING A FAMILY – In New Guinea
 
@@ -528,11 +570,15 @@ routine.   Washing was now done at least three times a week, two baby
 washes were boiled in the copper outside, and one washed with the
 regular wash.
 
+* * *
+
 ![1955; New Guinea - The Wagner's houseboy, Sakaraiadana](images/031-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/031-001.mp3)
 
 ![1957; Rev. and Mrs. Ruth Wagner traveling by motorcycle, carrying Sarah in a home-made baby carrier - an  Australian knapsack with holes cut for her legs](images/031-02.jpg)
+
+* * *
 
 The copper was a large basin which held about ten gallons of water and
 rested in the top of a 44-gallon gasoline drum.  A hole had been cut in the
@@ -562,9 +608,13 @@ house for daily use.
 > daughter, for that is something only the women do in the native
 > society” (Wagner Newsletter, March 1955).
 
+* * *
+
 [Click HERE to hear Mrs. Wagner](audio/033-001.mp3)
 
 ![Christmas time in New Guinea](images/033-01.jpg)
+
+* * *
 
 ## CHRISTMAS - Away From Home
 
@@ -598,6 +648,8 @@ Wagner states:
 > the story of the birth of Jesus still sounding in our hearts we had
 > a lovely, simple Christmas eve”. (Wagner Newsletter, March 1955)
 
+* * *
+
 ![Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’](images/035-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/035-001.mp3)
@@ -612,6 +664,7 @@ Wagner states:
 
 ![Transportation in the Highlands Jeep and motorcycle](images/035-02.jpg)
 
+* * *
 
 ## Reverend William P. Wagner - His Missionary Duties
 
@@ -643,6 +696,8 @@ gathered for Bible study led by Reverend Wagner.
 On Fridays, he instructed Enga evangelists and elders of the
 congregations in his territory.  Reverend Wagner was a very busy man.
 
+* * *
+
 ![Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions](images/037-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/037-001.mp3)
@@ -652,6 +707,8 @@ congregations in his territory.  Reverend Wagner was a very busy man.
 ![Distant church on Walkabout](images/037-04.jpg)
 
 ![Bill has the ability and finds time to service and maintain the power plant (Photo courtsey of Edward C. May)](images/037-01.jpg)
+
+* * *
 
 A typical Sunday for Reverend Wagner consisted of five to six church
 services for missionary personnel stationed in or around Mambisanda.
@@ -682,9 +739,13 @@ emergency was for Reverend Wagner, because tomorrow she must visit
 the sick with medicine (May, Edward C., "Triple-Threat Missionary," The
 Lutheran Witness. Jan. 21, 1964).
 
+* * *
+
 ![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](images/039-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/039-001.mp3)
+
+* * *
 
 ## KEEPING IN TOUCH - Communication New Guinea Style
 
@@ -716,6 +777,8 @@ was limited to only the mission territory.  The New Guinean field had a
 system of ten receivers that were provided by a grant from the Lutheran
 Women's Mission League.
 
+* * *
+
 ![New road still under construction](images/041-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-001.mp3)
@@ -727,6 +790,8 @@ Women's Mission League.
 ![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](images/041-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-003.mp3)
+
+* * *
 
 ## TRAVELING IN NEW GUINEA - The Making of Roads
 
@@ -758,6 +823,8 @@ out-stations as possible by motorcycle, each as far as the road could take
 them, and then it was by foot again.  To connect roads and to cross rivers,
 bridges had to be put in place.
 
+* * *
+
 ![Pulling log for bridge building](images/043-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-001.mp3)
@@ -766,7 +833,10 @@ bridges had to be put in place.
 
 [Click HERE to hear Mrs. Wagner](audio/043-002.mp3)
 
+* * *
+
 ## BRIDGES - Connecting Roads
+
 Imagine huge logs, about 24 to 30 inches in diameter and 65 to 70 feet
 long, being pulled by a hundred or more men.  Several of these huge logs
 are pulled to a river, ravine, or gully to make a bridge for the jeep to
@@ -792,6 +862,8 @@ it is not regarded as wasted.  If the men have to pull a number of logs and
 it becomes a bit commonplace, they put less energy into the dancing and
 more energy into the pulling.
 
+* * *
+
 ### Reverend Wagner’s ‘Walkabout’
 
 ![images/045-01.jpg](images/045-01.jpg)
@@ -804,8 +876,10 @@ more energy into the pulling.
 
 [Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
 
+* * *
 
 ## A NEW GUINEAN “WALKABOUT”
+
 To a New Guinean missionary -
 
 > “Walkabout” is a very common term.  It is a rather extensive
@@ -833,11 +907,15 @@ stations in the Highlands.  They left Yaramanda and were gone for four
 another four (4) days.  This time they visited Raiakama, where the
 Wagners were to build their station, and witnessed a native reception.
 
+* * *
+
 [Click HERE to hear Mrs. Wagner](audio/047-001.mp3)
 
 ![“Walkabout” Footpath](images/047-01.jpg)
 
 ![“Walkabout” Footbridge](images/047-02.jpg)
+
+* * *
 
 Word that they were coming had gone ahead of them, and as they came
 down the mountain, the “yodeling,” so to speak, of the carriers told them
@@ -860,10 +938,11 @@ Since Reverend Wagner’s first “Walkabout”, he undertook many, many
 more to get to the people he needed to see throughout his working
 career in the Western Highlands of New Guinea.
 
+* * *
+
 ![Sarah Wagner, second from left, waits with other missionary children for a plane that will take them 3000 miles from their New Guinean home to a school in Australia](images/049-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/049-001.mp3)
-
 
 ==> text/050.txt <==
 Leaving New Guinea was a difficult choice for Reverend Bill and Mrs. Ruth
@@ -974,266 +1053,209 @@ Previous
 ![images/055-01.jpg](images/055-01.jpg)
 
 
+* * *
 
-==> text/056.txt <==
-Click HERE to hear Mrs. Wagner
-WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction
-Next
-The traditional Enga settlement style is that of scattered homesteads
-dispersed throughout the landscape. Sweet potato is the staple food,
-sometimes (not often) supplemented by pork.  Pigs are a culturally valued
-item of exchange.  It is the elaborate systems of pig exchange that mark
-social life in the province.
-In Enga society there is a strict segregation of sexes. Husband and wife do
-not share the same household unless the couple has tried to adopt the style
-of the Europeans.  In the true Enga culture, the women and girls live in a
-woman's house and the males and boys in a man's house.   Husbands and
-wives do not walk together; the man always peceding the wife down the
-road.  Only the wife takes care of the pigs and gardens the sweet potato.
-Her husband hunts, grows the sugarcane, builds houses, and prepares the
-mounds for his wife’s, or wives' sweet potato vines.
-Who are the Enga people, you ask?  Well, the Enga are the largest linguistic
-and cultural group in all of Papua New Guinea.  They live on the western
-side of the Hagan Range in clan groups. The Enga people live mostly by
-subsistence farming.
-After getting settled in Raiakama, the Reverend William and Mrs. Wagner
-were ready to begin their work as missionaries with the Enga people of
-the Enga Province.
+## WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction
+
+After getting settles in Raiakama, the Reverend Willian and Mrs. Wagner
+were ready to begin their work as missionaries with the Enga people
+of the Enga Province.
+
+Who are the Enga people you ask?  Well, the Enga are the largest linguistic
+and cultural group in all of Paupa New Guinea.  They live on the Western side
+of the Hagan Range in clan groups.  The Enga people live mostly by
+subsistance farming.
 
 [Click HERE to hear Mrs. Wagner](audio/056-001.mp3)
 
+The traditional Enga settlement style is that of scattered homesteads
+dispersed throughout the landscape. Sweet potato is the staple food,
+sometimes (not often) supplemented by pork. Pigs are a culturally valued
+item of exchange. It is the elaborate systems of pig exchange that mark
+social life in the province.
+
+In Enga society there is a strict segregation of sexes. Husband and wife do
+not share the same household unless the couple has tried to adopt the style
+of the Europeans. In the true Enga culture, the women and girls live in a
+woman's house and the males and boys in a man's house. Husbands and
+wives do not walk together; the man always peceding the wife down the
+road. Only the wife takes care of the pigs and gardens the sweet potato.
+Her husband hunts, grows the sugarcane, builds houses, and prepares the
+mounds for his wife’s, or wives' sweet potato vines.
+
 [Click HERE to hear Mrs. Wagner](audio/056-002.mp3)
 
+* * *
 
-
-==> text/057.txt <==
-A Man and Woman in
-Ceremonial Dress at a Sing
-Sing. Notice the Bird-of-
-Paradise Plumes in their
-Wigs; this identifies them
-both as Enga. The shape of
-their wig is also another
-identifier.
-"Carefully built
-wigs are said to provide a
-resting place for the spirits,
-to enhance one's powers"
-
-[V. Harbutt]. Also, tree-oil
-covers the body, and the
-color red is a mark of
-beauty
-Enga men carrying pig for
-ceremony
-Men make
-and tend
-the
-ground
-oven;
-women
-bring the
-food to go
-inside
-Previous
-
+<figure>
 ![images/057-01.jpg](images/057-01.jpg)
 
 ![images/057-02.jpg](images/057-02.jpg)
 
+    <figcaption>
+        A Man and Woman in a Ceremonial Dress at a Sing Sing
+        Notice the Bird-of- Paradise Plumes in their Wigs;
+        this identifies them both as Enga. The shape of their
+        wig is also another identifier. "Carefully built wigs
+        are said to provide a resting place for the spirits,
+        to enhance one's powers"[V. Harbutt]. Also, tree-oil
+        covers the body, and the color red is a mark of beauty
+        Enga men carrying pig for ceremony Men make and tend
+        the ground oven; women bring the food to go inside
+    </figcaption>
+</figure>
+
+<figure>
 ![images/057-03.jpg](images/057-03.jpg)
 
 ![images/057-04.jpg](images/057-04.jpg)
 
+    <figcaption>
+        Men make and tend the ground oven; women bring the
+        food to go inside the oven.  Enga men carrying pig for
+        ceremony
+    <figcaption>
+</figure>
 
+* * *
 
-==> text/058.txt <==
-Click HERE to hear Mrs. Wagner
-Click HERE to view film clip of a pig kill
-WARNING : VERY GRAPHIC!
+Cont'd
+
 Proud Warriors wearing ceremonial head dresses displaying the brilliant
 colors of plumes from the bird of paradise, painted in bright ochre, dance
 long into the night to the beat of the kundu hand drums.
-Next
+
+[Click HERE to hear Mrs. Wagner](audio/058-001.mp3)
+
 The Ceremonial Sing Sing can last for days, during which time many pigs,
-the geatest symbol of wealth, will be presented as gifts.  Men will slaughter
+the geatest symbol of wealth, will be presented as gifts. Men will slaughter
 the pigs and prepare a feast of pork. The women will bring the bananas,
 greens, and mapu [sweet potato] to add to the feast.
-But before a feast can begin, preparations will need to take place.  The
+
+But before a feast can begin, preparations will need to take place. The
 men will dig a pit in the ground, and firewood and rocks are placed in the
 bottom. When the rocks are heated, layers of vegetables, pork, and greens
 are placed in the pit and covered, first with large leaves to protect the
 food, and then a layer of insulating dirt is added over the top.
+
 The food will cook for three or more hours, and when it is ready, the dirt
 and leaves are carefully removed. The food is then removed from the pit
-and guests will use plates of large leaves.  Any leftover food will be sent
+and guests will use plates of large leaves. Any leftover food will be sent
 home with guests, indicating to all, the wealth and generosity of the host
-<http://www.elca.org/countrypackets/png/recipe.html>.
-Cont'd
+http://www.elca.org/countrypackets/png/recipe.html.
 
-[Click HERE to hear Mrs. Wagner](audio/058-001.mp3)
+Click HERE to hear Mrs. Wagner Click HERE to view film clip of a pig kill
+WARNING : VERY GRAPHIC!
 
+* * *
 
+![Ta(m)bu: Gate with a spell telling all who approach -
+“Do not pass” or “Keep Out”
+Previous](images/059-01.jpg)
 
-==> text/059.txt <==
-Ta[m]bu: Gate with a spell telling all who approach -
-"Do not pass" or "Keep Out"
-Previous
+* * *
 
-![images/059-01.jpg](images/059-01.jpg)
+## ENGA CONCEPTS: Overview
 
-
-
-==> text/060.txt <==
-ENGA CONCEPTS: Overview
-[Excerpt from Wagner Newsletter, Sept 24, 1963].
-The Enga concepts of life and the world are practical, earthly concepts.
-They accept the world, the sun, the moon and the stars as something that
-is.  Their concept of a higher power is embodied in the “semongo", or the
-spirits of the deceased in their family, in their tribe or among their
-kinsmen.  These spirits frequent the places where the deceased lived their
-earthly lives, and can cause illness, death, poor crops, etc..
-Their fables, which they tell and retell, deal with matters like planting
-gardens, gathering of produce from the garden, cooking food, eating food,
-or marrying, to name a few.  Another type of spirit enters into these fables;
-he is called “putututi” or “kanamongari”.  He can change his form and
-become human, an animal, an insect, a bird, or even a tree.  The Enga fear
-“putututi” as much as they fear “semongo", as they are both powerful
-spirits.
-Next
-Click HERE to hear Mrs. Wagner
-Click HERE to stop audio
+> The Enga concepts of life and the world are practical, earthly concepts.
+> They accept the world, the sun, the moon and the stars as something that
+> is. Their concept of a higher power is embodied in the “semongo", or the
+> spirits of the deceased in their family, in their tribe or among their
+> kinsmen. These spirits frequent the places where the deceased lived their
+> earthly lives, and can cause illness, death, poor crops, etc..
+>
+> Their fables, which they tell and retell, deal with matters like planting
+> gardens, gathering of produce from the garden, cooking food, eating food,
+> or marrying, to name a few. Another type of spirit enters into these fables;
+> he is called “putututi” or “kanamongari”. He can change his form and
+> become human, an animal, an insect, a bird, or even a tree. The Enga fear
+> “putututi” as much as they fear “semongo", as they are both powerful spirits.
+> (Excerpt from Wagner Newsletter, Sept 24, 1963).
 
 [Click HERE to hear Mrs. Wagner](audio/060-001.mp3)
 
+* * *
 
+![Enga women bring life into the world out in the bush, and by themselves.
+The newborn in this photo is only hours old.](images/061-01.jpg)
 
-==> text/061.txt <==
-Boys from five years of age
-and older live in the men’s
-house.  Prepubescent boys
-wear only a smile
-Enga women bring life
-into the world out in the
-bush, and by
-themselves.
-The newborn in this
-photo is only hours old
-Mothers gather together with their children
-of both sexes.  When boys are somewhat
-self-sufficient, they go to live in their
-father's house.  The mother quiets her
-baby by stimulating the genitals
-Previous
+![Boys from five years of age and older live in the Men's house.
+Prepubescent boys wear only a smile.](images/061-02.jpg)
 
-![images/061-01.jpg](images/061-01.jpg)
+![Mothers gather together with their children of both sexes. When the
+boys are somewhat sufficient, they go live in their father's house.
+The mother quiets her baby by stimulating the genitalia.](images/061-03.jpg)
 
-![images/061-02.jpg](images/061-02.jpg)
+* * *
 
-![images/061-03.jpg](images/061-03.jpg)
+## Birth
 
-
-
-==> text/062.txt <==
-Click HERE to hear Mrs. Wagner
-Family
-The Enga family is a divided family.  Women, babies, all small children
-and all girls live in the women’s house.  Men and boys from five to eight
-and older all live in the men’s house. A man will build a women’s house
-near to the place where he lives in a men’s house and will have his wife
-live there, but there is a division which is hard to overcome.
-Discipline is very lax, and it is not uncommon for a young lad to sleep in
-his uncle’s house because his father wanted him to do a certain thing or
-because his father tried to correct him.  However, should a young lad
-become a discipline problem for the clan and repeatedly cause strife in
-the clan with thefts and misdemeanors, the clan will deal with him and
-sometimes deal harshly with him.
-Next
-Birth
 Women give birth to children in a spot removed from the house, a place
-overgrown with a considerable growth of wild can bushes and tall
-grasses.  If she has difficulty, she can cry for help, someone may come
-– it is not uncommon for a woman to have given birth to six or seven
+overgrown with a considerable growth of wild cane bushes and tall
+grasses.  If she has difficutly, she can cry for help, someone may come.
+It is not uncommon for a woman to have given birth to six or seven
 children and have only two reach maturity.  A child is not named at
-birth; the parents wait for a month or two to see if the child lives before
+birth; the parents wait a month or two to see if the child lives before
 naming him/her.
 
 [Click HERE to hear Mrs. Wagner](audio/062-001.mp3)
 
+## Family
 
+The Enga family is a divided family. Women, babies, all small children
+and all girls live in the women’s house. Men and boys from five to eight
+and older all live in the men’s house. A man will build a women’s house
+near to the place where he lives in a men’s house and will have his wife
+live there, but there is a division which is hard to overcome.
 
-==> text/063.txt <==
-Shields: Warfare is a major aspect of Highland’s life, and shields are the
-supreme artistic expression connected with it.  Highland’s shields are
-used exclusively for combat and are not related to ceremonial
-occasions, as they are in other parts of Melanesia.  During periods of
-peace, they were usually stored in their owner’s abode above the fire or
-in the Men’s House.  The smoke of the fire blackened and hardened the
-timber, so that shields often lasted a century.  Periods of peace were
-always unstable, due to ever-changing alliances.  When warfare
-inevitable erupted, these stored shields were brought down, repainted,
-and used.
-Under the Australian colonial rule policy of “Pacification,” which was
-initiated in the Highlands from first contact in the 1930s through
-Independence in 1975, large scale inter-tribal warfare all but ceased.
-Even the smaller skirmishes were largely contained.  Many shields and
-other weapons were burned or discarded during this period, but during
-the late 1970s, both warfare and shield production began to revive.
-Highland’s shields were traditionally stone-adzed, but the introduction
-of steel blades has resulted in little alteration in shape, size, or design
-Women, babies,
-children under 5
-years of age -
-male and female -
-live in the
-women’s house,
-along with the
-pigs. Girls wear
-kuta skirts before
-they can walk.
-Mother and Children in Sweet Potato Garden
-Boys stay with their
-mother until they are
-able to look after
-their own needs to a
-large extent
-Previous
+Discipline is very lax, and it is not uncommon for a young lad to sleep in
+his uncle’s house because his father wanted him to do a certain thing or
+because his father tried to correct him. However, should a young lad
+become a discipline problem for the clan and repeatedly cause strife in
+the clan with thefts and misdemeanors, the clan will deal with him and
+sometimes deal harshly with him.
 
-![images/063-01.jpg](images/063-01.jpg)
+* * *
 
-![images/063-02.jpg](images/063-02.jpg)
+![Women, babies, children under 5 years of age - male and female
+- live in the women’s house, along with the pigs. Girls wear kuta skirts
+before they can walk.](images/063-01.jpg)
 
-![images/063-03.jpg](images/063-03.jpg)
+![Mother and Children in Sweet Potato Garden](images/063-02.jpg)
 
+![Boys stay with their mother until they are able to look after their own
+needs to a large extent](images/063-03.jpg)
 
+* * *
 
-==> text/064.txt <==
-Click HERE to hear Mrs. Wagner
-Childhood
+## Childhood
+
 Children stay with the mother and the mother nurses them for at least
 four years before they are weaned.  After the children are weaned, the
-boys stay with their mother until they are able to look after their own
-needs to a large extent.  The exact age when a young lad leaves his
-mother and starts living with his father in the men’s house cannot be
-determined.  It varies from about five to eight years of age.
-Generally the children are carefree and have little responsibility.  The
-father shows the boy how to perform the work of the men and the
-mother shows the girl how to do the “women’s work”.  They are asked
-to carry firewood, weed the garden and draw drinking water from the
-spring.  Children have much time to play.
-Next
+boys stay with their mother until they are able to look after their own needs
+to a large extent.  The exact age when a young lad leaves his mother and
+starts living with his father in the men's house cannot be determined.  It
+varies from about five to eight years of age.
+
+Generally the children are carefree and have little responsibility.  The father
+shows the boy how to preform the work of the men, and the mother shows
+the girl how to do "woman's work."  Girls are taught to carry firewood, weed
+the garden, and draw drinking water from the spring. Children have much
+time to play.
 
 [Click HERE to hear Mrs. Wagner](audio/064-001.mp3)
+
+* * *
 
 [Click HERE to hear Mrs. Wagner](audio/065-001.mp3)
 
 [Click HERE to hear Mrs. Wagner](audio/065-002.mp3)
 
-* * *
-
 ![Enga Man's House](images/065-01.jpg)
 
 ![Enga Woman's House](images/065-02.jpg)
+
+* * *
 
 ## Houses
 
@@ -1260,11 +1282,15 @@ utensils.
 
 [Click HERE to hear Mrs. Wagner](audio/066-001.mp3)
 
+* * *
+
 ![The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men](images/067-01.jpg)
 
 ![Before, a Boy, Now, a Man - Returning after the Sandalu Ceremony](images/067-02.jpg)
 
 ![The clan meeting place; where Ceremonies are also held Previous](images/067-03.jpg)
+
+* * *
 
 ## Clan
 
@@ -1287,10 +1313,13 @@ clansmen.
 
 [Click HERE to hear Mrs. Wagner](audio/068-001.mp3)
 
+* * *
+
 ![Picture of happy bride](images/069-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/069-001.mp3)
 
+* * *
 
 ## Marriage
 
@@ -1316,10 +1345,14 @@ They then live happily ever after.
 
 [Click HERE to hear Mrs. Wagner](audio/070-001.mp3)
 
+* * *
+
 ![As punishment for committing adultery, a husband would cut
 off the front of his wife's nose. This woman covers what was
 once her nose with a leaf.  However, a double standard exists;
 men are not punished for committing the same act.](images/071-01.jpg)
+
+* * *
 
 ## Adultery
 
