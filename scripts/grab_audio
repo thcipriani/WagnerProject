@@ -1,6 +1,23 @@
 #!/usr/bin/env bash
 
+# root="http://holmes.anthropology.museum"
+# folder="shawnee/Audio"
+
+# Changed after mirroring the entire site and realizing there is sometimes an "a", "b", "c", and "d" :)
+root="${HOME}/Projects/Holmes/holmes.anthropology.museum:2101"
+folder="shawnie/Audio"
+
 for i in {1..200}; do
-    fn=$(printf "%03d" $i)
-    wget -O "audio/$fn.mp3" "http://holmes.anthropology.museum/shawnee/Audio/Pg${i}.mp3"
+    page=$(printf "%03d" $i)
+    count=0
+    for id in '' 'a' 'b' 'c' 'd'; do
+        if [ -f "${root}/${folder}/Pg${i}${id}.mp3" ]; then
+            (( count++ ))
+            page=$(printf "%03d" $i)
+            fn="${page}-$(printf "%03d" "$count")"
+            cp "${root}/${folder}/Pg${i}${id}.mp3" "audio/${fn}.mp3"
+        fi
+
+        # wget -O "audio/${fn}.mp3" "${root}/${folder}/Pg${i}${id}.mp3"
+    done
 done

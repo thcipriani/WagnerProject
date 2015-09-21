@@ -1,0 +1,106 @@
+#!/usr/bin/env python2
+"""
+
+Big Pictures
+~~~
+
+usage: ./big-pictures
+
+Run only in the wagner directory with a ../Holmes/shawnie/Photos dir
+
+Requirements (non-standard python modules):
+
+scikit-image
+python image library
+tinytag
+requests
+"""
+import glob
+import logging
+import os
+import shutil
+import sys
+
+import PIL
+from PIL import Image
+from skimage.measure import structural_similarity as ssim
+from skimage import io, color
+
+logging.basicConfig(level=logging.INFO, format='%(message)s')
+nf_logger = logging.getLogger('notfound')
+nf_hdlr = logging.FileHandler('./notfound.log')
+nf_formatter = logging.Formatter('%(message)s')
+nf_hdlr.setFormatter(nf_formatter)
+nf_logger.addHandler(nf_hdlr)
+nf_logger.setLevel(logging.DEBUG)
+
+count = 0
+# Find all jpg files on page
+
+logger = logging.getLogger('other')
+for f in glob.glob('./images/*.jpg'):
+    count = count + 1
+
+    file_name = os.path.basename(f)
+    page = str(int(file_name.split('-')[0]))
+    page_str = 'Pg' + page
+
+    logger.info('\n----------\nPage: {}'.format(page))
+
+    path = os.path.realpath(f)
+    logger.debug('Base File: {}'.format(path))
+
+    # for comparison later
+    img = Image.open(path)
+    dims = img.size
+    og_image = color.rgb2gray(io.imread(path))
+
+    photo_path = os.path.realpath('../Holmes/holmes.anthropology.museum:2101/shawnie/Photos')
+    glob_base = os.path.join(photo_path, page_str)
+    logger.debug(glob_base)
+    potentials = glob.glob('{}{}'.format(glob_base, '*.jpg'))
+    logger.debug(potentials)
+    big_path = os.path.join(os.getcwd(), 'big_images', file_name)
+
+    top = None
+    best_ssim = 0
+    for name in potentials:
+        match = name[name.find(page_str):]
+        try:
+            int(match.split(page_str)[1][0])
+            continue
+        except ValueError:
+            pass
+        except IndexError:
+            logger.warning('INDEX ERROR: {}'.format(repr(match)))
+
+        match_path = os.path.join(photo_path, match)
+
+        rpath = os.path.join('/tmp', match + '__resize.jpg')
+        logger.debug('Tmp image {}'.format(rpath))
+
+        # Resize the big one
+        small_img = Image.open(match_path)
+        small_img = small_img.resize(dims, PIL.Image.ANTIALIAS)
+        small_img.save(rpath)
+
+        # Convert to grey-scale and compare the two
+        new_image = color.rgb2gray(io.imread(rpath))
+
+        try:
+            s = ssim(og_image, new_image)
+        except ValueError:
+            continue
+
+        if s > best_ssim:
+            top = match_path
+            best_ssim = s
+            logger.debug('SSIM: {}'.format(s))
+
+    if top is not None and best_ssim > 0.3:
+        logger.info('Best SSIM: {}'.format(best_ssim))
+        logger.info('feh {} {}'.format(path, big_path))
+        shutil.copyfile(top, big_path)
+    else:
+        logger.info('None found for {}'.format(path))
+        nf_logger.debug(path)

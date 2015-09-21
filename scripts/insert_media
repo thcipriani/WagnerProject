@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+BASEDIR="$( cd -P "$( dirname "$0" )" && pwd )"
+infile="${BASEDIR}/../edited_text.txt"
+outfile="${BASEDIR}/../new_text.txt"
+
+# Clean new text
+cat /dev/null > "$outfile"
+
+for i in {1..200}; do
+    fn=$(printf "%03d" $i)
+    printf "[INFO] Processing page\t%s\n" "$fn"
+
+    add=''
+    audiotext="Click HERE to hear Mrs. Wagner"
+
+    for file in ${BASEDIR}/../audio/${fn}-*.mp3; do
+        if [ -f  "$file" ]; then
+            add="${add}[${audiotext}](audio/$(basename ${file}))\n\n"
+        fi
+    done
+
+    for file in ${BASEDIR}/../images/${fn}-*.jpg; do
+        if [ -f "$file" ]; then
+            add="${add}![images/$(basename ${file})](images/$(basename ${file}))\n\n"
+        fi
+    done
+
+    perl -00 -ne "print if /\=\=> text\/${fn}.txt <\=\=/i" "$infile" >> "$outfile"
+    if [ -n "$add" ]; then
+        printf "$add\n\n" >> "$outfile"
+    fi
+done
+
+perl -pli -e "s/\s*$//" "$outfile"
