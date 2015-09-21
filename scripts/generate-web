@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+md=$(git show master:README.md)
+echo "$md" | pandoc -s -f markdown -t html -o "index.html"
