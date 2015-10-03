@@ -1,0 +1,43 @@
+---
+layout: page
+title: BRIDGES - Connecting Roads
+previous: <a class="prev-link" href="/traveling-in-new-guinea---the-making-of-roads.html">Previous</a>
+...
+## BRIDGES - Connecting Roads
+
+Imagine huge logs, about 24 to 30 inches in diameter and 65 to 70 feet
+long, being pulled by a hundred or more men.  Several of these huge logs
+are pulled to a river, ravine, or gully to make a bridge for the jeep to
+cross.
+
+A hole is chopped in the end of the log, much like an eye of a needle; the
+vine or root ropes are threaded through this hole and tied.  Root ropes are
+cut from a tree that grows in well-watered places.  The roots of this tree
+grow just beneath the surface of the ground and quite often are 30 to 40
+feet long.  Smaller logs or saplings are used to keep the log moving by
+being placed and replaced under the log as it is pulled along the ground.
+
+It is usual to see 100 or more men pulling a log.  All of them make the
+occasion of pulling a log a festive one and do everything to make
+themselves more handsome and more attractive to the girls who will
+watch them.  They put feathers in their hair, paint their noses red, put
+tree oil all over their bodies, or smear charcoal on their faces.
+
+They chant and dance as they pull the log.  Their jumping up and down is
+timed to coordinate with the cadence of their chant, and at each jump the
+log is pulled a few inches.  Much energy is used jumping up and down, but
+it is not regarded as wasted.  If the men have to pull a number of logs and
+it becomes a bit commonplace, they put less energy into the dancing and
+more energy into the pulling.
+
+### Reverend Wagner’s ‘Walkabout’
+
+![images/045-01.jpg](images/045-01.jpg)
+
+![images/045-02.jpg](images/045-02.jpg)
+
+![images/045-03.jpg](images/045-03.jpg)
+
+![images/045-04.jpg](images/045-04.jpg)
+
+[Click HERE to hear Mrs. Wagner](audio/045-001.mp3)

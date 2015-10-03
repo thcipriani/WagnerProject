@@ -1,0 +1,24 @@
+---
+exclude:
+    - ABOUT.md
+    - README.md
+    - Makefile
+    - big_images
+    - scripts
+    - pages
+    - img
+    - test
+    - text
+    - flash
+
+collections:
+    pages:
+        output: true
+        permalink: /pages/:title/
+
+defaults:
+    - scope:
+        path: ''
+        type: pages
+        values:
+            layout: page

@@ -1,0 +1,93 @@
+#!/usr/bin/env python2
+
+import logging
+import os
+import re
+import subprocess
+import sys
+
+logging.basicConfig(level=logging.DEBUG)
+LOG = logging.getLogger()
+
+# Make _site dir
+base_name = os.path.normpath(
+    os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
+page_dir = os.path.join(base_name, '_site')
+
+ret = subprocess.check_call(['mkdir', '-p', page_dir])
+
+# Compile/copy site css
+
+# Parse README.md
+with open(os.path.join(base_name, 'README.md')) as f:
+    page = f.read()
+
+pages = page.split('<!-- PAGE BREAK -->')
+
+page_count = 1
+pattern = r'\#+\s+([\s\w\'\"\:!\?\,._-]+?)$'
+
+special_pages = {
+    '1': {
+        'out': 'index.md',
+        'extra': [ '--include-after-body={}'.format(
+                os.path.join(base_name, '_includes/footer.html')),
+        ]
+    }
+}
+
+previous_link = '/{}.html'
+for page in pages:
+    page = page.strip()
+    match = re.search(pattern, page, re.M)
+    if match is None:
+        LOG.warn('Page #{} has no title!'.format(page_count))
+        sys.exit(1)
+    s = match.start()
+    e = match.end()
+    title = page[s:e].lstrip('#').rstrip('!?.').strip()
+    page_name = ''
+    try:
+        out_page = special_pages[str(page_count)]['out']
+
+        # Holds extra pandoc options
+        extra_options = special_pages[str(page_count)]['extra']
+    except KeyError:
+        page_name = title.lower().replace(' ', '-')
+        page_name = re.sub(r'[^\w-]+', '', page_name)
+        out_page = 'pages/{}.md'.format(page_name)
+        extra_options = [
+            '--include-before-body={}'.format(
+                os.path.join(base_name, '_includes/header.html')),
+            '--include-after-body={}'.format(
+                os.path.join(base_name, '_includes/footer.html')),
+        ]
+
+    pandoc = [
+        'pandoc',
+        '-t',
+        'html5',
+        '--section-divs',
+        '--css', 'css/main.css',
+        '-V', 'pagetitle={}'.format(title),
+    ]
+
+    pandoc = pandoc + extra_options
+    pandoc = pandoc + [ '-o', out_page ]
+
+    LOG.info(repr(pandoc))
+
+    p = subprocess.Popen(pandoc, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    out, err = p.communicate(input=page)
+    if err:
+        LOG.warn('Pandoc Failure: {}\n{}'.format(out, err))
+        sys.exit(1)
+
+    if previous_link:
+        with open(out_page, 'r+') as f:
+            content = f.read()
+            f.seek(0, 0)
+            f.write(previous_link + '\n' + content)
+
+    previous_link = '<a class="prev-link" href="/{}.html">Previous</a>'.format(page_name)
+    page_count = page_count + 1
