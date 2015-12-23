@@ -1,9 +1,11 @@
 ---
 layout: page
 title: HOME AWAY FROM HOME - Getting Settled
-previous: <a class="prev-link" href="/bush-houses---how-they-are-built.html">Previous</a>
+image: /assets/images/023-01.jpg
+caption: Bedroom and Shower on the left
 ...
-## HOME AWAY FROM HOME - Getting Settled
+
+
 
 Four months later, in August 1955, the Wagners officially moved to
 Raiakama and began work at the new main station.  The house where
@@ -16,19 +18,18 @@ states:
 
 [Click HERE to hear Mrs. Wagner](audio/Pg22.mp3)
 
-![Bedroom and Shower on the left](images/023-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-003.mp3)
 
-![Closet, bassinet, and changing table](images/023-02.jpg)
+![Closet, bassinet, and changing table](/assets/images/023-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-001.mp3)
 
-![Kitchen Pantry; notice floor](images/023-03.jpg)
+![Kitchen Pantry; notice floor](/assets/images/023-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-004.mp3)
 
-![Foodsafe + door left of table to bedroom](images/023-04.jpg)
+![Foodsafe + door left of table to bedroom](/assets/images/023-04.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-002.mp3)
 
@@ -62,6 +63,7 @@ to keep down their population [Wagner Oral Slide History].
 
 [Click HERE to hear Mrs. Wagner](audio/025-001.mp3)
 
-![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](images/025-01.jpg)
+![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](/assets/images/025-01.jpg)
 
-![The Washing Machine used in Bush and Permanent house](images/025-02.jpg)
+![The Washing Machine used in Bush and Permanent house](/assets/images/025-02.jpg) 
+

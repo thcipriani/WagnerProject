@@ -1,9 +1,11 @@
 ---
 layout: page
-title: MARRIAGE PROPOSAL - Then Off to New Guinea
-previous: <a class="prev-link" href="/the-beginning---william-p-wagner.html">Previous</a>
+title: MARRIAGE PROPOSAL - Then Off to New Guinea!
+image: /assets/images/017-03.jpg
+caption: Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.
 ...
-## MARRIAGE PROPOSAL - Then Off to New Guinea!
+
+
 
 Two months later, William Wagner proposed marriage to Ohioan Ruth L.
 Prueter and they were married on August 14, 1954 in Memorial Lutheran
@@ -30,8 +32,8 @@ into the Hewa territories.
 
 [Click HERE to hear Mrs. Wagner](audio/016.mp3)
 
-![Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.](images/017-03.jpg)
 
-![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](images/017-02.jpg)
+![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](/assets/images/017-02.jpg)
 
-![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](images/017-01.jpg)
+![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](/assets/images/017-01.jpg)
+

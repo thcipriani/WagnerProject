@@ -1,9 +1,11 @@
 ---
 layout: page
 title: MRS. RUTH WAGNER - A Missionary Wife's Life
-previous: <a class="prev-link" href="/home-away-from-home---getting-settled.html">Previous</a>
+image: /assets/images/027-01.jpg
+caption: Mrs. Wagner's Australian wood-burning cook stove in bush house
 ...
-## MRS. RUTH WAGNER - A Missionary Wife's Life
+
+
 
 The Enga women watched curiously and intently when Ruth hung out her
 wash.  The Enga women did not wash clothes because there were no
@@ -30,13 +32,12 @@ The ironing was done with a Coleman gas iron with a little tank attached
 to the rear, which is filled with gasoline for each ironing job, pumped
 with air, primed at the bottom and then ignited.
 
-![Mrs. Wagner's Australian wood-burning cook stove in bush house](images/027-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-001.mp3)
 
-![Wedding cake baked in Mrs. Wagner's wood-burning cook stove; decorated by another missisionary wife](images/027-02.jpg)
+![Wedding cake baked in Mrs. Wagner's wood-burning cook stove; decorated by another missisionary wife](/assets/images/027-02.jpg)
 
-![Enga women come to sell vegetables to missionary wives](images/027-03.jpg)
+![Enga women come to sell vegetables to missionary wives](/assets/images/027-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-002.mp3)
 
@@ -64,10 +65,11 @@ Engas’ main item of diet, occasional yams,  kumu - the native spinach,
 pumpkin greens, corn, several varieties of bananas, papaya, tomatoes,
 and chicken eggs to supplement their diet (WNL).
 
-![Reverend William Wagner and wife, Ruth Wagner with their five daughters.  Left to Right - Jennifer, Kristen (in front), Lisa (behind Kristen), Sarah and Stephanie (in front of Sarah)](images/029-01.jpg)
+![Reverend William Wagner and wife, Ruth Wagner with their five daughters.  Left to Right - Jennifer, Kristen (in front), Lisa (behind Kristen), Sarah and Stephanie (in front of Sarah)](/assets/images/029-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-001.mp3)
 
-![November 17, 1955; Daughter Sarah in Mrs. Ruth Wagner's arms. Leaving Jaguam Lutheran Hospital to return home to the Highlands of New Guinea](images/029-02.jpg)
+![November 17, 1955; Daughter Sarah in Mrs. Ruth Wagner's arms. Leaving Jaguam Lutheran Hospital to return home to the Highlands of New Guinea](/assets/images/029-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-002.mp3)
+

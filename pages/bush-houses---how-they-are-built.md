@@ -1,9 +1,11 @@
 ---
 layout: page
 title: BUSH HOUSES - How they are built
-previous: <a class="prev-link" href="/starting-a-new-life-together---arriving-in-papua-new-guinea.html">Previous</a>
+image: /assets/images/021-01.jpg
+caption: 1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house
 ...
-## BUSH HOUSES - How they are built
+
+
 
 Bush houses, like the one Reverend William and Mrs. Ruth Wagner lived
 in when they arrived in Yaramanda and also similar to their living quarters
@@ -23,12 +25,12 @@ designed to catch rain water.
 
 [Click HERE to hear Mrs. Wagner](audio/Pg20b.mp3)
 
-![1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house](images/021-01.jpg)
 
-![Mrs. Ruth Wagner feeding chickens in chicken yard of Bush House](images/021-02.jpg)
+![Mrs. Ruth Wagner feeding chickens in chicken yard of Bush House](/assets/images/021-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/Pg21b.mp3)
 
-![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](images/021-03.jpg)
+![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](/assets/images/021-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/Pg21a.mp3)
+

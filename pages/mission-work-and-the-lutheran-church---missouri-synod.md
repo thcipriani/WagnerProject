@@ -1,9 +1,11 @@
 ---
 layout: page
 title: MISSION WORK AND THE LUTHERAN CHURCH - Missouri Synod
-previous: <a class="prev-link" href="/.html">Previous</a>
+image: /assets/images/011-04.jpg
+caption: Enga Primary School Children in their Uniforms; Older school mates as teaching assistants
 ...
-## MISSION WORK AND THE LUTHERAN CHURCH - Missouri Synod
+
+
 
 The Highland Mountains were inhabited by some of the most primitive people
 on earth.  Of all the mission fields in Asia, the Highlands of Papua New
@@ -35,13 +37,12 @@ months.
 
 [Click HERE to hear Mrs. Wagner](audio/010.mp3)
 
-![Enga Primary School Children in their Uniforms; Older school mates as teaching assistants](images/011-04.jpg)
 
-![Enga men and women carrying heavy loads](images/011-01.jpg)
+![Enga men and women carrying heavy loads](/assets/images/011-01.jpg)
 
-![Mambisanda Hospital](images/011-02.jpg)
+![Mambisanda Hospital](/assets/images/011-02.jpg)
 
-![Enga learning to sew](images/011-03.jpg)
+![Enga learning to sew](/assets/images/011-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/011.mp3)
 
@@ -70,10 +71,11 @@ Yaramanda, Enga Province.
 
 [Click HERE to hear Mrs. Wagner](audio/012.mp3)
 
-![William P. Wagner - Graduation from Concordia Seminary, Springfield, Illinois](images/013-02.jpg)
+![William P. Wagner - Graduation from Concordia Seminary, Springfield, Illinois](/assets/images/013-02.jpg)
 
-![Position as vicar - Westbend, Wisconsin Previous](images/013-01.jpg)
+![Position as vicar - Westbend, Wisconsin Previous](/assets/images/013-01.jpg)
 
 [Click HERE to watch movie clip](video/Life.wmv)
 
 [Click HERE to hear Mrs. Wagner](audio/014.mp3)
+

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: STARTING A NEW LIFE TOGETHER - Arriving in Papua, New Guinea
-previous: <a class="prev-link" href="/marriage-proposal---then-off-to-new-guinea.html">Previous</a>
+image: /assets/images/019-01.jpg
+caption: a woman splitting the bamboo
 ...
-## STARTING A NEW LIFE TOGETHER - Arriving in Papua, New Guinea
+
+
 
 In March 1955, Reverend William and Ruth Wagner's plane touched down in
 New Guinea.  Reverend Wagner writes:
@@ -28,10 +30,11 @@ Saka Raiakama to begin a new main station and circuit of their own.
 
 [Click HERE to hear Mrs. Wagner](audio/018.mp3)
 
-![a woman splitting the bamboo](images/019-01.jpg)
-![preparing bamboo for pounding](images/019-02.jpg)
+
+![preparing bamboo for pounding](/assets/images/019-02.jpg)
 
 Both Enga men and women construct blind walls. Shown above, a woman
 splitting the bamboo, preparing it for pounding
 
 [Click HERE to view movie clip](video/WallBuilding.wmf)
+

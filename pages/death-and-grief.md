@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Death and Grief
-previous: <a class="prev-link" href="/adultery.html">Previous</a>
+image: /assets/images/075-01.jpg
+caption: Enga man wearing a “yabati”, an apron-like woven garment in the front and a bunch of leaves in the rear
 ...
-## Death and Grief
+
+
 
 Death resides in the house as one of the family, and all are acquainted
 with death. Burial of the dead is the general rule. Some, however,
@@ -30,13 +32,10 @@ frost either harms or kills the sweet potato vines.
 
 [Click HERE to hear Mrs. Wagner](audio/074-001.mp3)
 
-![Enga man wearing a “yabati”, an apron-like
-woven garment in the front and a bunch of leaves in the rear](images/075-01.jpg)
 
-![Group of Enga women, girls & young man, man wearing "yabati"
-and women wearing "kuta" skirts](images/075-02.jpg)
+![Group of Enga women, girls & young man, man wearing "yabati" and women wearing "kuta" skirts](/assets/images/075-02.jpg)
 
-![Enga woman wearing a two section skirt or “kuta,” fastened
-around her waist, covering the front and the rear](images/075-03.jpg)
+![Enga woman wearing a two section skirt or “kuta,” fastened around her waist, covering the front and the rear](/assets/images/075-03.jpg)
 
-![Girl wearing a “kuta”](images/075-04.jpg)
+![Girl wearing a “kuta”](/assets/images/075-04.jpg)
+

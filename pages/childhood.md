@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Childhood
-previous: <a class="prev-link" href="/family.html">Previous</a>
+image: /assets/images/065-01.jpg
+caption: Enga Man's House
 ...
-## Childhood
+
+
 
 Children stay with the mother and the mother nurses them for at least
 four years before they are weaned.  After the children are weaned, the
@@ -24,6 +26,6 @@ time to play.
 
 [Click HERE to hear Mrs. Wagner](audio/065-002.mp3)
 
-![Enga Man's House](images/065-01.jpg)
 
-![Enga Woman's House](images/065-02.jpg)
+![Enga Woman's House](/assets/images/065-02.jpg)
+

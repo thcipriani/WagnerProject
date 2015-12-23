@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Clan
-previous: <a class="prev-link" href="/houses.html">Previous</a>
+image: /assets/images/069-01.jpg
+caption: Picture of happy bride
 ...
-## Clan
+
+
 
 The clan is concerned with its own existence, and all matters in the clan
 reflect this. There are no declared chiefs or rulers in the clan. A clan
@@ -24,6 +26,6 @@ clansmen.
 
 [Click HERE to hear Mrs. Wagner](audio/068-001.mp3)
 
-![Picture of happy bride](images/069-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/069-001.mp3)
+

@@ -4,66 +4,129 @@ import logging
 import os
 import re
 import subprocess
-import sys
 
 logging.basicConfig(level=logging.DEBUG)
 LOG = logging.getLogger()
 
-# Make _site dir
-base_name = os.path.normpath(
-    os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
-page_dir = os.path.join(base_name, '_site')
+# Path to output directory
+PAGES_PATH = 'pages'
 
-ret = subprocess.check_call(['mkdir', '-p', page_dir])
-
-# Compile/copy site css
-
-# Parse README.md
-with open(os.path.join(base_name, 'README.md')) as f:
-    page = f.read()
-
-pages = page.split('<!-- PAGE BREAK -->')
-
-page_count = 1
-pattern = r'\#+\s+([\s\w\'\"\:!\?\,._-]+?)$'
-
-special_pages = {
-    '1': {
-        'out': 'index.md',
-    }
+# Override output filename
+SPECIAL_PAGES = {
+    'the-wagner-collection': 'index.md'
 }
 
-previous_link = '/{}.html'
-for page in pages:
-    page = page.strip()
-    match = re.search(pattern, page, re.M)
-    if match is None:
-        LOG.warn('Page #{} has no title!'.format(page_count))
-        sys.exit(1)
-    s = match.start()
-    e = match.end()
-    title = page[s:e].lstrip('#').rstrip('!?.').strip()
-    page_name = ''
-    try:
-        out_page = special_pages[str(page_count)]['out']
-    except KeyError:
-        page_name = title.lower().replace(' ', '-')
-        page_name = re.sub(r'[^\w-]+', '', page_name)
-        out_page = 'pages/{}.md'.format(page_name)
+BASE_NAME = os.path.normpath(
+    os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
 
+def get_page_title(page):
+    """Given a page returns a title"""
+    title = None
+    out_page = []
+
+    for line in page.split('\n'):
+
+        if title is None and line.startswith('#'):
+            title = line.lstrip('# ').strip()
+            continue
+
+        out_page.append(line)
+
+    if title is None:
+        title = ''
+
+    return title, '\n'.join(out_page)
+
+def make_page_name(title):
+    """Given a page title returns a filename"""
+    page_name = title.lower().replace(' ', '-')
+    return re.sub(r'[^\w-]+', '', page_name)
+
+def get_image_caption(image):
+    """Given a markdown formatted image, return the caption"""
+    caption = image.split('](')[0]
+
+    if len(caption) > 3:
+        return caption[2:]
+
+    return ''
+
+def get_first_pic(page):
+    """Given a page returns a picture"""
+    pic = None
+    caption = None
+    out_page = []
+
+    for line in page.split('\n'):
+
+        if pic is None and caption is None and line.startswith('!['):
+            pic = line.split('](')[1].rstrip(')')
+            caption = get_image_caption(line)
+            continue
+
+        out_page.append(line)
+
+
+    if pic is None:
+        pic = ''
+
+    if caption is None:
+        caption = ''
+
+    return pic, caption, '\n'.join(out_page)
+
+def setup():
+    """Make output site directory"""
+    page_dir = os.path.join(BASE_NAME, '_site')
+
+    ret = subprocess.check_call(['mkdir', '-p', page_dir])
+
+def get_pages():
+    # Parse README.md
+    with open(os.path.join(BASE_NAME, 'README.md')) as f:
+        page = f.read()
+
+    return page.split('<!-- PAGE BREAK -->')
+
+def make_page(page, title, img, caption, path, layout):
     frontmatter = [
         '---',
-        'layout: page',
+        'layout: {}'.format(layout),
         'title: {}'.format(title),
+        'image: {}'.format(img),
+        'caption: {}'.format(caption),
     ]
 
-    with open(out_page, 'w') as f:
-        if previous_link:
-            frontmatter.append('previous: {}'.format(previous_link))
+    frontmatter.append('...')
 
-        frontmatter.append('...')
-
+    with open(path, 'w') as f:
         f.write('\n'.join(frontmatter) + '\n' + page)
 
-    previous_link = '<a class="prev-link" href="/{}.html">Previous</a>'.format(page_name)
-    page_count = page_count + 1
+def main():
+    setup()
+    pages = get_pages()
+
+    for page in pages:
+        title, page = get_page_title(page)
+        img, caption, page = get_first_pic(page)
+        page_name = make_page_name(title)
+        layout = 'page'
+
+        path = SPECIAL_PAGES.get(page_name,
+                os.path.join(PAGES_PATH, '{}.md'.format(page_name)))
+
+        if SPECIAL_PAGES.get(page_name):
+            layout = 'default'
+
+        make_page(**{
+            'page': page,
+            'title': title,
+            'img': img,
+            'caption': caption,
+            'path': path,
+            'layout': layout,
+        })
+
+if __name__ == '__main__':
+    main()
+

@@ -7,12 +7,27 @@
 # swfs:
 # 	bash ./scripts/grab_swfs
 # 	bash ./scripts/move_swfs
+help:
+	@echo Usage: make <setup|text|build|serve>
 
-all: $(addprefix text/, $(notdir $(addsuffix .txt, $(basename $(wildcard pages/*.swf))))) raw_text.txt
+setup:
+	bundle || gem install bundler --no-rdoc --no-ri
+	bundle install
 
-text/%.txt: pages/%.swf
+build:
+	# cp -Lr big_images/*.jpg _site/assets/images/
+	bundle exec jekyll build --destination '_site'
+
+serve:
+	bundle exec jekyll serve
+
+text: $(addprefix text/, $(notdir $(addsuffix .txt, $(basename $(wildcard flash/*.swf))))) text/raw_text.txt
+
+text/%.txt: flash/%.swf
 	swfstrings $< > $@
 
 # use tail rather than cat here to get seperators of the format ==> filename <==
-raw_text.txt: text/200.txt
+text/raw_text.txt: text/200.txt
 	tail -n +1 text/*.txt > raw_text.txt
+
+.PHONY: help text setup build serve

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction
-previous: <a class="prev-link" href="/the-western-highlands-province-the-enga-people.html">Previous</a>
+image: images/057-01.jpg
+caption: assets/images/057-01.jpg
 ...
-## WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction
+
+
 
 After getting settles in Raiakama, the Reverend Willian and Mrs. Wagner
 were ready to begin their work as missionaries with the Enga people
@@ -34,9 +36,8 @@ mounds for his wife’s, or wives' sweet potato vines.
 [Click HERE to hear Mrs. Wagner](audio/056-002.mp3)
 
 <figure>
-![images/057-01.jpg](images/057-01.jpg)
 
-![images/057-02.jpg](images/057-02.jpg)
+![assets/images/057-02.jpg](images/057-02.jpg)
 
     <figcaption>
         A Man and Woman in a Ceremonial Dress at a Sing Sing
@@ -52,9 +53,9 @@ mounds for his wife’s, or wives' sweet potato vines.
 </figure>
 
 <figure>
-![images/057-03.jpg](images/057-03.jpg)
+![assets/images/057-03.jpg](images/057-03.jpg)
 
-![images/057-04.jpg](images/057-04.jpg)
+![assets/images/057-04.jpg](images/057-04.jpg)
 
     <figcaption>
         Men make and tend the ground oven; women bring the
@@ -89,6 +90,5 @@ http://www.elca.org/countrypackets/png/recipe.html.
 Click HERE to hear Mrs. Wagner Click HERE to view film clip of a pig kill
 WARNING : VERY GRAPHIC!
 
-![Ta(m)bu: Gate with a spell telling all who approach -
-“Do not pass” or “Keep Out”
-Previous](images/059-01.jpg)
+![Ta(m)bu: Gate with a spell telling all who approach - “Do not pass” or “Keep Out” Previous](/assets/images/059-01.jpg)
+

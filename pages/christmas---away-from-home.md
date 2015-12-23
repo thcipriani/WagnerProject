@@ -1,9 +1,11 @@
 ---
 layout: page
 title: CHRISTMAS - Away From Home
-previous: <a class="prev-link" href="/raising-a-family---in-new-guinea.html">Previous</a>
+image: /assets/images/035-03.jpg
+caption: Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’
 ...
-## CHRISTMAS - Away From Home
+
+
 
 Many people asked how the Wagners celebrated Christmas in the
 Highlands.  Native teachers and evangelists in their circuit along with their
@@ -35,16 +37,16 @@ Wagner states:
 > the story of the birth of Jesus still sounding in our hearts we had
 > a lovely, simple Christmas eve”. (Wagner Newsletter, March 1955)
 
-![Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’](images/035-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/035-001.mp3)
 
-![Haus Sik](images/035-04.jpg)
+![Haus Sik](/assets/images/035-04.jpg)
 
-![Missionaries and their families gather for evening bible class led by Reverend Wagner (Photo courtesy Edward C. May)](images/035-01.jpg)
+![Missionaries and their families gather for evening bible class led by Reverend Wagner (Photo courtesy Edward C. May)](/assets/images/035-01.jpg)
 
-![Missionaries take instruction from Reverend William Wagner, an expert linguist (Photo courtesy Edward C. May)](images/035-05.jpg)
+![Missionaries take instruction from Reverend William Wagner, an expert linguist (Photo courtesy Edward C. May)](/assets/images/035-05.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/035-002.mp3)
 
-![Transportation in the Highlands Jeep and motorcycle](images/035-02.jpg)
+![Transportation in the Highlands Jeep and motorcycle](/assets/images/035-02.jpg)
+

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: RAISING A FAMILY - In New Guinea
-previous: <a class="prev-link" href="/mrs-ruth-wagner---a-missionary-wifes-life.html">Previous</a>
+image: /assets/images/031-01.jpg
+caption: 1955; New Guinea - The Wagner's houseboy, Sakaraiadana
 ...
-## RAISING A FAMILY - In New Guinea
+
+
 
 Sarah, shown with her mother, Ruth, was born at Jagaum Lutheran
 Hospital near Madang – which is on the New Guinean coast.  Mrs. Ruth
@@ -33,11 +35,10 @@ routine.   Washing was now done at least three times a week, two baby
 washes were boiled in the copper outside, and one washed with the
 regular wash.
 
-![1955; New Guinea - The Wagner's houseboy, Sakaraiadana](images/031-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/031-001.mp3)
 
-![1957; Rev. and Mrs. Ruth Wagner traveling by motorcycle, carrying Sarah in a home-made baby carrier - an  Australian knapsack with holes cut for her legs](images/031-02.jpg)
+![1957; Rev. and Mrs. Ruth Wagner traveling by motorcycle, carrying Sarah in a home-made baby carrier - an  Australian knapsack with holes cut for her legs](/assets/images/031-02.jpg)
 
 The copper was a large basin which held about ten gallons of water and
 rested in the top of a 44-gallon gasoline drum.  A hole had been cut in the
@@ -69,4 +70,5 @@ house for daily use.
 
 [Click HERE to hear Mrs. Wagner](audio/033-001.mp3)
 
-![Christmas time in New Guinea](images/033-01.jpg)
+![Christmas time in New Guinea](/assets/images/033-01.jpg)
+

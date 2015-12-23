@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Birth
-previous: <a class="prev-link" href="/enga-concepts-overview.html">Previous</a>
+image: 
+caption: 
 ...
-## Birth
+
+
 
 Women give birth to children in a spot removed from the house, a place
 overgrown with a considerable growth of wild cane bushes and tall
@@ -14,3 +16,4 @@ birth; the parents wait a month or two to see if the child lives before
 naming him/her.
 
 [Click HERE to hear Mrs. Wagner](audio/062-001.mp3)
+

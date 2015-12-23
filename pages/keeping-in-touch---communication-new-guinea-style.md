@@ -1,9 +1,11 @@
 ---
 layout: page
 title: KEEPING IN TOUCH - Communication New Guinea Style
-previous: <a class="prev-link" href="/reverend-william-p-wagner---his-missionary-duties.html">Previous</a>
+image: /assets/images/041-03.jpg
+caption: New road still under construction
 ...
-## KEEPING IN TOUCH - Communication New Guinea Style
+
+
 
 > Imagine living in a lonely outpost with no near neighbors outside
 > a few friendly natives.  No one to talk to over coffee, none of
@@ -33,14 +35,14 @@ was limited to only the mission territory.  The New Guinean field had a
 system of ten receivers that were provided by a grant from the Lutheran
 Women's Mission League.
 
-![New road still under construction](images/041-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-001.mp3)
 
-![Highland men build the roads](images/041-02.jpg)
+![Highland men build the roads](/assets/images/041-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-002.mp3)
 
-![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](images/041-01.jpg)
+![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](/assets/images/041-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-003.mp3)
+

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: TRAVELING IN NEW GUINEA - The Making of Roads
-previous: <a class="prev-link" href="/keeping-in-touch---communication-new-guinea-style.html">Previous</a>
+image: /assets/images/043-02.jpg
+caption: Pulling log for bridge building
 ...
-## TRAVELING IN NEW GUINEA - The Making of Roads
+
+
 
 Until 1954, traffic problems were nonexistent; there were no roads or
 bridges.  If anyone wanted to go anywhere, he walked – not over nice,
@@ -33,10 +35,10 @@ out-stations as possible by motorcycle, each as far as the road could take
 them, and then it was by foot again.  To connect roads and to cross rivers,
 bridges had to be put in place.
 
-![Pulling log for bridge building](images/043-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-001.mp3)
 
-![Bridge building](images/043-01.jpg)
+![Bridge building](/assets/images/043-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-002.mp3)
+

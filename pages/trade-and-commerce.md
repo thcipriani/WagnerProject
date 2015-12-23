@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Trade and Commerce
-previous: <a class="prev-link" href="/ceremonial-grounds.html">Previous</a>
+image: /assets/images/083-01.jpg
+caption: Building a haus-mari (Pidgin for woman's house); Enga men sharpening the stakes to be pounded into the ground
 ...
-## Trade and Commerce
+
+
 
 While the economy is largely subsistence, wealth being connected with
 pigs, gardens, etc., there is a kind of money used.
@@ -29,10 +31,10 @@ introduced other 'cash crops' as well.   Listen Below -
 
 [Click HERE to hear Mrs. Wagner](audio/082-002.mp3)
 
-![Building a haus-mari (Pidgin for woman's house); Enga men sharpening the stakes to be pounded into the ground](images/083-01.jpg)
 
-![Using bamboo strips as a frame to form loose loops for a bilum or net bag](images/083-02.jpg)
+![Using bamboo strips as a frame to form loose loops for a bilum or net bag](/assets/images/083-02.jpg)
 
-![An Enga woman uses thread made from tree bark to make her son's or grandson's “yambati” - The sisal plant introduced from the Coast, is sometimes used](images/083-03.jpg)
+![An Enga woman uses thread made from tree bark to make her son's or grandson's “yambati” - The sisal plant introduced from the Coast, is sometimes used](/assets/images/083-03.jpg)
 
-![Using a tool to shred a leaf for thread](images/083-04.jpg)
+![Using a tool to shred a leaf for thread](/assets/images/083-04.jpg)
+

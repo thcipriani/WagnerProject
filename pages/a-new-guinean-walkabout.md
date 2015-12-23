@@ -1,9 +1,11 @@
 ---
 layout: page
 title: A NEW GUINEAN "WALKABOUT"
-previous: <a class="prev-link" href="/bridges---connecting-roads.html">Previous</a>
+image: /assets/images/047-01.jpg
+caption: “Walkabout” Footpath
 ...
-## A NEW GUINEAN "WALKABOUT"
+
+
 
 To a New Guinean missionary -
 
@@ -34,9 +36,8 @@ Wagners were to build their station, and witnessed a native reception.
 
 [Click HERE to hear Mrs. Wagner](audio/047-001.mp3)
 
-![“Walkabout” Footpath](images/047-01.jpg)
 
-![“Walkabout” Footbridge](images/047-02.jpg)
+![“Walkabout” Footbridge](/assets/images/047-02.jpg)
 
 Word that they were coming had gone ahead of them, and as they came
 down the mountain, the “yodeling,” so to speak, of the carriers told them
@@ -59,7 +60,7 @@ Since Reverend Wagner’s first “Walkabout”, he undertook many, many
 more to get to the people he needed to see throughout his working
 career in the Western Highlands of New Guinea.
 
-![Sarah Wagner, second from left, waits with other missionary children for a plane that will take them 3000 miles from their New Guinean home to a school in Australia](images/049-01.jpg)
+![Sarah Wagner, second from left, waits with other missionary children for a plane that will take them 3000 miles from their New Guinean home to a school in Australia](/assets/images/049-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/049-001.mp3)
 
@@ -90,7 +91,7 @@ As Reverend Wagner struggled with this, he finally came to a decision -
 > nor expedient to do one task at the expense of another when both
 > are incumbent upon us” (Wagner Newsletter, November 28, 1968).
 
-![Returning to the United States; at the Airport in Honolulu, Hawaii](images/051-01.jpg)
+![Returning to the United States; at the Airport in Honolulu, Hawaii](/assets/images/051-01.jpg)
 
 The facts were that one teenage daughter was already 3,000 miles away
 attending one of the secondary schools in Australia and another daughter
@@ -126,10 +127,11 @@ States in April of 1969.
 
 Click to Enlarge Map
 
-![images/053-01.jpg](images/053-01.jpg)
+![assets/images/053-01.jpg](images/053-01.jpg)
 
 http://www.sil.org/pacific/png/maps/SHP_Enga_small.jpg
 
 Enga Province lies toward the north-western end of the
 highlands region while Southern Highlands and Western
 Highlands lie south and east respectively.
+

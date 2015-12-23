@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Reverend William P. Wagner - His Missionary Duties
-previous: <a class="prev-link" href="/christmas---away-from-home.html">Previous</a>
+image: /assets/images/037-02.jpg
+caption: Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions
 ...
-## Reverend William P. Wagner - His Missionary Duties
+
+
 
 Reverend Wagner worked long days in the Western Highlands of New
 Guinea and did it all on his Indian motorcyle, later replaced by two [2]
@@ -33,15 +35,14 @@ gathered for Bible study led by Reverend Wagner.
 On Fridays, he instructed Enga evangelists and elders of the
 congregations in his territory.  Reverend Wagner was a very busy man.
 
-![Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions](images/037-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/037-001.mp3)
 
-![Bill fashions a piece of crude lumber into a finished board for the altar (Photo courtsey of Edward C. May)](images/037-03.jpg)
+![Bill fashions a piece of crude lumber into a finished board for the altar (Photo courtsey of Edward C. May)](/assets/images/037-03.jpg)
 
-![Distant church on Walkabout](images/037-04.jpg)
+![Distant church on Walkabout](/assets/images/037-04.jpg)
 
-![Bill has the ability and finds time to service and maintain the power plant (Photo courtsey of Edward C. May)](images/037-01.jpg)
+![Bill has the ability and finds time to service and maintain the power plant (Photo courtsey of Edward C. May)](/assets/images/037-01.jpg)
 
 A typical Sunday for Reverend Wagner consisted of five to six church
 services for missionary personnel stationed in or around Mambisanda.
@@ -72,6 +73,7 @@ emergency was for Reverend Wagner, because tomorrow she must visit
 the sick with medicine (May, Edward C., "Triple-Threat Missionary," The
 Lutheran Witness. Jan. 21, 1964).
 
-![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](images/039-01.jpg)
+![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](/assets/images/039-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/039-001.mp3)
+

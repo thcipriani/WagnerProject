@@ -1,9 +1,11 @@
 ---
 layout: page
 title: BRIDGES - Connecting Roads
-previous: <a class="prev-link" href="/traveling-in-new-guinea---the-making-of-roads.html">Previous</a>
+image: images/045-01.jpg
+caption: assets/images/045-01.jpg
 ...
-## BRIDGES - Connecting Roads
+
+
 
 Imagine huge logs, about 24 to 30 inches in diameter and 65 to 70 feet
 long, being pulled by a hundred or more men.  Several of these huge logs
@@ -32,12 +34,12 @@ more energy into the pulling.
 
 ### Reverend Wagner’s ‘Walkabout’
 
-![images/045-01.jpg](images/045-01.jpg)
 
-![images/045-02.jpg](images/045-02.jpg)
+![assets/images/045-02.jpg](images/045-02.jpg)
 
-![images/045-03.jpg](images/045-03.jpg)
+![assets/images/045-03.jpg](images/045-03.jpg)
 
-![images/045-04.jpg](images/045-04.jpg)
+![assets/images/045-04.jpg](images/045-04.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
+

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Adultery
-previous: <a class="prev-link" href="/marriage.html">Previous</a>
+image: /assets/images/073-01.jpg
+caption: Enga Grief
 ...
-## Adultery
+
+
 
 In former days, a husband would cut off his wife’s nose or the top of her
 ear or her fingers, her toes, or the back of her leg. There would often
@@ -18,6 +20,6 @@ the repercussions of acts of revenge.
 
 [Click HERE to hear Mrs. Wagner](audio/072-001.mp3)
 
-![Enga Grief](images/073-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/073-001.mp3)
+

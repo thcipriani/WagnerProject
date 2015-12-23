@@ -1,21 +1,12 @@
-<header>
 # The Wagner Collection
+
 ## Field Journal, 1955–1969
 
-<div class="license">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative
-   Commons BY-SA" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"></a>
-   <br>
-   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
-   Commons Attribution-ShareAlike 4.0 International License</a>.</span>
-</div>
-
-![1955; Reverend and Mrs. William P. Wagner](final-images/Reverend-and-Mrs-William-P-Wagner-1955.jpg)
-</header>
+![1955; Reverend and Mrs. William P. Wagner](/assets/images/Reverend-and-Mrs-William-P-Wagner-1955.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/001.mp3)
 
-## FORWARD
+## Forward
 
 ### What is this website about?
 
@@ -47,11 +38,13 @@ Anthropology in Neff Hall on the Wichita State University Campus, or at
 the Wichita State University Library in the Special Collections department.
 Enjoy!
 
-![Mambisanda Mission Station](images/003-01.jpg)
+![Mambisanda Mission Station](/assets/images/003-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/003.mp3)
 
-## ACKNOWLEDGMENTS
+<!-- PAGE BREAK -->
+
+## Acknowledgments
 
 I would like to give special thanks to all the people who helped put this
 project together.  I will first start with Mrs. Ruth Wagner, whose generous
@@ -82,21 +75,23 @@ B.A., M.A. Anthropology
 
 [Click HERE to hear Mrs. Wagner](audio/005.mp3)
 
-## CONTENTS
+## Contents
 
-**Home**:
+### Home
 
 * [Lowell D. Holmes Museum of Anthropology](http://holmes.anthropology.museum/)
 * [Contact Us](http://www.holmes.anthropology.museum/message/contact0.asp)
 
-**Forward**:
+### Forward
 
 * [What is this Website About?](#what-is-this-website-about)
 * [Acknowledgements](#acknowledgments)
 * [Contents](#contents)
 * [Pronunciation Key](#pronunciation-key)
 
-**Chapter 1**: The Wagner Story
+### Chapter 1:
+
+#### The Wagner Story
 
 * [Mission Work and The Lutheran Church – Missouri Synod](/mission-work-and-the-lutheran-church---missouri-synod.html)
 * [The Beginning – William P. Wagner and Ruth L. Prueter](/the-beginning---william-p-wagner.html)
@@ -114,11 +109,13 @@ B.A., M.A. Anthropology
 * [New Guinean “Walkabout”](/a-new-guinean-walkabout.html)
 * Going Home
 
-![Reverend Wagner with Enga in the Kandep](images/007-01.jpg)
+![Reverend Wagner with Enga in the Kandep](/assets/images/007-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/007.mp3)
 
-**Chapter 2**: Western Highlands
+### Chapter 2:
+
+#### Western Highlands
 
 * Where is Enga Province?
 * Who are the People of Enga Province? – An Introduction
@@ -156,7 +153,7 @@ B.A., M.A. Anthropology
 
 * The Wagner Collection
 
-[Mission area map - circa 1961](images/009-01.jpg)
+[Mission area map - circa 1961](/assets/images/009-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/009.mp3)
 
@@ -194,13 +191,13 @@ months.
 
 [Click HERE to hear Mrs. Wagner](audio/010.mp3)
 
-![Enga Primary School Children in their Uniforms; Older school mates as teaching assistants](images/011-04.jpg)
+![Enga Primary School Children in their Uniforms; Older school mates as teaching assistants](/assets/images/011-04.jpg)
 
-![Enga men and women carrying heavy loads](images/011-01.jpg)
+![Enga men and women carrying heavy loads](/assets/images/011-01.jpg)
 
-![Mambisanda Hospital](images/011-02.jpg)
+![Mambisanda Hospital](/assets/images/011-02.jpg)
 
-![Enga learning to sew](images/011-03.jpg)
+![Enga learning to sew](/assets/images/011-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/011.mp3)
 
@@ -229,9 +226,9 @@ Yaramanda, Enga Province.
 
 [Click HERE to hear Mrs. Wagner](audio/012.mp3)
 
-![William P. Wagner - Graduation from Concordia Seminary, Springfield, Illinois](images/013-02.jpg)
+![William P. Wagner - Graduation from Concordia Seminary, Springfield, Illinois](/assets/images/013-02.jpg)
 
-![Position as vicar - Westbend, Wisconsin Previous](images/013-01.jpg)
+![Position as vicar - Westbend, Wisconsin Previous](/assets/images/013-01.jpg)
 
 [Click HERE to watch movie clip](video/Life.wmv)
 
@@ -265,9 +262,9 @@ his vicarage at St. Johns Church in West Bend, Wisconsin, and
 graduated on June 4, 1954.
 
 
-![1953; Taken when Ruth and Bill first met.  L to R - Ruth L. Prueter, Ester (Ruth's sister), Ruth's Father, Ruth's Mother, Bill Wagner behind pole](images/015-02.jpg)
+![1953; Taken when Ruth and Bill first met.  L to R - Ruth L. Prueter, Ester (Ruth's sister), Ruth's Father, Ruth's Mother, Bill Wagner behind pole](/assets/images/015-02.jpg)
 
-![Jan 11, 1955; Concordia Seminary, St Louis, MO.; School Paper: The Quad. Graduation from Mission School: Mr. and Mrs. Wagner are the middle, or second couple from the Left. Ordination - Feburary, 1955.](images/015-01.jpg)
+![Jan 11, 1955; Concordia Seminary, St Louis, MO.; School Paper: The Quad. Graduation from Mission School: Mr. and Mrs. Wagner are the middle, or second couple from the Left. Ordination - Feburary, 1955.](/assets/images/015-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/015.mp3)
 
@@ -300,11 +297,11 @@ into the Hewa territories.
 
 [Click HERE to hear Mrs. Wagner](audio/016.mp3)
 
-![Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.](images/017-03.jpg)
+![Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.](/assets/images/017-03.jpg)
 
-![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](images/017-02.jpg)
+![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](/assets/images/017-02.jpg)
 
-![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](images/017-01.jpg)
+![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](/assets/images/017-01.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -333,8 +330,9 @@ Saka Raiakama to begin a new main station and circuit of their own.
 
 [Click HERE to hear Mrs. Wagner](audio/018.mp3)
 
-![a woman splitting the bamboo](images/019-01.jpg)
-![preparing bamboo for pounding](images/019-02.jpg)
+![a woman splitting the bamboo](/assets/images/019-01.jpg)
+
+![preparing bamboo for pounding](/assets/images/019-02.jpg)
 
 Both Enga men and women construct blind walls. Shown above, a woman
 splitting the bamboo, preparing it for pounding
@@ -363,13 +361,13 @@ designed to catch rain water.
 
 [Click HERE to hear Mrs. Wagner](audio/Pg20b.mp3)
 
-![1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house](images/021-01.jpg)
+![1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house](/assets/images/021-01.jpg)
 
-![Mrs. Ruth Wagner feeding chickens in chicken yard of Bush House](images/021-02.jpg)
+![Mrs. Ruth Wagner feeding chickens in chicken yard of Bush House](/assets/images/021-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/Pg21b.mp3)
 
-![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](images/021-03.jpg)
+![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](/assets/images/021-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/Pg21a.mp3)
 
@@ -388,19 +386,19 @@ states:
 
 [Click HERE to hear Mrs. Wagner](audio/Pg22.mp3)
 
-![Bedroom and Shower on the left](images/023-01.jpg)
+![Bedroom and Shower on the left](/assets/images/023-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-003.mp3)
 
-![Closet, bassinet, and changing table](images/023-02.jpg)
+![Closet, bassinet, and changing table](/assets/images/023-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-001.mp3)
 
-![Kitchen Pantry; notice floor](images/023-03.jpg)
+![Kitchen Pantry; notice floor](/assets/images/023-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-004.mp3)
 
-![Foodsafe + door left of table to bedroom](images/023-04.jpg)
+![Foodsafe + door left of table to bedroom](/assets/images/023-04.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/023-002.mp3)
 
@@ -434,9 +432,9 @@ to keep down their population [Wagner Oral Slide History].
 
 [Click HERE to hear Mrs. Wagner](audio/025-001.mp3)
 
-![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](images/025-01.jpg)
+![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](/assets/images/025-01.jpg)
 
-![The Washing Machine used in Bush and Permanent house](images/025-02.jpg) 
+![The Washing Machine used in Bush and Permanent house](/assets/images/025-02.jpg) 
 
 <!-- PAGE BREAK -->
 
@@ -467,13 +465,13 @@ The ironing was done with a Coleman gas iron with a little tank attached
 to the rear, which is filled with gasoline for each ironing job, pumped
 with air, primed at the bottom and then ignited.
 
-![Mrs. Wagner's Australian wood-burning cook stove in bush house](images/027-01.jpg)
+![Mrs. Wagner's Australian wood-burning cook stove in bush house](/assets/images/027-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-001.mp3)
 
-![Wedding cake baked in Mrs. Wagner's wood-burning cook stove; decorated by another missisionary wife](images/027-02.jpg)
+![Wedding cake baked in Mrs. Wagner's wood-burning cook stove; decorated by another missisionary wife](/assets/images/027-02.jpg)
 
-![Enga women come to sell vegetables to missionary wives](images/027-03.jpg)
+![Enga women come to sell vegetables to missionary wives](/assets/images/027-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/027-002.mp3)
 
@@ -501,11 +499,11 @@ Engas’ main item of diet, occasional yams,  kumu - the native spinach,
 pumpkin greens, corn, several varieties of bananas, papaya, tomatoes,
 and chicken eggs to supplement their diet (WNL).
 
-![Reverend William Wagner and wife, Ruth Wagner with their five daughters.  Left to Right - Jennifer, Kristen (in front), Lisa (behind Kristen), Sarah and Stephanie (in front of Sarah)](images/029-01.jpg)
+![Reverend William Wagner and wife, Ruth Wagner with their five daughters.  Left to Right - Jennifer, Kristen (in front), Lisa (behind Kristen), Sarah and Stephanie (in front of Sarah)](/assets/images/029-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-001.mp3)
 
-![November 17, 1955; Daughter Sarah in Mrs. Ruth Wagner's arms. Leaving Jaguam Lutheran Hospital to return home to the Highlands of New Guinea](images/029-02.jpg)
+![November 17, 1955; Daughter Sarah in Mrs. Ruth Wagner's arms. Leaving Jaguam Lutheran Hospital to return home to the Highlands of New Guinea](/assets/images/029-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-002.mp3)
 
@@ -541,11 +539,11 @@ routine.   Washing was now done at least three times a week, two baby
 washes were boiled in the copper outside, and one washed with the
 regular wash.
 
-![1955; New Guinea - The Wagner's houseboy, Sakaraiadana](images/031-01.jpg)
+![1955; New Guinea - The Wagner's houseboy, Sakaraiadana](/assets/images/031-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/031-001.mp3)
 
-![1957; Rev. and Mrs. Ruth Wagner traveling by motorcycle, carrying Sarah in a home-made baby carrier - an  Australian knapsack with holes cut for her legs](images/031-02.jpg)
+![1957; Rev. and Mrs. Ruth Wagner traveling by motorcycle, carrying Sarah in a home-made baby carrier - an  Australian knapsack with holes cut for her legs](/assets/images/031-02.jpg)
 
 The copper was a large basin which held about ten gallons of water and
 rested in the top of a 44-gallon gasoline drum.  A hole had been cut in the
@@ -577,7 +575,7 @@ house for daily use.
 
 [Click HERE to hear Mrs. Wagner](audio/033-001.mp3)
 
-![Christmas time in New Guinea](images/033-01.jpg)
+![Christmas time in New Guinea](/assets/images/033-01.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -613,19 +611,19 @@ Wagner states:
 > the story of the birth of Jesus still sounding in our hearts we had
 > a lovely, simple Christmas eve”. (Wagner Newsletter, March 1955)
 
-![Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’](images/035-03.jpg)
+![Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’](/assets/images/035-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/035-001.mp3)
 
-![Haus Sik](images/035-04.jpg)
+![Haus Sik](/assets/images/035-04.jpg)
 
-![Missionaries and their families gather for evening bible class led by Reverend Wagner (Photo courtesy Edward C. May)](images/035-01.jpg)
+![Missionaries and their families gather for evening bible class led by Reverend Wagner (Photo courtesy Edward C. May)](/assets/images/035-01.jpg)
 
-![Missionaries take instruction from Reverend William Wagner, an expert linguist (Photo courtesy Edward C. May)](images/035-05.jpg)
+![Missionaries take instruction from Reverend William Wagner, an expert linguist (Photo courtesy Edward C. May)](/assets/images/035-05.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/035-002.mp3)
 
-![Transportation in the Highlands Jeep and motorcycle](images/035-02.jpg)
+![Transportation in the Highlands Jeep and motorcycle](/assets/images/035-02.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -659,15 +657,15 @@ gathered for Bible study led by Reverend Wagner.
 On Fridays, he instructed Enga evangelists and elders of the
 congregations in his territory.  Reverend Wagner was a very busy man.
 
-![Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions](images/037-02.jpg)
+![Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions](/assets/images/037-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/037-001.mp3)
 
-![Bill fashions a piece of crude lumber into a finished board for the altar (Photo courtsey of Edward C. May)](images/037-03.jpg)
+![Bill fashions a piece of crude lumber into a finished board for the altar (Photo courtsey of Edward C. May)](/assets/images/037-03.jpg)
 
-![Distant church on Walkabout](images/037-04.jpg)
+![Distant church on Walkabout](/assets/images/037-04.jpg)
 
-![Bill has the ability and finds time to service and maintain the power plant (Photo courtsey of Edward C. May)](images/037-01.jpg)
+![Bill has the ability and finds time to service and maintain the power plant (Photo courtsey of Edward C. May)](/assets/images/037-01.jpg)
 
 A typical Sunday for Reverend Wagner consisted of five to six church
 services for missionary personnel stationed in or around Mambisanda.
@@ -698,7 +696,7 @@ emergency was for Reverend Wagner, because tomorrow she must visit
 the sick with medicine (May, Edward C., "Triple-Threat Missionary," The
 Lutheran Witness. Jan. 21, 1964).
 
-![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](images/039-01.jpg)
+![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](/assets/images/039-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/039-001.mp3)
 
@@ -734,15 +732,15 @@ was limited to only the mission territory.  The New Guinean field had a
 system of ten receivers that were provided by a grant from the Lutheran
 Women's Mission League.
 
-![New road still under construction](images/041-03.jpg)
+![New road still under construction](/assets/images/041-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-001.mp3)
 
-![Highland men build the roads](images/041-02.jpg)
+![Highland men build the roads](/assets/images/041-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-002.mp3)
 
-![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](images/041-01.jpg)
+![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](/assets/images/041-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-003.mp3)
 
@@ -778,11 +776,11 @@ out-stations as possible by motorcycle, each as far as the road could take
 them, and then it was by foot again.  To connect roads and to cross rivers,
 bridges had to be put in place.
 
-![Pulling log for bridge building](images/043-02.jpg)
+![Pulling log for bridge building](/assets/images/043-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-001.mp3)
 
-![Bridge building](images/043-01.jpg)
+![Bridge building](/assets/images/043-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-002.mp3)
 
@@ -817,13 +815,13 @@ more energy into the pulling.
 
 ### Reverend Wagner’s ‘Walkabout’
 
-![images/045-01.jpg](images/045-01.jpg)
+![assets/images/045-01.jpg](images/045-01.jpg)
 
-![images/045-02.jpg](images/045-02.jpg)
+![assets/images/045-02.jpg](images/045-02.jpg)
 
-![images/045-03.jpg](images/045-03.jpg)
+![assets/images/045-03.jpg](images/045-03.jpg)
 
-![images/045-04.jpg](images/045-04.jpg)
+![assets/images/045-04.jpg](images/045-04.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
 
@@ -860,9 +858,9 @@ Wagners were to build their station, and witnessed a native reception.
 
 [Click HERE to hear Mrs. Wagner](audio/047-001.mp3)
 
-![“Walkabout” Footpath](images/047-01.jpg)
+![“Walkabout” Footpath](/assets/images/047-01.jpg)
 
-![“Walkabout” Footbridge](images/047-02.jpg)
+![“Walkabout” Footbridge](/assets/images/047-02.jpg)
 
 Word that they were coming had gone ahead of them, and as they came
 down the mountain, the “yodeling,” so to speak, of the carriers told them
@@ -885,7 +883,7 @@ Since Reverend Wagner’s first “Walkabout”, he undertook many, many
 more to get to the people he needed to see throughout his working
 career in the Western Highlands of New Guinea.
 
-![Sarah Wagner, second from left, waits with other missionary children for a plane that will take them 3000 miles from their New Guinean home to a school in Australia](images/049-01.jpg)
+![Sarah Wagner, second from left, waits with other missionary children for a plane that will take them 3000 miles from their New Guinean home to a school in Australia](/assets/images/049-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/049-001.mp3)
 
@@ -916,7 +914,7 @@ As Reverend Wagner struggled with this, he finally came to a decision -
 > nor expedient to do one task at the expense of another when both
 > are incumbent upon us” (Wagner Newsletter, November 28, 1968).
 
-![Returning to the United States; at the Airport in Honolulu, Hawaii](images/051-01.jpg)
+![Returning to the United States; at the Airport in Honolulu, Hawaii](/assets/images/051-01.jpg)
 
 The facts were that one teenage daughter was already 3,000 miles away
 attending one of the secondary schools in Australia and another daughter
@@ -952,7 +950,7 @@ States in April of 1969.
 
 Click to Enlarge Map
 
-![images/053-01.jpg](images/053-01.jpg)
+![assets/images/053-01.jpg](images/053-01.jpg)
 
 http://www.sil.org/pacific/png/maps/SHP_Enga_small.jpg
 
@@ -988,7 +986,7 @@ which form the watershed for the two major river systems that drain the
 province, the Lagaip [which is a tributary of the Fly] and the Lai [which is
 a tributary of the Wahgi](http://en.wikipedia.org/wiki/Enga_Province).
 
-![Enga Sing Sing](images/055-01.jpg)
+![Enga Sing Sing](/assets/images/055-01.jpg)
 
 Click HERE to watch film clip
 
@@ -1025,9 +1023,9 @@ mounds for his wife’s, or wives' sweet potato vines.
 [Click HERE to hear Mrs. Wagner](audio/056-002.mp3)
 
 <figure>
-![images/057-01.jpg](images/057-01.jpg)
+![assets/images/057-01.jpg](images/057-01.jpg)
 
-![images/057-02.jpg](images/057-02.jpg)
+![assets/images/057-02.jpg](images/057-02.jpg)
 
     <figcaption>
         A Man and Woman in a Ceremonial Dress at a Sing Sing
@@ -1043,9 +1041,9 @@ mounds for his wife’s, or wives' sweet potato vines.
 </figure>
 
 <figure>
-![images/057-03.jpg](images/057-03.jpg)
+![assets/images/057-03.jpg](images/057-03.jpg)
 
-![images/057-04.jpg](images/057-04.jpg)
+![assets/images/057-04.jpg](images/057-04.jpg)
 
     <figcaption>
         Men make and tend the ground oven; women bring the
@@ -1080,9 +1078,7 @@ http://www.elca.org/countrypackets/png/recipe.html.
 Click HERE to hear Mrs. Wagner Click HERE to view film clip of a pig kill
 WARNING : VERY GRAPHIC!
 
-![Ta(m)bu: Gate with a spell telling all who approach -
-“Do not pass” or “Keep Out”
-Previous](images/059-01.jpg)
+![Ta(m)bu: Gate with a spell telling all who approach - “Do not pass” or “Keep Out” Previous](/assets/images/059-01.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1105,15 +1101,11 @@ Previous](images/059-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/060-001.mp3)
 
-![Enga women bring life into the world out in the bush, and by themselves.
-The newborn in this photo is only hours old.](images/061-01.jpg)
+![Enga women bring life into the world out in the bush, and by themselves. The newborn in this photo is only hours old.](/assets/images/061-01.jpg)
 
-![Boys from five years of age and older live in the Men's house.
-Prepubescent boys wear only a smile.](images/061-02.jpg)
+![Boys from five years of age and older live in the Men's house.  Prepubescent boys wear only a smile.](/assets/images/061-02.jpg)
 
-![Mothers gather together with their children of both sexes. When the
-boys are somewhat sufficient, they go live in their father's house.
-The mother quiets her baby by stimulating the genitalia.](images/061-03.jpg)
+![Mothers gather together with their children of both sexes. When the boys are somewhat sufficient, they go live in their father's house.  The mother quiets her baby by stimulating the genitalia.](/assets/images/061-03.jpg) 
 
 <!-- PAGE BREAK -->
 
@@ -1146,14 +1138,11 @@ become a discipline problem for the clan and repeatedly cause strife in
 the clan with thefts and misdemeanors, the clan will deal with him and
 sometimes deal harshly with him.
 
-![Women, babies, children under 5 years of age - male and female
-- live in the women’s house, along with the pigs. Girls wear kuta skirts
-before they can walk.](images/063-01.jpg)
+![Women, babies, children under 5 years of age - male and female - live in the women’s house, along with the pigs. Girls wear kuta skirts before they can walk.](/assets/images/063-01.jpg)
 
-![Mother and Children in Sweet Potato Garden](images/063-02.jpg)
+![Mother and Children in Sweet Potato Garden](/assets/images/063-02.jpg)
 
-![Boys stay with their mother until they are able to look after their own
-needs to a large extent](images/063-03.jpg)
+![Boys stay with their mother until they are able to look after their own needs to a large extent](/assets/images/063-03.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1178,9 +1167,9 @@ time to play.
 
 [Click HERE to hear Mrs. Wagner](audio/065-002.mp3)
 
-![Enga Man's House](images/065-01.jpg)
+![Enga Man's House](/assets/images/065-01.jpg)
 
-![Enga Woman's House](images/065-02.jpg)
+![Enga Woman's House](/assets/images/065-02.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1209,11 +1198,11 @@ utensils.
 
 [Click HERE to hear Mrs. Wagner](audio/066-001.mp3)
 
-![The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men](images/067-01.jpg)
+![The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men](/assets/images/067-01.jpg)
 
-![Before, a Boy, Now, a Man - Returning after the Sandalu Ceremony](images/067-02.jpg)
+![Before, a Boy, Now, a Man - Returning after the Sandalu Ceremony](/assets/images/067-02.jpg)
 
-![The clan meeting place; where Ceremonies are also held Previous](images/067-03.jpg)
+![The clan meeting place; where Ceremonies are also held Previous](/assets/images/067-03.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1238,7 +1227,7 @@ clansmen.
 
 [Click HERE to hear Mrs. Wagner](audio/068-001.mp3)
 
-![Picture of happy bride](images/069-01.jpg)
+![Picture of happy bride](/assets/images/069-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/069-001.mp3)
 
@@ -1268,10 +1257,7 @@ They then live happily ever after.
 
 [Click HERE to hear Mrs. Wagner](audio/070-001.mp3)
 
-![As punishment for committing adultery, a husband would cut
-off the front of his wife's nose. This woman covers what was
-once her nose with a leaf.  However, a double standard exists;
-men are not punished for committing the same act.](images/071-01.jpg)
+![As punishment for committing adultery, a husband would cut off the front of his wife's nose. This woman covers what was once her nose with a leaf.  However, a double standard exists; men are not punished for committing the same act.](/assets/images/071-01.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1290,7 +1276,7 @@ the repercussions of acts of revenge.
 
 [Click HERE to hear Mrs. Wagner](audio/072-001.mp3)
 
-![Enga Grief](images/073-01.jpg)
+![Enga Grief](/assets/images/073-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/073-001.mp3)
 
@@ -1323,16 +1309,13 @@ frost either harms or kills the sweet potato vines.
 
 [Click HERE to hear Mrs. Wagner](audio/074-001.mp3)
 
-![Enga man wearing a “yabati”, an apron-like
-woven garment in the front and a bunch of leaves in the rear](images/075-01.jpg)
+![Enga man wearing a “yabati”, an apron-like woven garment in the front and a bunch of leaves in the rear](/assets/images/075-01.jpg)
 
-![Group of Enga women, girls & young man, man wearing "yabati"
-and women wearing "kuta" skirts](images/075-02.jpg)
+![Group of Enga women, girls & young man, man wearing "yabati" and women wearing "kuta" skirts](/assets/images/075-02.jpg)
 
-![Enga woman wearing a two section skirt or “kuta,” fastened
-around her waist, covering the front and the rear](images/075-03.jpg)
+![Enga woman wearing a two section skirt or “kuta,” fastened around her waist, covering the front and the rear](/assets/images/075-03.jpg)
 
-![Girl wearing a “kuta”](images/075-04.jpg)
+![Girl wearing a “kuta”](/assets/images/075-04.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1358,13 +1341,13 @@ to a belt.
 
 [Click HERE to hear Mrs. Wagner](audio/076-001.mp3)
 
-![Sweet potato garden - Enga children between sweet potato mounds](images/077-01.jpg)
+![Sweet potato garden - Enga children between sweet potato mounds](/assets/images/077-01.jpg)
 
-![Enga woman carrying sweet potato vines to plant in mounds](images/077-02.jpg)
+![Enga woman carrying sweet potato vines to plant in mounds](/assets/images/077-02.jpg)
 
-![Enga man's sugar cane garden](images/077-03.jpg)
+![Enga man's sugar cane garden](/assets/images/077-03.jpg)
 
-![Enga woman using Cassowary bone as digging stick in sweet potato garden](images/077-04.jpg)
+![Enga woman using Cassowary bone as digging stick in sweet potato garden](/assets/images/077-04.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1382,13 +1365,9 @@ diet as well.
 
 [Click HERE to hear Mrs. Wagner](audio/078-001.mp3)
 
-![The Enga kept the Sacred Stone in the "V" of a special tree on
-Ceremonial grounds. Women and children are not allowed
-anywhere on or near the grounds](images/079-01.jpg)
+![The Enga kept the Sacred Stone in the "V" of a special tree on Ceremonial grounds. Women and children are not allowed anywhere on or near the grounds](/assets/images/079-01.jpg)
 
-![The Ceremonial Sacred Stone anointed with paint and
-precious Tree Oil. Notice the crowd of Enga men in
-the background](images/079-02.jpg)
+![The Ceremonial Sacred Stone anointed with paint and precious Tree Oil. Notice the crowd of Enga men in the background](/assets/images/079-02.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1407,16 +1386,13 @@ the spirits via the stone.
 
 [Click HERE to hear Mrs. Wagner](audio/080-001.mp3)
 
-![1950s; Enga men with their Pigs on the way to a Te Cycle;
-pigs are a sign of wealth](images/081-01.jpg)
+![1950s; Enga men with their Pigs on the way to a Te Cycle; pigs are a sign of wealth](/assets/images/081-01.jpg)
 
-![The Aga Nut; a prized possession bartered on the trade route](images/081-02.jpg)
+![The Aga Nut; a prized possession bartered on the trade route](/assets/images/081-02.jpg)
 
-![In the 1950s, the Australian Government implemented the growing and
-buying of Pyrethrum flowers from the Enga people for production of DDT](images/081-03.jpg)
+![In the 1950s, the Australian Government implemented the growing and buying of Pyrethrum flowers from the Enga people for production of DDT](/assets/images/081-03.jpg)
 
-![Parade of pearl shells before a line of traditional dancers and the public during a Te Cycle of the 1950s
-(Photo from the Collection of Norma L. Heinicke)](images/081-04.jpg)
+![Parade of pearl shells before a line of traditional dancers and the public during a Te Cycle of the 1950s (Photo from the Collection of Norma L. Heinicke)](/assets/images/081-04.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1446,13 +1422,13 @@ introduced other 'cash crops' as well.   Listen Below -
 
 [Click HERE to hear Mrs. Wagner](audio/082-002.mp3)
 
-![Building a haus-mari (Pidgin for woman's house); Enga men sharpening the stakes to be pounded into the ground](images/083-01.jpg)
+![Building a haus-mari (Pidgin for woman's house); Enga men sharpening the stakes to be pounded into the ground](/assets/images/083-01.jpg)
 
-![Using bamboo strips as a frame to form loose loops for a bilum or net bag](images/083-02.jpg)
+![Using bamboo strips as a frame to form loose loops for a bilum or net bag](/assets/images/083-02.jpg)
 
-![An Enga woman uses thread made from tree bark to make her son's or grandson's “yambati” - The sisal plant introduced from the Coast, is sometimes used](images/083-03.jpg)
+![An Enga woman uses thread made from tree bark to make her son's or grandson's “yambati” - The sisal plant introduced from the Coast, is sometimes used](/assets/images/083-03.jpg)
 
-![Using a tool to shred a leaf for thread](images/083-04.jpg)
+![Using a tool to shred a leaf for thread](/assets/images/083-04.jpg)
 
 <!-- PAGE BREAK -->
 
@@ -1491,11 +1467,11 @@ Hewa and Enga Men with bow and
 arrows; and other mentioned items
 Previous
 
-![images/085-01.jpg](images/085-01.jpg)
+![assets/images/085-01.jpg](images/085-01.jpg)
 
-![images/085-02.jpg](images/085-02.jpg)
+![assets/images/085-02.jpg](images/085-02.jpg)
 
-![images/085-03.jpg](images/085-03.jpg)
+![assets/images/085-03.jpg](images/085-03.jpg)
 
 
 
@@ -1565,9 +1541,9 @@ Previous
 
 [Click HERE to hear Mrs. Wagner](audio/087-002.mp3)
 
-![images/087-01.jpg](images/087-01.jpg)
+![assets/images/087-01.jpg](images/087-01.jpg)
 
-![images/087-02.jpg](images/087-02.jpg)
+![assets/images/087-02.jpg](images/087-02.jpg)
 
 
 
@@ -1597,7 +1573,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/089-001.mp3)
 
-![images/089-01.jpg](images/089-01.jpg)
+![assets/images/089-01.jpg](images/089-01.jpg)
 
 
 
@@ -1645,11 +1621,11 @@ wigs.  The Duna are the only Highland
 people who do this.  The Enga and Hewa
 men do not.
 
-![images/091-01.jpg](images/091-01.jpg)
+![assets/images/091-01.jpg](images/091-01.jpg)
 
-![images/091-02.jpg](images/091-02.jpg)
+![assets/images/091-02.jpg](images/091-02.jpg)
 
-![images/091-03.jpg](images/091-03.jpg)
+![assets/images/091-03.jpg](images/091-03.jpg)
 
 
 
@@ -1696,9 +1672,9 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/093-002.mp3)
 
-![images/093-01.jpg](images/093-01.jpg)
+![assets/images/093-01.jpg](images/093-01.jpg)
 
-![images/093-02.jpg](images/093-02.jpg)
+![assets/images/093-02.jpg](images/093-02.jpg)
 
 
 
@@ -1742,9 +1718,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/095-001.mp3)
 
-![images/095-01.jpg](images/095-01.jpg)
+![assets/images/095-01.jpg](images/095-01.jpg)
 
-![images/095-02.jpg](images/095-02.jpg)
+![assets/images/095-02.jpg](images/095-02.jpg)
 
 
 
@@ -1794,9 +1770,9 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/097-002.mp3)
 
-![images/097-01.jpg](images/097-01.jpg)
+![assets/images/097-01.jpg](images/097-01.jpg)
 
-![images/097-02.jpg](images/097-02.jpg)
+![assets/images/097-02.jpg](images/097-02.jpg)
 
 
 
@@ -1851,13 +1827,13 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/099-001.mp3)
 
-![images/099-01.jpg](images/099-01.jpg)
+![assets/images/099-01.jpg](images/099-01.jpg)
 
-![images/099-02.jpg](images/099-02.jpg)
+![assets/images/099-02.jpg](images/099-02.jpg)
 
-![images/099-03.jpg](images/099-03.jpg)
+![assets/images/099-03.jpg](images/099-03.jpg)
 
-![images/099-04.jpg](images/099-04.jpg)
+![assets/images/099-04.jpg](images/099-04.jpg)
 
 
 
@@ -1910,11 +1886,11 @@ Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/101-001.mp3)
 
-![images/101-01.jpg](images/101-01.jpg)
+![assets/images/101-01.jpg](images/101-01.jpg)
 
-![images/101-02.jpg](images/101-02.jpg)
+![assets/images/101-02.jpg](images/101-02.jpg)
 
-![images/101-03.jpg](images/101-03.jpg)
+![assets/images/101-03.jpg](images/101-03.jpg)
 
 
 
@@ -1976,11 +1952,11 @@ behind
 
 [Click HERE to hear Mrs. Wagner](audio/103-001.mp3)
 
-![images/103-01.jpg](images/103-01.jpg)
+![assets/images/103-01.jpg](images/103-01.jpg)
 
-![images/103-02.jpg](images/103-02.jpg)
+![assets/images/103-02.jpg](images/103-02.jpg)
 
-![images/103-03.jpg](images/103-03.jpg)
+![assets/images/103-03.jpg](images/103-03.jpg)
 
 
 
@@ -2021,9 +1997,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/105-001.mp3)
 
-![images/105-01.jpg](images/105-01.jpg)
+![assets/images/105-01.jpg](images/105-01.jpg)
 
-![images/105-02.jpg](images/105-02.jpg)
+![assets/images/105-02.jpg](images/105-02.jpg)
 
 
 
@@ -2053,11 +2029,11 @@ L 19" x W 2"
 Previous
 Click HERE to view film clip
 
-![images/107-01.jpg](images/107-01.jpg)
+![assets/images/107-01.jpg](images/107-01.jpg)
 
-![images/107-02.jpg](images/107-02.jpg)
+![assets/images/107-02.jpg](images/107-02.jpg)
 
-![images/107-03.jpg](images/107-03.jpg)
+![assets/images/107-03.jpg](images/107-03.jpg)
 
 
 
@@ -2100,11 +2076,11 @@ Click HERE
 for film clip
 Previous
 
-![images/109-01.jpg](images/109-01.jpg)
+![assets/images/109-01.jpg](images/109-01.jpg)
 
-![images/109-02.jpg](images/109-02.jpg)
+![assets/images/109-02.jpg](images/109-02.jpg)
 
-![images/109-03.jpg](images/109-03.jpg)
+![assets/images/109-03.jpg](images/109-03.jpg)
 
 
 
@@ -2155,21 +2131,21 @@ Kunjina - black and grey stone
 Information provided by
 Kristen Wagner
 
-![images/111-01.jpg](images/111-01.jpg)
+![assets/images/111-01.jpg](images/111-01.jpg)
 
-![images/111-02.jpg](images/111-02.jpg)
+![assets/images/111-02.jpg](images/111-02.jpg)
 
-![images/111-03.jpg](images/111-03.jpg)
+![assets/images/111-03.jpg](images/111-03.jpg)
 
-![images/111-04.jpg](images/111-04.jpg)
+![assets/images/111-04.jpg](images/111-04.jpg)
 
-![images/111-05.jpg](images/111-05.jpg)
+![assets/images/111-05.jpg](images/111-05.jpg)
 
-![images/111-06.jpg](images/111-06.jpg)
+![assets/images/111-06.jpg](images/111-06.jpg)
 
-![images/111-07.jpg](images/111-07.jpg)
+![assets/images/111-07.jpg](images/111-07.jpg)
 
-![images/111-08.jpg](images/111-08.jpg)
+![assets/images/111-08.jpg](images/111-08.jpg)
 
 
 
@@ -2219,17 +2195,17 @@ hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/113-002.mp3)
 
-![images/113-01.jpg](images/113-01.jpg)
+![assets/images/113-01.jpg](images/113-01.jpg)
 
-![images/113-02.jpg](images/113-02.jpg)
+![assets/images/113-02.jpg](images/113-02.jpg)
 
-![images/113-03.jpg](images/113-03.jpg)
+![assets/images/113-03.jpg](images/113-03.jpg)
 
-![images/113-04.jpg](images/113-04.jpg)
+![assets/images/113-04.jpg](images/113-04.jpg)
 
-![images/113-05.jpg](images/113-05.jpg)
+![assets/images/113-05.jpg](images/113-05.jpg)
 
-![images/113-06.jpg](images/113-06.jpg)
+![assets/images/113-06.jpg](images/113-06.jpg)
 
 
 
@@ -2270,11 +2246,11 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/115-001.mp3)
 
-![images/115-01.jpg](images/115-01.jpg)
+![assets/images/115-01.jpg](images/115-01.jpg)
 
-![images/115-02.jpg](images/115-02.jpg)
+![assets/images/115-02.jpg](images/115-02.jpg)
 
-![images/115-03.jpg](images/115-03.jpg)
+![assets/images/115-03.jpg](images/115-03.jpg)
 
 
 
@@ -2295,7 +2271,7 @@ Accession Number:  2006.02.019
 Description:  Light tan rectangular mat made of flattened Pandanus
 leaves.  Rolled plant fiber used as stitching. L 48" x W 34"
 
-![images/116-01.jpg](images/116-01.jpg)
+![assets/images/116-01.jpg](images/116-01.jpg)
 
 
 
@@ -2310,11 +2286,11 @@ Click HERE to stop audio
 
 [Click HERE to hear Mrs. Wagner](audio/117-001.mp3)
 
-![images/117-01.jpg](images/117-01.jpg)
+![assets/images/117-01.jpg](images/117-01.jpg)
 
-![images/117-02.jpg](images/117-02.jpg)
+![assets/images/117-02.jpg](images/117-02.jpg)
 
-![images/117-03.jpg](images/117-03.jpg)
+![assets/images/117-03.jpg](images/117-03.jpg)
 
 
 
@@ -2335,7 +2311,7 @@ Accession Number:  2006.02.004
 Description: Ivory colored femur bone of Cassowary bird;  one end carved
 to a point.  L 12"
 
-![images/118-01.jpg](images/118-01.jpg)
+![assets/images/118-01.jpg](images/118-01.jpg)
 
 
 
@@ -2350,15 +2326,15 @@ L 21.5" x Circum. 6"
 L 13.66" x Circum. Big End 9.25" - Mouth 4"
 Previous
 
-![images/119-01.jpg](images/119-01.jpg)
+![assets/images/119-01.jpg](images/119-01.jpg)
 
-![images/119-02.jpg](images/119-02.jpg)
+![assets/images/119-02.jpg](images/119-02.jpg)
 
-![images/119-03.jpg](images/119-03.jpg)
+![assets/images/119-03.jpg](images/119-03.jpg)
 
-![images/119-04.jpg](images/119-04.jpg)
+![assets/images/119-04.jpg](images/119-04.jpg)
 
-![images/119-05.jpg](images/119-05.jpg)
+![assets/images/119-05.jpg](images/119-05.jpg)
 
 
 
@@ -2445,7 +2421,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/121-001.mp3)
 
-![images/121-01.jpg](images/121-01.jpg)
+![assets/images/121-01.jpg](images/121-01.jpg)
 
 
 
@@ -2482,9 +2458,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/123-001.mp3)
 
-![images/123-01.jpg](images/123-01.jpg)
+![assets/images/123-01.jpg](images/123-01.jpg)
 
-![images/123-02.jpg](images/123-02.jpg)
+![assets/images/123-02.jpg](images/123-02.jpg)
 
 
 
@@ -2521,11 +2497,11 @@ The sound that was produced, as I dimly remember, was that of
 musical twangs.”
 [Stephanie Wagner, email 04/02/2007]
 
-![images/125-01.jpg](images/125-01.jpg)
+![assets/images/125-01.jpg](images/125-01.jpg)
 
-![images/125-02.jpg](images/125-02.jpg)
+![assets/images/125-02.jpg](images/125-02.jpg)
 
-![images/125-03.jpg](images/125-03.jpg)
+![assets/images/125-03.jpg](images/125-03.jpg)
 
 
 
@@ -2559,11 +2535,11 @@ Next
 2006.02.029 - L 38"
 Previous
 
-![images/127-01.jpg](images/127-01.jpg)
+![assets/images/127-01.jpg](images/127-01.jpg)
 
-![images/127-02.jpg](images/127-02.jpg)
+![assets/images/127-02.jpg](images/127-02.jpg)
 
-![images/127-03.jpg](images/127-03.jpg)
+![assets/images/127-03.jpg](images/127-03.jpg)
 
 
 
@@ -2585,7 +2561,7 @@ bottom of the next, continuing to make the length.  L 33"
 Highland Body Ornaments
 Next
 
-![images/128-01.jpg](images/128-01.jpg)
+![assets/images/128-01.jpg](images/128-01.jpg)
 
 
 
@@ -2608,15 +2584,15 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/129-001.mp3)
 
-![images/129-01.jpg](images/129-01.jpg)
+![assets/images/129-01.jpg](images/129-01.jpg)
 
-![images/129-02.jpg](images/129-02.jpg)
+![assets/images/129-02.jpg](images/129-02.jpg)
 
-![images/129-03.jpg](images/129-03.jpg)
+![assets/images/129-03.jpg](images/129-03.jpg)
 
-![images/129-04.jpg](images/129-04.jpg)
+![assets/images/129-04.jpg](images/129-04.jpg)
 
-![images/129-05.jpg](images/129-05.jpg)
+![assets/images/129-05.jpg](images/129-05.jpg)
 
 
 
@@ -2650,9 +2626,9 @@ Next
 L 7.25"
 Previous
 
-![images/131-01.jpg](images/131-01.jpg)
+![assets/images/131-01.jpg](images/131-01.jpg)
 
-![images/131-02.jpg](images/131-02.jpg)
+![assets/images/131-02.jpg](images/131-02.jpg)
 
 
 
@@ -2677,9 +2653,9 @@ L 29.5"
 L 22.5"
 Previous
 
-![images/133-01.jpg](images/133-01.jpg)
+![assets/images/133-01.jpg](images/133-01.jpg)
 
-![images/133-02.jpg](images/133-02.jpg)
+![assets/images/133-02.jpg](images/133-02.jpg)
 
 
 
@@ -2715,9 +2691,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/135-001.mp3)
 
-![images/135-01.jpg](images/135-01.jpg)
+![assets/images/135-01.jpg](images/135-01.jpg)
 
-![images/135-02.jpg](images/135-02.jpg)
+![assets/images/135-02.jpg](images/135-02.jpg)
 
 
 
@@ -2744,7 +2720,7 @@ Hewa photographs; Enga men also wear
 Cassowary headdresses.
 Next
 
-![images/136-01.jpg](images/136-01.jpg)
+![assets/images/136-01.jpg](images/136-01.jpg)
 
 
 
@@ -2756,9 +2732,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/137-001.mp3)
 
-![images/137-01.jpg](images/137-01.jpg)
+![assets/images/137-01.jpg](images/137-01.jpg)
 
-![images/137-02.jpg](images/137-02.jpg)
+![assets/images/137-02.jpg](images/137-02.jpg)
 
 
 
@@ -2812,9 +2788,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/139-001.mp3)
 
-![images/139-01.jpg](images/139-01.jpg)
+![assets/images/139-01.jpg](images/139-01.jpg)
 
-![images/139-02.jpg](images/139-02.jpg)
+![assets/images/139-02.jpg](images/139-02.jpg)
 
 
 
@@ -2830,7 +2806,7 @@ Description:  Belt made of coiled vine [pit-pit or cane] with woven
 decoration in  front.  Decoration is 3.9" wide and 6.9" high.
 H 3.7" x Diam. 12.2"
 
-![images/140-01.jpg](images/140-01.jpg)
+![assets/images/140-01.jpg](images/140-01.jpg)
 
 
 
@@ -2841,11 +2817,11 @@ L 23" x W 18"
 L 22" x W 12"
 Previous
 
-![images/141-01.jpg](images/141-01.jpg)
+![assets/images/141-01.jpg](images/141-01.jpg)
 
-![images/141-02.jpg](images/141-02.jpg)
+![assets/images/141-02.jpg](images/141-02.jpg)
 
-![images/141-03.jpg](images/141-03.jpg)
+![assets/images/141-03.jpg](images/141-03.jpg)
 
 
 
@@ -2874,7 +2850,7 @@ as much as Kina 50, about US$20 per day, which is big money in the
 Highlands <http://www.tribalartbrokers.net/details.asp?itemId=SIK>.
 Highland Pig-Killing Aprons
 
-![images/142-01.jpg](images/142-01.jpg)
+![assets/images/142-01.jpg](images/142-01.jpg)
 
 
 
@@ -2889,15 +2865,15 @@ L 16" & 8" x W 25"
 L 16.75" & 12" x W 35"
 Previous
 
-![images/143-01.jpg](images/143-01.jpg)
+![assets/images/143-01.jpg](images/143-01.jpg)
 
-![images/143-02.jpg](images/143-02.jpg)
+![assets/images/143-02.jpg](images/143-02.jpg)
 
-![images/143-03.jpg](images/143-03.jpg)
+![assets/images/143-03.jpg](images/143-03.jpg)
 
-![images/143-04.jpg](images/143-04.jpg)
+![assets/images/143-04.jpg](images/143-04.jpg)
 
-![images/143-05.jpg](images/143-05.jpg)
+![assets/images/143-05.jpg](images/143-05.jpg)
 
 
 
@@ -2967,7 +2943,7 @@ We just slept there.  The building off to the side is one of Otto's
 
 [Click HERE to hear Mrs. Wagner](audio/144-001.mp3)
 
-![images/144-01.jpg](images/144-01.jpg)
+![assets/images/144-01.jpg](images/144-01.jpg)
 
 
 
@@ -2976,7 +2952,7 @@ We just slept there.  The building off to the side is one of Otto's
  H 4" x W 3.5"
 Previous
 
-![images/145-01.jpg](images/145-01.jpg)
+![assets/images/145-01.jpg](images/145-01.jpg)
 
 
 
@@ -3004,13 +2980,13 @@ L 10.25" x W 2 7/8"
 L 10" x 3 3/8"
 Previous
 
-![images/147-01.jpg](images/147-01.jpg)
+![assets/images/147-01.jpg](images/147-01.jpg)
 
-![images/147-02.jpg](images/147-02.jpg)
+![assets/images/147-02.jpg](images/147-02.jpg)
 
-![images/147-03.jpg](images/147-03.jpg)
+![assets/images/147-03.jpg](images/147-03.jpg)
 
-![images/147-04.jpg](images/147-04.jpg)
+![assets/images/147-04.jpg](images/147-04.jpg)
 
 
 
@@ -3039,7 +3015,7 @@ carved comb.  Carved design on top is
 partially broken off.  L 7.75" x W 3 7/8"
 Next
 
-![images/148-01.jpg](images/148-01.jpg)
+![assets/images/148-01.jpg](images/148-01.jpg)
 
 
 
@@ -3051,7 +3027,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/149-001.mp3)
 
-![images/149-01.jpg](images/149-01.jpg)
+![assets/images/149-01.jpg](images/149-01.jpg)
 
 
 
@@ -3067,7 +3043,7 @@ L 19.75" x Diam. 7.75"
 Highland Water Container
 Next
 
-![images/150-01.jpg](images/150-01.jpg)
+![assets/images/150-01.jpg](images/150-01.jpg)
 
 
 
@@ -3078,9 +3054,9 @@ L 5.25" x Diam. 4"
 L 10.6"
 Previous
 
-![images/151-01.jpg](images/151-01.jpg)
+![assets/images/151-01.jpg](images/151-01.jpg)
 
-![images/151-02.jpg](images/151-02.jpg)
+![assets/images/151-02.jpg](images/151-02.jpg)
 
 
 
@@ -3103,7 +3079,7 @@ designs; also has burn marks.
 L 10.6"
 Next
 
-![images/152-01.jpg](images/152-01.jpg)
+![assets/images/152-01.jpg](images/152-01.jpg)
 
 
 
@@ -3114,9 +3090,9 @@ Next
 L 10.5" x Diam. 1.5"
 Previous
 
-![images/153-01.jpg](images/153-01.jpg)
+![assets/images/153-01.jpg](images/153-01.jpg)
 
-![images/153-02.jpg](images/153-02.jpg)
+![assets/images/153-02.jpg](images/153-02.jpg)
 
 
 
@@ -3137,7 +3113,7 @@ splits from one end.
 L 10.5" x Diam. 1.5"
 Next
 
-![images/154-01.jpg](images/154-01.jpg)
+![assets/images/154-01.jpg](images/154-01.jpg)
 
 
 
@@ -3154,13 +3130,13 @@ L 4.75" x Diam. 4.75" & 5"
 at each end
 Previous
 
-![images/155-01.jpg](images/155-01.jpg)
+![assets/images/155-01.jpg](images/155-01.jpg)
 
-![images/155-02.jpg](images/155-02.jpg)
+![assets/images/155-02.jpg](images/155-02.jpg)
 
-![images/155-03.jpg](images/155-03.jpg)
+![assets/images/155-03.jpg](images/155-03.jpg)
 
-![images/155-04.jpg](images/155-04.jpg)
+![assets/images/155-04.jpg](images/155-04.jpg)
 
 
 
@@ -3213,13 +3189,13 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/157-001.mp3)
 
-![images/157-01.jpg](images/157-01.jpg)
+![assets/images/157-01.jpg](images/157-01.jpg)
 
-![images/157-02.jpg](images/157-02.jpg)
+![assets/images/157-02.jpg](images/157-02.jpg)
 
-![images/157-03.jpg](images/157-03.jpg)
+![assets/images/157-03.jpg](images/157-03.jpg)
 
-![images/157-04.jpg](images/157-04.jpg)
+![assets/images/157-04.jpg](images/157-04.jpg)
 
 
 
@@ -3259,7 +3235,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/159-001.mp3)
 
-![images/159-01.jpg](images/159-01.jpg)
+![assets/images/159-01.jpg](images/159-01.jpg)
 
 
 
@@ -3316,19 +3292,19 @@ Mrs.Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/161-001.mp3)
 
-![images/161-01.jpg](images/161-01.jpg)
+![assets/images/161-01.jpg](images/161-01.jpg)
 
-![images/161-02.jpg](images/161-02.jpg)
+![assets/images/161-02.jpg](images/161-02.jpg)
 
-![images/161-03.jpg](images/161-03.jpg)
+![assets/images/161-03.jpg](images/161-03.jpg)
 
-![images/161-04.jpg](images/161-04.jpg)
+![assets/images/161-04.jpg](images/161-04.jpg)
 
-![images/161-05.jpg](images/161-05.jpg)
+![assets/images/161-05.jpg](images/161-05.jpg)
 
-![images/161-06.jpg](images/161-06.jpg)
+![assets/images/161-06.jpg](images/161-06.jpg)
 
-![images/161-07.jpg](images/161-07.jpg)
+![assets/images/161-07.jpg](images/161-07.jpg)
 
 
 
@@ -3371,13 +3347,13 @@ L 22"
 L 65.5"
 Previous
 
-![images/163-01.jpg](images/163-01.jpg)
+![assets/images/163-01.jpg](images/163-01.jpg)
 
-![images/163-02.jpg](images/163-02.jpg)
+![assets/images/163-02.jpg](images/163-02.jpg)
 
-![images/163-03.jpg](images/163-03.jpg)
+![assets/images/163-03.jpg](images/163-03.jpg)
 
-![images/163-04.jpg](images/163-04.jpg)
+![assets/images/163-04.jpg](images/163-04.jpg)
 
 
 
@@ -3409,9 +3385,9 @@ L 38.25"
 L 37.25"
 Previous
 
-![images/165-01.jpg](images/165-01.jpg)
+![assets/images/165-01.jpg](images/165-01.jpg)
 
-![images/165-02.jpg](images/165-02.jpg)
+![assets/images/165-02.jpg](images/165-02.jpg)
 
 
 
@@ -3449,11 +3425,11 @@ L  31.25"
 L 38"
 Previous
 
-![images/167-01.jpg](images/167-01.jpg)
+![assets/images/167-01.jpg](images/167-01.jpg)
 
-![images/167-02.jpg](images/167-02.jpg)
+![assets/images/167-02.jpg](images/167-02.jpg)
 
-![images/167-03.jpg](images/167-03.jpg)
+![assets/images/167-03.jpg](images/167-03.jpg)
 
 
 
@@ -3502,17 +3478,17 @@ L 38"
 L 38.25"
 Previous
 
-![images/169-01.jpg](images/169-01.jpg)
+![assets/images/169-01.jpg](images/169-01.jpg)
 
-![images/169-02.jpg](images/169-02.jpg)
+![assets/images/169-02.jpg](images/169-02.jpg)
 
-![images/169-03.jpg](images/169-03.jpg)
+![assets/images/169-03.jpg](images/169-03.jpg)
 
-![images/169-04.jpg](images/169-04.jpg)
+![assets/images/169-04.jpg](images/169-04.jpg)
 
-![images/169-05.jpg](images/169-05.jpg)
+![assets/images/169-05.jpg](images/169-05.jpg)
 
-![images/169-06.jpg](images/169-06.jpg)
+![assets/images/169-06.jpg](images/169-06.jpg)
 
 
 
@@ -3556,15 +3532,15 @@ L 38"
 L 38.25"
 Previous
 
-![images/171-01.jpg](images/171-01.jpg)
+![assets/images/171-01.jpg](images/171-01.jpg)
 
-![images/171-02.jpg](images/171-02.jpg)
+![assets/images/171-02.jpg](images/171-02.jpg)
 
-![images/171-03.jpg](images/171-03.jpg)
+![assets/images/171-03.jpg](images/171-03.jpg)
 
-![images/171-04.jpg](images/171-04.jpg)
+![assets/images/171-04.jpg](images/171-04.jpg)
 
-![images/171-05.jpg](images/171-05.jpg)
+![assets/images/171-05.jpg](images/171-05.jpg)
 
 
 
@@ -3606,13 +3582,13 @@ L 38.25"
 L 37.25"
 Previous
 
-![images/173-01.jpg](images/173-01.jpg)
+![assets/images/173-01.jpg](images/173-01.jpg)
 
-![images/173-02.jpg](images/173-02.jpg)
+![assets/images/173-02.jpg](images/173-02.jpg)
 
-![images/173-03.jpg](images/173-03.jpg)
+![assets/images/173-03.jpg](images/173-03.jpg)
 
-![images/173-04.jpg](images/173-04.jpg)
+![assets/images/173-04.jpg](images/173-04.jpg)
 
 
 
@@ -3653,13 +3629,13 @@ l 37.25"
 L 37"
 Previous
 
-![images/175-01.jpg](images/175-01.jpg)
+![assets/images/175-01.jpg](images/175-01.jpg)
 
-![images/175-02.jpg](images/175-02.jpg)
+![assets/images/175-02.jpg](images/175-02.jpg)
 
-![images/175-03.jpg](images/175-03.jpg)
+![assets/images/175-03.jpg](images/175-03.jpg)
 
-![images/175-04.jpg](images/175-04.jpg)
+![assets/images/175-04.jpg](images/175-04.jpg)
 
 
 
@@ -3699,13 +3675,13 @@ L 38 7/8"
 L 38.25"
 Previous
 
-![images/177-01.jpg](images/177-01.jpg)
+![assets/images/177-01.jpg](images/177-01.jpg)
 
-![images/177-02.jpg](images/177-02.jpg)
+![assets/images/177-02.jpg](images/177-02.jpg)
 
-![images/177-03.jpg](images/177-03.jpg)
+![assets/images/177-03.jpg](images/177-03.jpg)
 
-![images/177-04.jpg](images/177-04.jpg)
+![assets/images/177-04.jpg](images/177-04.jpg)
 
 
 
@@ -3747,13 +3723,13 @@ L 38.5"
 L 42"
 Previous
 
-![images/179-01.jpg](images/179-01.jpg)
+![assets/images/179-01.jpg](images/179-01.jpg)
 
-![images/179-02.jpg](images/179-02.jpg)
+![assets/images/179-02.jpg](images/179-02.jpg)
 
-![images/179-03.jpg](images/179-03.jpg)
+![assets/images/179-03.jpg](images/179-03.jpg)
 
-![images/179-04.jpg](images/179-04.jpg)
+![assets/images/179-04.jpg](images/179-04.jpg)
 
 
 
@@ -3790,11 +3766,11 @@ L 38"
 L 38"
 Previous
 
-![images/181-01.jpg](images/181-01.jpg)
+![assets/images/181-01.jpg](images/181-01.jpg)
 
-![images/181-02.jpg](images/181-02.jpg)
+![assets/images/181-02.jpg](images/181-02.jpg)
 
-![images/181-03.jpg](images/181-03.jpg)
+![assets/images/181-03.jpg](images/181-03.jpg)
 
 
 
@@ -3823,9 +3799,9 @@ L 32.25"
 L  38.25"
 Previous
 
-![images/183-01.jpg](images/183-01.jpg)
+![assets/images/183-01.jpg](images/183-01.jpg)
 
-![images/183-02.jpg](images/183-02.jpg)
+![assets/images/183-02.jpg](images/183-02.jpg)
 
 
 
@@ -3862,15 +3838,15 @@ L 38"
 L 38.25"
 Previous
 
-![images/185-01.jpg](images/185-01.jpg)
+![assets/images/185-01.jpg](images/185-01.jpg)
 
-![images/185-02.jpg](images/185-02.jpg)
+![assets/images/185-02.jpg](images/185-02.jpg)
 
-![images/185-03.jpg](images/185-03.jpg)
+![assets/images/185-03.jpg](images/185-03.jpg)
 
-![images/185-04.jpg](images/185-04.jpg)
+![assets/images/185-04.jpg](images/185-04.jpg)
 
-![images/185-05.jpg](images/185-05.jpg)
+![assets/images/185-05.jpg](images/185-05.jpg)
 
 
 
@@ -3905,11 +3881,11 @@ L 38.25"
 L 32"
 Previous
 
-![images/187-01.jpg](images/187-01.jpg)
+![assets/images/187-01.jpg](images/187-01.jpg)
 
-![images/187-02.jpg](images/187-02.jpg)
+![assets/images/187-02.jpg](images/187-02.jpg)
 
-![images/187-03.jpg](images/187-03.jpg)
+![assets/images/187-03.jpg](images/187-03.jpg)
 
 
 
@@ -3948,13 +3924,13 @@ L 36.25"
 L 37.75"
 Previous
 
-![images/189-01.jpg](images/189-01.jpg)
+![assets/images/189-01.jpg](images/189-01.jpg)
 
-![images/189-02.jpg](images/189-02.jpg)
+![assets/images/189-02.jpg](images/189-02.jpg)
 
-![images/189-03.jpg](images/189-03.jpg)
+![assets/images/189-03.jpg](images/189-03.jpg)
 
-![images/189-04.jpg](images/189-04.jpg)
+![assets/images/189-04.jpg](images/189-04.jpg)
 
 
 
@@ -3994,11 +3970,11 @@ L 38"
 L 31.5"
 Previous
 
-![images/191-01.jpg](images/191-01.jpg)
+![assets/images/191-01.jpg](images/191-01.jpg)
 
-![images/191-02.jpg](images/191-02.jpg)
+![assets/images/191-02.jpg](images/191-02.jpg)
 
-![images/191-03.jpg](images/191-03.jpg)
+![assets/images/191-03.jpg](images/191-03.jpg)
 
 
 
@@ -4023,7 +3999,7 @@ Next
 L 37"
 Previous
 
-![images/193-01.jpg](images/193-01.jpg)
+![assets/images/193-01.jpg](images/193-01.jpg)
 
 
 
@@ -4050,7 +4026,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/195-001.mp3)
 
-![images/195-01.jpg](images/195-01.jpg)
+![assets/images/195-01.jpg](images/195-01.jpg)
 
 
 
@@ -4123,7 +4099,7 @@ Sue Cowdery      Consultant
 Next
 Tyler Cipriani      Computer Technical Advisor
 
-![images/198-01.jpg](images/198-01.jpg)
+![assets/images/198-01.jpg](images/198-01.jpg)
 
 
 

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Clothing
-previous: <a class="prev-link" href="/death-and-grief.html">Previous</a>
+image: /assets/images/077-01.jpg
+caption: Sweet potato garden - Enga children between sweet potato mounds
 ...
-## Clothing
+
+
 
 The days are warm, and therefore, there is no need for warm
 clothing.
@@ -25,10 +27,10 @@ to a belt.
 
 [Click HERE to hear Mrs. Wagner](audio/076-001.mp3)
 
-![Sweet potato garden - Enga children between sweet potato mounds](images/077-01.jpg)
 
-![Enga woman carrying sweet potato vines to plant in mounds](images/077-02.jpg)
+![Enga woman carrying sweet potato vines to plant in mounds](/assets/images/077-02.jpg)
 
-![Enga man's sugar cane garden](images/077-03.jpg)
+![Enga man's sugar cane garden](/assets/images/077-03.jpg)
 
-![Enga woman using Cassowary bone as digging stick in sweet potato garden](images/077-04.jpg)
+![Enga woman using Cassowary bone as digging stick in sweet potato garden](/assets/images/077-04.jpg)
+

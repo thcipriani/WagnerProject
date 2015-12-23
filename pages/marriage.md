@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Marriage
-previous: <a class="prev-link" href="/clan.html">Previous</a>
+image: /assets/images/071-01.jpg
+caption: As punishment for committing adultery, a husband would cut off the front of his wife's nose. This woman covers what was once her nose with a leaf.  However, a double standard exists; men are not punished for committing the same act.
 ...
-## Marriage
+
+
 
 In Enga society polygyny was practiced. There wasn't a limit on the
 number of wives a man could have, but since there was the custom
@@ -27,7 +29,4 @@ They then live happily ever after.
 
 [Click HERE to hear Mrs. Wagner](audio/070-001.mp3)
 
-![As punishment for committing adultery, a husband would cut
-off the front of his wife's nose. This woman covers what was
-once her nose with a leaf.  However, a double standard exists;
-men are not punished for committing the same act.](images/071-01.jpg)
+

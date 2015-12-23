@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Houses
-previous: <a class="prev-link" href="/childhood.html">Previous</a>
+image: /assets/images/067-01.jpg
+caption: The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men
 ...
-## Houses
+
+
 
 The houses the Enga people build serve their need in the climate. The
 mountains cause the nights to be cold. They build low houses with solid,
@@ -28,8 +30,8 @@ utensils.
 
 [Click HERE to hear Mrs. Wagner](audio/066-001.mp3)
 
-![The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men](images/067-01.jpg)
 
-![Before, a Boy, Now, a Man - Returning after the Sandalu Ceremony](images/067-02.jpg)
+![Before, a Boy, Now, a Man - Returning after the Sandalu Ceremony](/assets/images/067-02.jpg)
 
-![The clan meeting place; where Ceremonies are also held Previous](images/067-03.jpg)
+![The clan meeting place; where Ceremonies are also held Previous](/assets/images/067-03.jpg)
+

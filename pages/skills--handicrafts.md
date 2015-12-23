@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Pronunciation Key
-previous: <a class="prev-link" href="/trade-and-commerce.html">Previous</a>
+title: Skills & Handicrafts
+image: images/085-01.jpg
+caption: assets/images/085-01.jpg
 ...
-## Skills & Handicrafts
+
+
 
 The Enga man is adept with an axe. His axe is used to chop firewood,
 build a house, clear a garden and is used for self defense, sometimes war.
@@ -38,11 +40,10 @@ Hewa and Enga Men with bow and
 arrows; and other mentioned items
 Previous
 
-![images/085-01.jpg](images/085-01.jpg)
 
-![images/085-02.jpg](images/085-02.jpg)
+![assets/images/085-02.jpg](images/085-02.jpg)
 
-![images/085-03.jpg](images/085-03.jpg)
+![assets/images/085-03.jpg](images/085-03.jpg)
 
 
 
@@ -112,9 +113,9 @@ Previous
 
 [Click HERE to hear Mrs. Wagner](audio/087-002.mp3)
 
-![images/087-01.jpg](images/087-01.jpg)
+![assets/images/087-01.jpg](images/087-01.jpg)
 
-![images/087-02.jpg](images/087-02.jpg)
+![assets/images/087-02.jpg](images/087-02.jpg)
 
 
 
@@ -144,7 +145,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/089-001.mp3)
 
-![images/089-01.jpg](images/089-01.jpg)
+![assets/images/089-01.jpg](images/089-01.jpg)
 
 
 
@@ -192,11 +193,11 @@ wigs.  The Duna are the only Highland
 people who do this.  The Enga and Hewa
 men do not.
 
-![images/091-01.jpg](images/091-01.jpg)
+![assets/images/091-01.jpg](images/091-01.jpg)
 
-![images/091-02.jpg](images/091-02.jpg)
+![assets/images/091-02.jpg](images/091-02.jpg)
 
-![images/091-03.jpg](images/091-03.jpg)
+![assets/images/091-03.jpg](images/091-03.jpg)
 
 
 
@@ -243,9 +244,9 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/093-002.mp3)
 
-![images/093-01.jpg](images/093-01.jpg)
+![assets/images/093-01.jpg](images/093-01.jpg)
 
-![images/093-02.jpg](images/093-02.jpg)
+![assets/images/093-02.jpg](images/093-02.jpg)
 
 
 
@@ -289,9 +290,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/095-001.mp3)
 
-![images/095-01.jpg](images/095-01.jpg)
+![assets/images/095-01.jpg](images/095-01.jpg)
 
-![images/095-02.jpg](images/095-02.jpg)
+![assets/images/095-02.jpg](images/095-02.jpg)
 
 
 
@@ -341,9 +342,9 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/097-002.mp3)
 
-![images/097-01.jpg](images/097-01.jpg)
+![assets/images/097-01.jpg](images/097-01.jpg)
 
-![images/097-02.jpg](images/097-02.jpg)
+![assets/images/097-02.jpg](images/097-02.jpg)
 
 
 
@@ -398,13 +399,13 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/099-001.mp3)
 
-![images/099-01.jpg](images/099-01.jpg)
+![assets/images/099-01.jpg](images/099-01.jpg)
 
-![images/099-02.jpg](images/099-02.jpg)
+![assets/images/099-02.jpg](images/099-02.jpg)
 
-![images/099-03.jpg](images/099-03.jpg)
+![assets/images/099-03.jpg](images/099-03.jpg)
 
-![images/099-04.jpg](images/099-04.jpg)
+![assets/images/099-04.jpg](images/099-04.jpg)
 
 
 
@@ -457,11 +458,11 @@ Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/101-001.mp3)
 
-![images/101-01.jpg](images/101-01.jpg)
+![assets/images/101-01.jpg](images/101-01.jpg)
 
-![images/101-02.jpg](images/101-02.jpg)
+![assets/images/101-02.jpg](images/101-02.jpg)
 
-![images/101-03.jpg](images/101-03.jpg)
+![assets/images/101-03.jpg](images/101-03.jpg)
 
 
 
@@ -523,11 +524,11 @@ behind
 
 [Click HERE to hear Mrs. Wagner](audio/103-001.mp3)
 
-![images/103-01.jpg](images/103-01.jpg)
+![assets/images/103-01.jpg](images/103-01.jpg)
 
-![images/103-02.jpg](images/103-02.jpg)
+![assets/images/103-02.jpg](images/103-02.jpg)
 
-![images/103-03.jpg](images/103-03.jpg)
+![assets/images/103-03.jpg](images/103-03.jpg)
 
 
 
@@ -568,9 +569,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/105-001.mp3)
 
-![images/105-01.jpg](images/105-01.jpg)
+![assets/images/105-01.jpg](images/105-01.jpg)
 
-![images/105-02.jpg](images/105-02.jpg)
+![assets/images/105-02.jpg](images/105-02.jpg)
 
 
 
@@ -600,11 +601,11 @@ L 19" x W 2"
 Previous
 Click HERE to view film clip
 
-![images/107-01.jpg](images/107-01.jpg)
+![assets/images/107-01.jpg](images/107-01.jpg)
 
-![images/107-02.jpg](images/107-02.jpg)
+![assets/images/107-02.jpg](images/107-02.jpg)
 
-![images/107-03.jpg](images/107-03.jpg)
+![assets/images/107-03.jpg](images/107-03.jpg)
 
 
 
@@ -647,11 +648,11 @@ Click HERE
 for film clip
 Previous
 
-![images/109-01.jpg](images/109-01.jpg)
+![assets/images/109-01.jpg](images/109-01.jpg)
 
-![images/109-02.jpg](images/109-02.jpg)
+![assets/images/109-02.jpg](images/109-02.jpg)
 
-![images/109-03.jpg](images/109-03.jpg)
+![assets/images/109-03.jpg](images/109-03.jpg)
 
 
 
@@ -702,21 +703,21 @@ Kunjina - black and grey stone
 Information provided by
 Kristen Wagner
 
-![images/111-01.jpg](images/111-01.jpg)
+![assets/images/111-01.jpg](images/111-01.jpg)
 
-![images/111-02.jpg](images/111-02.jpg)
+![assets/images/111-02.jpg](images/111-02.jpg)
 
-![images/111-03.jpg](images/111-03.jpg)
+![assets/images/111-03.jpg](images/111-03.jpg)
 
-![images/111-04.jpg](images/111-04.jpg)
+![assets/images/111-04.jpg](images/111-04.jpg)
 
-![images/111-05.jpg](images/111-05.jpg)
+![assets/images/111-05.jpg](images/111-05.jpg)
 
-![images/111-06.jpg](images/111-06.jpg)
+![assets/images/111-06.jpg](images/111-06.jpg)
 
-![images/111-07.jpg](images/111-07.jpg)
+![assets/images/111-07.jpg](images/111-07.jpg)
 
-![images/111-08.jpg](images/111-08.jpg)
+![assets/images/111-08.jpg](images/111-08.jpg)
 
 
 
@@ -766,17 +767,17 @@ hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/113-002.mp3)
 
-![images/113-01.jpg](images/113-01.jpg)
+![assets/images/113-01.jpg](images/113-01.jpg)
 
-![images/113-02.jpg](images/113-02.jpg)
+![assets/images/113-02.jpg](images/113-02.jpg)
 
-![images/113-03.jpg](images/113-03.jpg)
+![assets/images/113-03.jpg](images/113-03.jpg)
 
-![images/113-04.jpg](images/113-04.jpg)
+![assets/images/113-04.jpg](images/113-04.jpg)
 
-![images/113-05.jpg](images/113-05.jpg)
+![assets/images/113-05.jpg](images/113-05.jpg)
 
-![images/113-06.jpg](images/113-06.jpg)
+![assets/images/113-06.jpg](images/113-06.jpg)
 
 
 
@@ -817,11 +818,11 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/115-001.mp3)
 
-![images/115-01.jpg](images/115-01.jpg)
+![assets/images/115-01.jpg](images/115-01.jpg)
 
-![images/115-02.jpg](images/115-02.jpg)
+![assets/images/115-02.jpg](images/115-02.jpg)
 
-![images/115-03.jpg](images/115-03.jpg)
+![assets/images/115-03.jpg](images/115-03.jpg)
 
 
 
@@ -842,7 +843,7 @@ Accession Number:  2006.02.019
 Description:  Light tan rectangular mat made of flattened Pandanus
 leaves.  Rolled plant fiber used as stitching. L 48" x W 34"
 
-![images/116-01.jpg](images/116-01.jpg)
+![assets/images/116-01.jpg](images/116-01.jpg)
 
 
 
@@ -857,11 +858,11 @@ Click HERE to stop audio
 
 [Click HERE to hear Mrs. Wagner](audio/117-001.mp3)
 
-![images/117-01.jpg](images/117-01.jpg)
+![assets/images/117-01.jpg](images/117-01.jpg)
 
-![images/117-02.jpg](images/117-02.jpg)
+![assets/images/117-02.jpg](images/117-02.jpg)
 
-![images/117-03.jpg](images/117-03.jpg)
+![assets/images/117-03.jpg](images/117-03.jpg)
 
 
 
@@ -882,7 +883,7 @@ Accession Number:  2006.02.004
 Description: Ivory colored femur bone of Cassowary bird;  one end carved
 to a point.  L 12"
 
-![images/118-01.jpg](images/118-01.jpg)
+![assets/images/118-01.jpg](images/118-01.jpg)
 
 
 
@@ -897,15 +898,15 @@ L 21.5" x Circum. 6"
 L 13.66" x Circum. Big End 9.25" - Mouth 4"
 Previous
 
-![images/119-01.jpg](images/119-01.jpg)
+![assets/images/119-01.jpg](images/119-01.jpg)
 
-![images/119-02.jpg](images/119-02.jpg)
+![assets/images/119-02.jpg](images/119-02.jpg)
 
-![images/119-03.jpg](images/119-03.jpg)
+![assets/images/119-03.jpg](images/119-03.jpg)
 
-![images/119-04.jpg](images/119-04.jpg)
+![assets/images/119-04.jpg](images/119-04.jpg)
 
-![images/119-05.jpg](images/119-05.jpg)
+![assets/images/119-05.jpg](images/119-05.jpg)
 
 
 
@@ -992,7 +993,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/121-001.mp3)
 
-![images/121-01.jpg](images/121-01.jpg)
+![assets/images/121-01.jpg](images/121-01.jpg)
 
 
 
@@ -1029,9 +1030,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/123-001.mp3)
 
-![images/123-01.jpg](images/123-01.jpg)
+![assets/images/123-01.jpg](images/123-01.jpg)
 
-![images/123-02.jpg](images/123-02.jpg)
+![assets/images/123-02.jpg](images/123-02.jpg)
 
 
 
@@ -1068,11 +1069,11 @@ The sound that was produced, as I dimly remember, was that of
 musical twangs.”
 [Stephanie Wagner, email 04/02/2007]
 
-![images/125-01.jpg](images/125-01.jpg)
+![assets/images/125-01.jpg](images/125-01.jpg)
 
-![images/125-02.jpg](images/125-02.jpg)
+![assets/images/125-02.jpg](images/125-02.jpg)
 
-![images/125-03.jpg](images/125-03.jpg)
+![assets/images/125-03.jpg](images/125-03.jpg)
 
 
 
@@ -1106,11 +1107,11 @@ Next
 2006.02.029 - L 38"
 Previous
 
-![images/127-01.jpg](images/127-01.jpg)
+![assets/images/127-01.jpg](images/127-01.jpg)
 
-![images/127-02.jpg](images/127-02.jpg)
+![assets/images/127-02.jpg](images/127-02.jpg)
 
-![images/127-03.jpg](images/127-03.jpg)
+![assets/images/127-03.jpg](images/127-03.jpg)
 
 
 
@@ -1132,7 +1133,7 @@ bottom of the next, continuing to make the length.  L 33"
 Highland Body Ornaments
 Next
 
-![images/128-01.jpg](images/128-01.jpg)
+![assets/images/128-01.jpg](images/128-01.jpg)
 
 
 
@@ -1155,15 +1156,15 @@ Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/129-001.mp3)
 
-![images/129-01.jpg](images/129-01.jpg)
+![assets/images/129-01.jpg](images/129-01.jpg)
 
-![images/129-02.jpg](images/129-02.jpg)
+![assets/images/129-02.jpg](images/129-02.jpg)
 
-![images/129-03.jpg](images/129-03.jpg)
+![assets/images/129-03.jpg](images/129-03.jpg)
 
-![images/129-04.jpg](images/129-04.jpg)
+![assets/images/129-04.jpg](images/129-04.jpg)
 
-![images/129-05.jpg](images/129-05.jpg)
+![assets/images/129-05.jpg](images/129-05.jpg)
 
 
 
@@ -1197,9 +1198,9 @@ Next
 L 7.25"
 Previous
 
-![images/131-01.jpg](images/131-01.jpg)
+![assets/images/131-01.jpg](images/131-01.jpg)
 
-![images/131-02.jpg](images/131-02.jpg)
+![assets/images/131-02.jpg](images/131-02.jpg)
 
 
 
@@ -1224,9 +1225,9 @@ L 29.5"
 L 22.5"
 Previous
 
-![images/133-01.jpg](images/133-01.jpg)
+![assets/images/133-01.jpg](images/133-01.jpg)
 
-![images/133-02.jpg](images/133-02.jpg)
+![assets/images/133-02.jpg](images/133-02.jpg)
 
 
 
@@ -1262,9 +1263,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/135-001.mp3)
 
-![images/135-01.jpg](images/135-01.jpg)
+![assets/images/135-01.jpg](images/135-01.jpg)
 
-![images/135-02.jpg](images/135-02.jpg)
+![assets/images/135-02.jpg](images/135-02.jpg)
 
 
 
@@ -1291,7 +1292,7 @@ Hewa photographs; Enga men also wear
 Cassowary headdresses.
 Next
 
-![images/136-01.jpg](images/136-01.jpg)
+![assets/images/136-01.jpg](images/136-01.jpg)
 
 
 
@@ -1303,9 +1304,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/137-001.mp3)
 
-![images/137-01.jpg](images/137-01.jpg)
+![assets/images/137-01.jpg](images/137-01.jpg)
 
-![images/137-02.jpg](images/137-02.jpg)
+![assets/images/137-02.jpg](images/137-02.jpg)
 
 
 
@@ -1359,9 +1360,9 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/139-001.mp3)
 
-![images/139-01.jpg](images/139-01.jpg)
+![assets/images/139-01.jpg](images/139-01.jpg)
 
-![images/139-02.jpg](images/139-02.jpg)
+![assets/images/139-02.jpg](images/139-02.jpg)
 
 
 
@@ -1377,7 +1378,7 @@ Description:  Belt made of coiled vine [pit-pit or cane] with woven
 decoration in  front.  Decoration is 3.9" wide and 6.9" high.
 H 3.7" x Diam. 12.2"
 
-![images/140-01.jpg](images/140-01.jpg)
+![assets/images/140-01.jpg](images/140-01.jpg)
 
 
 
@@ -1388,11 +1389,11 @@ L 23" x W 18"
 L 22" x W 12"
 Previous
 
-![images/141-01.jpg](images/141-01.jpg)
+![assets/images/141-01.jpg](images/141-01.jpg)
 
-![images/141-02.jpg](images/141-02.jpg)
+![assets/images/141-02.jpg](images/141-02.jpg)
 
-![images/141-03.jpg](images/141-03.jpg)
+![assets/images/141-03.jpg](images/141-03.jpg)
 
 
 
@@ -1421,7 +1422,7 @@ as much as Kina 50, about US$20 per day, which is big money in the
 Highlands <http://www.tribalartbrokers.net/details.asp?itemId=SIK>.
 Highland Pig-Killing Aprons
 
-![images/142-01.jpg](images/142-01.jpg)
+![assets/images/142-01.jpg](images/142-01.jpg)
 
 
 
@@ -1436,15 +1437,15 @@ L 16" & 8" x W 25"
 L 16.75" & 12" x W 35"
 Previous
 
-![images/143-01.jpg](images/143-01.jpg)
+![assets/images/143-01.jpg](images/143-01.jpg)
 
-![images/143-02.jpg](images/143-02.jpg)
+![assets/images/143-02.jpg](images/143-02.jpg)
 
-![images/143-03.jpg](images/143-03.jpg)
+![assets/images/143-03.jpg](images/143-03.jpg)
 
-![images/143-04.jpg](images/143-04.jpg)
+![assets/images/143-04.jpg](images/143-04.jpg)
 
-![images/143-05.jpg](images/143-05.jpg)
+![assets/images/143-05.jpg](images/143-05.jpg)
 
 
 
@@ -1514,7 +1515,7 @@ We just slept there.  The building off to the side is one of Otto's
 
 [Click HERE to hear Mrs. Wagner](audio/144-001.mp3)
 
-![images/144-01.jpg](images/144-01.jpg)
+![assets/images/144-01.jpg](images/144-01.jpg)
 
 
 
@@ -1523,7 +1524,7 @@ We just slept there.  The building off to the side is one of Otto's
  H 4" x W 3.5"
 Previous
 
-![images/145-01.jpg](images/145-01.jpg)
+![assets/images/145-01.jpg](images/145-01.jpg)
 
 
 
@@ -1551,13 +1552,13 @@ L 10.25" x W 2 7/8"
 L 10" x 3 3/8"
 Previous
 
-![images/147-01.jpg](images/147-01.jpg)
+![assets/images/147-01.jpg](images/147-01.jpg)
 
-![images/147-02.jpg](images/147-02.jpg)
+![assets/images/147-02.jpg](images/147-02.jpg)
 
-![images/147-03.jpg](images/147-03.jpg)
+![assets/images/147-03.jpg](images/147-03.jpg)
 
-![images/147-04.jpg](images/147-04.jpg)
+![assets/images/147-04.jpg](images/147-04.jpg)
 
 
 
@@ -1586,7 +1587,7 @@ carved comb.  Carved design on top is
 partially broken off.  L 7.75" x W 3 7/8"
 Next
 
-![images/148-01.jpg](images/148-01.jpg)
+![assets/images/148-01.jpg](images/148-01.jpg)
 
 
 
@@ -1598,7 +1599,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/149-001.mp3)
 
-![images/149-01.jpg](images/149-01.jpg)
+![assets/images/149-01.jpg](images/149-01.jpg)
 
 
 
@@ -1614,7 +1615,7 @@ L 19.75" x Diam. 7.75"
 Highland Water Container
 Next
 
-![images/150-01.jpg](images/150-01.jpg)
+![assets/images/150-01.jpg](images/150-01.jpg)
 
 
 
@@ -1625,9 +1626,9 @@ L 5.25" x Diam. 4"
 L 10.6"
 Previous
 
-![images/151-01.jpg](images/151-01.jpg)
+![assets/images/151-01.jpg](images/151-01.jpg)
 
-![images/151-02.jpg](images/151-02.jpg)
+![assets/images/151-02.jpg](images/151-02.jpg)
 
 
 
@@ -1650,7 +1651,7 @@ designs; also has burn marks.
 L 10.6"
 Next
 
-![images/152-01.jpg](images/152-01.jpg)
+![assets/images/152-01.jpg](images/152-01.jpg)
 
 
 
@@ -1661,9 +1662,9 @@ Next
 L 10.5" x Diam. 1.5"
 Previous
 
-![images/153-01.jpg](images/153-01.jpg)
+![assets/images/153-01.jpg](images/153-01.jpg)
 
-![images/153-02.jpg](images/153-02.jpg)
+![assets/images/153-02.jpg](images/153-02.jpg)
 
 
 
@@ -1684,7 +1685,7 @@ splits from one end.
 L 10.5" x Diam. 1.5"
 Next
 
-![images/154-01.jpg](images/154-01.jpg)
+![assets/images/154-01.jpg](images/154-01.jpg)
 
 
 
@@ -1701,13 +1702,13 @@ L 4.75" x Diam. 4.75" & 5"
 at each end
 Previous
 
-![images/155-01.jpg](images/155-01.jpg)
+![assets/images/155-01.jpg](images/155-01.jpg)
 
-![images/155-02.jpg](images/155-02.jpg)
+![assets/images/155-02.jpg](images/155-02.jpg)
 
-![images/155-03.jpg](images/155-03.jpg)
+![assets/images/155-03.jpg](images/155-03.jpg)
 
-![images/155-04.jpg](images/155-04.jpg)
+![assets/images/155-04.jpg](images/155-04.jpg)
 
 
 
@@ -1760,13 +1761,13 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/157-001.mp3)
 
-![images/157-01.jpg](images/157-01.jpg)
+![assets/images/157-01.jpg](images/157-01.jpg)
 
-![images/157-02.jpg](images/157-02.jpg)
+![assets/images/157-02.jpg](images/157-02.jpg)
 
-![images/157-03.jpg](images/157-03.jpg)
+![assets/images/157-03.jpg](images/157-03.jpg)
 
-![images/157-04.jpg](images/157-04.jpg)
+![assets/images/157-04.jpg](images/157-04.jpg)
 
 
 
@@ -1806,7 +1807,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/159-001.mp3)
 
-![images/159-01.jpg](images/159-01.jpg)
+![assets/images/159-01.jpg](images/159-01.jpg)
 
 
 
@@ -1863,19 +1864,19 @@ Mrs.Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/161-001.mp3)
 
-![images/161-01.jpg](images/161-01.jpg)
+![assets/images/161-01.jpg](images/161-01.jpg)
 
-![images/161-02.jpg](images/161-02.jpg)
+![assets/images/161-02.jpg](images/161-02.jpg)
 
-![images/161-03.jpg](images/161-03.jpg)
+![assets/images/161-03.jpg](images/161-03.jpg)
 
-![images/161-04.jpg](images/161-04.jpg)
+![assets/images/161-04.jpg](images/161-04.jpg)
 
-![images/161-05.jpg](images/161-05.jpg)
+![assets/images/161-05.jpg](images/161-05.jpg)
 
-![images/161-06.jpg](images/161-06.jpg)
+![assets/images/161-06.jpg](images/161-06.jpg)
 
-![images/161-07.jpg](images/161-07.jpg)
+![assets/images/161-07.jpg](images/161-07.jpg)
 
 
 
@@ -1918,13 +1919,13 @@ L 22"
 L 65.5"
 Previous
 
-![images/163-01.jpg](images/163-01.jpg)
+![assets/images/163-01.jpg](images/163-01.jpg)
 
-![images/163-02.jpg](images/163-02.jpg)
+![assets/images/163-02.jpg](images/163-02.jpg)
 
-![images/163-03.jpg](images/163-03.jpg)
+![assets/images/163-03.jpg](images/163-03.jpg)
 
-![images/163-04.jpg](images/163-04.jpg)
+![assets/images/163-04.jpg](images/163-04.jpg)
 
 
 
@@ -1956,9 +1957,9 @@ L 38.25"
 L 37.25"
 Previous
 
-![images/165-01.jpg](images/165-01.jpg)
+![assets/images/165-01.jpg](images/165-01.jpg)
 
-![images/165-02.jpg](images/165-02.jpg)
+![assets/images/165-02.jpg](images/165-02.jpg)
 
 
 
@@ -1996,11 +1997,11 @@ L  31.25"
 L 38"
 Previous
 
-![images/167-01.jpg](images/167-01.jpg)
+![assets/images/167-01.jpg](images/167-01.jpg)
 
-![images/167-02.jpg](images/167-02.jpg)
+![assets/images/167-02.jpg](images/167-02.jpg)
 
-![images/167-03.jpg](images/167-03.jpg)
+![assets/images/167-03.jpg](images/167-03.jpg)
 
 
 
@@ -2049,17 +2050,17 @@ L 38"
 L 38.25"
 Previous
 
-![images/169-01.jpg](images/169-01.jpg)
+![assets/images/169-01.jpg](images/169-01.jpg)
 
-![images/169-02.jpg](images/169-02.jpg)
+![assets/images/169-02.jpg](images/169-02.jpg)
 
-![images/169-03.jpg](images/169-03.jpg)
+![assets/images/169-03.jpg](images/169-03.jpg)
 
-![images/169-04.jpg](images/169-04.jpg)
+![assets/images/169-04.jpg](images/169-04.jpg)
 
-![images/169-05.jpg](images/169-05.jpg)
+![assets/images/169-05.jpg](images/169-05.jpg)
 
-![images/169-06.jpg](images/169-06.jpg)
+![assets/images/169-06.jpg](images/169-06.jpg)
 
 
 
@@ -2103,15 +2104,15 @@ L 38"
 L 38.25"
 Previous
 
-![images/171-01.jpg](images/171-01.jpg)
+![assets/images/171-01.jpg](images/171-01.jpg)
 
-![images/171-02.jpg](images/171-02.jpg)
+![assets/images/171-02.jpg](images/171-02.jpg)
 
-![images/171-03.jpg](images/171-03.jpg)
+![assets/images/171-03.jpg](images/171-03.jpg)
 
-![images/171-04.jpg](images/171-04.jpg)
+![assets/images/171-04.jpg](images/171-04.jpg)
 
-![images/171-05.jpg](images/171-05.jpg)
+![assets/images/171-05.jpg](images/171-05.jpg)
 
 
 
@@ -2153,13 +2154,13 @@ L 38.25"
 L 37.25"
 Previous
 
-![images/173-01.jpg](images/173-01.jpg)
+![assets/images/173-01.jpg](images/173-01.jpg)
 
-![images/173-02.jpg](images/173-02.jpg)
+![assets/images/173-02.jpg](images/173-02.jpg)
 
-![images/173-03.jpg](images/173-03.jpg)
+![assets/images/173-03.jpg](images/173-03.jpg)
 
-![images/173-04.jpg](images/173-04.jpg)
+![assets/images/173-04.jpg](images/173-04.jpg)
 
 
 
@@ -2200,13 +2201,13 @@ l 37.25"
 L 37"
 Previous
 
-![images/175-01.jpg](images/175-01.jpg)
+![assets/images/175-01.jpg](images/175-01.jpg)
 
-![images/175-02.jpg](images/175-02.jpg)
+![assets/images/175-02.jpg](images/175-02.jpg)
 
-![images/175-03.jpg](images/175-03.jpg)
+![assets/images/175-03.jpg](images/175-03.jpg)
 
-![images/175-04.jpg](images/175-04.jpg)
+![assets/images/175-04.jpg](images/175-04.jpg)
 
 
 
@@ -2246,13 +2247,13 @@ L 38 7/8"
 L 38.25"
 Previous
 
-![images/177-01.jpg](images/177-01.jpg)
+![assets/images/177-01.jpg](images/177-01.jpg)
 
-![images/177-02.jpg](images/177-02.jpg)
+![assets/images/177-02.jpg](images/177-02.jpg)
 
-![images/177-03.jpg](images/177-03.jpg)
+![assets/images/177-03.jpg](images/177-03.jpg)
 
-![images/177-04.jpg](images/177-04.jpg)
+![assets/images/177-04.jpg](images/177-04.jpg)
 
 
 
@@ -2294,13 +2295,13 @@ L 38.5"
 L 42"
 Previous
 
-![images/179-01.jpg](images/179-01.jpg)
+![assets/images/179-01.jpg](images/179-01.jpg)
 
-![images/179-02.jpg](images/179-02.jpg)
+![assets/images/179-02.jpg](images/179-02.jpg)
 
-![images/179-03.jpg](images/179-03.jpg)
+![assets/images/179-03.jpg](images/179-03.jpg)
 
-![images/179-04.jpg](images/179-04.jpg)
+![assets/images/179-04.jpg](images/179-04.jpg)
 
 
 
@@ -2337,11 +2338,11 @@ L 38"
 L 38"
 Previous
 
-![images/181-01.jpg](images/181-01.jpg)
+![assets/images/181-01.jpg](images/181-01.jpg)
 
-![images/181-02.jpg](images/181-02.jpg)
+![assets/images/181-02.jpg](images/181-02.jpg)
 
-![images/181-03.jpg](images/181-03.jpg)
+![assets/images/181-03.jpg](images/181-03.jpg)
 
 
 
@@ -2370,9 +2371,9 @@ L 32.25"
 L  38.25"
 Previous
 
-![images/183-01.jpg](images/183-01.jpg)
+![assets/images/183-01.jpg](images/183-01.jpg)
 
-![images/183-02.jpg](images/183-02.jpg)
+![assets/images/183-02.jpg](images/183-02.jpg)
 
 
 
@@ -2409,15 +2410,15 @@ L 38"
 L 38.25"
 Previous
 
-![images/185-01.jpg](images/185-01.jpg)
+![assets/images/185-01.jpg](images/185-01.jpg)
 
-![images/185-02.jpg](images/185-02.jpg)
+![assets/images/185-02.jpg](images/185-02.jpg)
 
-![images/185-03.jpg](images/185-03.jpg)
+![assets/images/185-03.jpg](images/185-03.jpg)
 
-![images/185-04.jpg](images/185-04.jpg)
+![assets/images/185-04.jpg](images/185-04.jpg)
 
-![images/185-05.jpg](images/185-05.jpg)
+![assets/images/185-05.jpg](images/185-05.jpg)
 
 
 
@@ -2452,11 +2453,11 @@ L 38.25"
 L 32"
 Previous
 
-![images/187-01.jpg](images/187-01.jpg)
+![assets/images/187-01.jpg](images/187-01.jpg)
 
-![images/187-02.jpg](images/187-02.jpg)
+![assets/images/187-02.jpg](images/187-02.jpg)
 
-![images/187-03.jpg](images/187-03.jpg)
+![assets/images/187-03.jpg](images/187-03.jpg)
 
 
 
@@ -2495,13 +2496,13 @@ L 36.25"
 L 37.75"
 Previous
 
-![images/189-01.jpg](images/189-01.jpg)
+![assets/images/189-01.jpg](images/189-01.jpg)
 
-![images/189-02.jpg](images/189-02.jpg)
+![assets/images/189-02.jpg](images/189-02.jpg)
 
-![images/189-03.jpg](images/189-03.jpg)
+![assets/images/189-03.jpg](images/189-03.jpg)
 
-![images/189-04.jpg](images/189-04.jpg)
+![assets/images/189-04.jpg](images/189-04.jpg)
 
 
 
@@ -2541,11 +2542,11 @@ L 38"
 L 31.5"
 Previous
 
-![images/191-01.jpg](images/191-01.jpg)
+![assets/images/191-01.jpg](images/191-01.jpg)
 
-![images/191-02.jpg](images/191-02.jpg)
+![assets/images/191-02.jpg](images/191-02.jpg)
 
-![images/191-03.jpg](images/191-03.jpg)
+![assets/images/191-03.jpg](images/191-03.jpg)
 
 
 
@@ -2570,7 +2571,7 @@ Next
 L 37"
 Previous
 
-![images/193-01.jpg](images/193-01.jpg)
+![assets/images/193-01.jpg](images/193-01.jpg)
 
 
 
@@ -2597,7 +2598,7 @@ Click HERE to hear Mrs. Wagner
 
 [Click HERE to hear Mrs. Wagner](audio/195-001.mp3)
 
-![images/195-01.jpg](images/195-01.jpg)
+![assets/images/195-01.jpg](images/195-01.jpg)
 
 
 
@@ -2670,7 +2671,7 @@ Sue Cowdery      Consultant
 Next
 Tyler Cipriani      Computer Technical Advisor
 
-![images/198-01.jpg](images/198-01.jpg)
+![assets/images/198-01.jpg](images/198-01.jpg)
 
 
 

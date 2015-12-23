@@ -1,9 +1,11 @@
 ---
 layout: page
 title: ENGA CONCEPTS: Overview
-previous: <a class="prev-link" href="/who-are-the-people-of-enga-province---an-introduction.html">Previous</a>
+image: /assets/images/061-01.jpg
+caption: Enga women bring life into the world out in the bush, and by themselves. The newborn in this photo is only hours old.
 ...
-## ENGA CONCEPTS: Overview
+
+
 
 > The Enga concepts of life and the world are practical, earthly concepts.
 > They accept the world, the sun, the moon and the stars as something that
@@ -22,12 +24,8 @@ previous: <a class="prev-link" href="/who-are-the-people-of-enga-province---an-i
 
 [Click HERE to hear Mrs. Wagner](audio/060-001.mp3)
 
-![Enga women bring life into the world out in the bush, and by themselves.
-The newborn in this photo is only hours old.](images/061-01.jpg)
 
-![Boys from five years of age and older live in the Men's house.
-Prepubescent boys wear only a smile.](images/061-02.jpg)
+![Boys from five years of age and older live in the Men's house.  Prepubescent boys wear only a smile.](/assets/images/061-02.jpg)
 
-![Mothers gather together with their children of both sexes. When the
-boys are somewhat sufficient, they go live in their father's house.
-The mother quiets her baby by stimulating the genitalia.](images/061-03.jpg)
+![Mothers gather together with their children of both sexes. When the boys are somewhat sufficient, they go live in their father's house.  The mother quiets her baby by stimulating the genitalia.](/assets/images/061-03.jpg) 
+
