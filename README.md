@@ -1,4 +1,3 @@
-<!-- This is a comma -->
 # The Wagner Collection
 
 ## Field Journal, 1955–1969
