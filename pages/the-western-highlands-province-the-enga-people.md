@@ -1,6 +1,6 @@
 ---
 layout: page
-title: THE WESTERN HIGHLANDS PROVINCE: The Enga People
+title: "THE WESTERN HIGHLANDS PROVINCE: The Enga People"
 image: /assets/images/055-01.jpg
 caption: Enga Sing Sing
 ...

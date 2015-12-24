@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ENGA CONCEPTS: Overview
+title: "ENGA CONCEPTS: Overview"
 image: /assets/images/061-01.jpg
 caption: Enga women bring life into the world out in the bush, and by themselves. The newborn in this photo is only hours old.
 ...

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: RAISING A FAMILY - In New Guinea
+title: "RAISING A FAMILY - In New Guinea"
 image: /assets/images/031-01.jpg
 caption: 1955; New Guinea - The Wagner's houseboy, Sakaraiadana
+next: /pages/christmas---away-from-home.html
+prev: /pages/mrs-ruth-wagner---a-missionary-wifes-life.html
 ...
-
-
-
 Sarah, shown with her mother, Ruth, was born at Jagaum Lutheran
 Hospital near Madang – which is on the New Guinean coast.  Mrs. Ruth
 Wagner went there because the hospital in their mission circuit was still
@@ -71,4 +70,3 @@ house for daily use.
 [Click HERE to hear Mrs. Wagner](audio/033-001.mp3)
 
 ![Christmas time in New Guinea](/assets/images/033-01.jpg)
-

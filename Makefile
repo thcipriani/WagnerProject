@@ -14,6 +14,10 @@ setup:
 	bundle || gem install bundler --no-rdoc --no-ri
 	bundle install
 
+pages:
+	./scripts/make_pages
+	./scripts/add_links
+
 build:
 	# cp -Lr big_images/*.jpg _site/assets/images/
 	bundle exec jekyll build --destination '_site'
@@ -30,4 +34,7 @@ text/%.txt: flash/%.swf
 text/raw_text.txt: text/200.txt
 	tail -n +1 text/*.txt > raw_text.txt
 
-.PHONY: help text setup build serve
+deploy:
+	s3cmd sync --exclude '.git/*' --acl-public _site/ s3://wagnercollection.org/
+
+.PHONY: help text setup build serve pages

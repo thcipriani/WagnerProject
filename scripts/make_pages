@@ -92,7 +92,7 @@ def make_page(page, title, img, caption, path, layout):
     frontmatter = [
         '---',
         'layout: {}'.format(layout),
-        'title: {}'.format(title),
+        'title: "{}"'.format(title.replace('"', "'")),
         'image: {}'.format(img),
         'caption: {}'.format(caption),
     ]

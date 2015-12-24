@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Reverend William P. Wagner - His Missionary Duties
+title: "Reverend William P. Wagner - His Missionary Duties"
 image: /assets/images/037-02.jpg
 caption: Mitianda means Gospel House in Enga - where Rev. Wagner has catechetical instructions and devotions
+next: /pages/keeping-in-touch---communication-new-guinea-style.html
+prev: /pages/christmas---away-from-home.html
 ...
-
-
-
 Reverend Wagner worked long days in the Western Highlands of New
 Guinea and did it all on his Indian motorcyle, later replaced by two [2]
 other bikes, but the Indian was his favorite.  His work took him to the
@@ -76,4 +75,3 @@ Lutheran Witness. Jan. 21, 1964).
 ![This is the Wagner Mission Radio Log Book. It contains handwritten messages to be sent by receiver.  After the message had been relayed and received, it was crossed out only once as it may need to be read again. "Click" Book to Open in PDF Format](/assets/images/039-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/039-001.mp3)
-

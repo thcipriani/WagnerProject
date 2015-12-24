@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marriage
+title: "Marriage"
 image: /assets/images/071-01.jpg
 caption: As punishment for committing adultery, a husband would cut off the front of his wife's nose. This woman covers what was once her nose with a leaf.  However, a double standard exists; men are not punished for committing the same act.
 ...

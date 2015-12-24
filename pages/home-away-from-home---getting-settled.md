@@ -1,12 +1,11 @@
 ---
 layout: page
-title: HOME AWAY FROM HOME - Getting Settled
+title: "HOME AWAY FROM HOME - Getting Settled"
 image: /assets/images/023-01.jpg
 caption: Bedroom and Shower on the left
+next: /pages/mrs-ruth-wagner---a-missionary-wifes-life.html
+prev: /pages/bush-houses---how-they-are-built.html
 ...
-
-
-
 Four months later, in August 1955, the Wagners officially moved to
 Raiakama and began work at the new main station.  The house where
 they would live would take some getting used to.  Mrs. Ruth Wagner
@@ -65,5 +64,4 @@ to keep down their population [Wagner Oral Slide History].
 
 ![The Coleman Gas Iron; For each ironing job, it is filled with gasoline, then pumped with air, a button near the bottom is pushed to prime, then the iron is finally ignited](/assets/images/025-01.jpg)
 
-![The Washing Machine used in Bush and Permanent house](/assets/images/025-02.jpg) 
-
+![The Washing Machine used in Bush and Permanent house](/assets/images/025-02.jpg)

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: CHRISTMAS - Away From Home
+title: "CHRISTMAS - Away From Home"
 image: /assets/images/035-03.jpg
 caption: Rakada (center man, facing) is Rev. Wagner’s ‘Doctor Boy’
+next: /pages/reverend-william-p-wagner---his-missionary-duties.html
+prev: /pages/raising-a-family---in-new-guinea.html
 ...
-
-
-
 Many people asked how the Wagners celebrated Christmas in the
 Highlands.  Native teachers and evangelists in their circuit along with their
 families came to the station for a Christmas party.  After a simple church
@@ -49,4 +48,3 @@ Wagner states:
 [Click HERE to hear Mrs. Wagner](audio/035-002.mp3)
 
 ![Transportation in the Highlands Jeep and motorcycle](/assets/images/035-02.jpg)
-

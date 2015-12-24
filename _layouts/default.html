@@ -1,18 +1,20 @@
 {% include header.html %}
 <body>
-  {% if page.image %}
 <header>
-  <figure>
+  <h1>{{ page.title }}</h1>
+  {% include nav.html %}
+{% if page.image %}
+  <figure class=fullwidth>
     <img src="{{ page.image }}" />
+    {% if page.caption %}
+      <figcaption>
+        {{ page.caption }}
+      </figcaption>
+    {% endif %}
   </figure>
-  {% if page.caption %}
-  <figcaption>
-    {{ page.caption }}
-  </figcaption>
-  {% endif %}
+{% endif %}
 </header>
-  {% endif %}
   {{ content }}
-  {% include footer.html %}
+{% include footer.html %}
 </body>
 </html>

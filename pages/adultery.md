@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adultery
+title: "Adultery"
 image: /assets/images/073-01.jpg
 caption: Enga Grief
 ...

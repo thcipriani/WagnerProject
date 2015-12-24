@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills & Handicrafts
+title: "Skills & Handicrafts"
 image: images/085-01.jpg
 caption: assets/images/085-01.jpg
 ...

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clan
+title: "Clan"
 image: /assets/images/069-01.jpg
 caption: Picture of happy bride
 ...

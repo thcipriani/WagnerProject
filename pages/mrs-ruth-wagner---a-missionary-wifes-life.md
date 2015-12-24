@@ -1,12 +1,11 @@
 ---
 layout: page
-title: MRS. RUTH WAGNER - A Missionary Wife's Life
+title: "MRS. RUTH WAGNER - A Missionary Wife's Life"
 image: /assets/images/027-01.jpg
 caption: Mrs. Wagner's Australian wood-burning cook stove in bush house
+next: /pages/raising-a-family---in-new-guinea.html
+prev: /pages/home-away-from-home---getting-settled.html
 ...
-
-
-
 The Enga women watched curiously and intently when Ruth hung out her
 wash.  The Enga women did not wash clothes because there were no
 clothes to wash; a woman's attire was limited to a reed or “kuta” skirt.
@@ -72,4 +71,3 @@ and chicken eggs to supplement their diet (WNL).
 ![November 17, 1955; Daughter Sarah in Mrs. Ruth Wagner's arms. Leaving Jaguam Lutheran Hospital to return home to the Highlands of New Guinea](/assets/images/029-02.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/029-002.mp3)
-

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: BRIDGES - Connecting Roads
+title: "BRIDGES - Connecting Roads"
 image: images/045-01.jpg
 caption: assets/images/045-01.jpg
+next: /pages/a-new-guinean-walkabout.html
+prev: /pages/traveling-in-new-guinea---the-making-of-roads.html
 ...
-
-
-
 Imagine huge logs, about 24 to 30 inches in diameter and 65 to 70 feet
 long, being pulled by a hundred or more men.  Several of these huge logs
 are pulled to a river, ravine, or gully to make a bridge for the jeep to
@@ -42,4 +41,3 @@ more energy into the pulling.
 ![assets/images/045-04.jpg](images/045-04.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/045-001.mp3)
-

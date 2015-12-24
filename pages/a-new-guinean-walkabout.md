@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A NEW GUINEAN "WALKABOUT"
+title: "A NEW GUINEAN 'WALKABOUT'"
 image: /assets/images/047-01.jpg
 caption: “Walkabout” Footpath
 ...

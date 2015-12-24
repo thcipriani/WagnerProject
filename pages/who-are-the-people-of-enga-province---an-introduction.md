@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction
+title: "WHO ARE THE PEOPLE OF ENGA PROVINCE? - An Introduction"
 image: images/057-01.jpg
 caption: assets/images/057-01.jpg
 ...

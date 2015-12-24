@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gardens
+title: "Gardens"
 image: /assets/images/079-01.jpg
 caption: The Enga kept the Sacred Stone in the "V" of a special tree on Ceremonial grounds. Women and children are not allowed anywhere on or near the grounds
 ...

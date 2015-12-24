@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Childhood
+title: "Childhood"
 image: /assets/images/065-01.jpg
 caption: Enga Man's House
 ...

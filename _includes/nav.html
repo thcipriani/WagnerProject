@@ -1,6 +1,12 @@
 <nav>
     <ul>
         <li><a href="/" title="Home">Home</a></li>
-        <li><a href="/#contents" title="Contents">Contents</a></li>
+        <li><a href="/pages/contents.html" title="Contents">Contents</a></li>
+{% if page.prev %}
+    <li><a href="{{ page.prev }}" title="Previous">Previous</a></li>
+{% endif %}
+{% if page.next %}
+    <li><a href="{{ page.next }}" title="Next">Next</a></li>
+{% endif %}
     </ul>
 </nav>

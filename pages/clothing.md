@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clothing
+title: "Clothing"
 image: /assets/images/077-01.jpg
 caption: Sweet potato garden - Enga children between sweet potato mounds
 ...

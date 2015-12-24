@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Houses
+title: "Houses"
 image: /assets/images/067-01.jpg
 caption: The Sandalu Ceremony (The Bachelor Cult) - Where young bachelors are transformed into attractive, socially competent, young men
 ...

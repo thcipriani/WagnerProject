@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Birth
+title: "Birth"
 image: 
 caption: 
 ...

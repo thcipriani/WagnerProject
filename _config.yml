@@ -5,7 +5,6 @@ exclude:
     - Makefile
     - big_images
     - scripts
-    - pages
     - test
     - text
     - flash
@@ -18,11 +17,11 @@ keep_files:
     - assets/images
     - assets/audio
 
-# collections:
-#     pages:
-#         output: true
-#         permalink: /pages/:title/
-# 
+collections:
+    pages:
+        output: true
+        permalink: /pages/:title/
+
 # defaults:
 #   - scope:
 #       path: ""

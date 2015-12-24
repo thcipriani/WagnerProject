@@ -1,12 +1,11 @@
 ---
 layout: page
-title: THE BEGINNING - William P. Wagner
+title: "THE BEGINNING - William P. Wagner"
 image: /assets/images/015-02.jpg
 caption: 1953; Taken when Ruth and Bill first met.  L to R - Ruth L. Prueter, Ester (Ruth's sister), Ruth's Father, Ruth's Mother, Bill Wagner behind pole
+next: /pages/marriage-proposal---then-off-to-new-guinea.html
+prev: /pages/mission-work-and-the-lutheran-church---missouri-synod.html
 ...
-
-
-
 William (Bill) P. Wagner, the son of Mr. and Mrs. Philip G Wagner, was
 born and raised on a farm in Hudson, Colorado, (Trinity Lutheran Church
 Bulletin; Greenly Colo. Febr.13, 1955)  During his earlier years, he had
@@ -35,4 +34,3 @@ graduated on June 4, 1954.
 ![Jan 11, 1955; Concordia Seminary, St Louis, MO.; School Paper: The Quad. Graduation from Mission School: Mr. and Mrs. Wagner are the middle, or second couple from the Left. Ordination - Feburary, 1955.](/assets/images/015-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/015.mp3)
-

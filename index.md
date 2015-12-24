@@ -1,10 +1,11 @@
 ---
 layout: default
-title: The Wagner Collection
+title: "The Wagner Collection"
 image: /assets/images/Reverend-and-Mrs-William-P-Wagner-1955.jpg
 caption: 1955; Reverend and Mrs. William P. Wagner
+next: /pages/acknowledgments.html
+prev: 
 ...
-
 ## Field Journal, 1955–1969
 
 
@@ -45,4 +46,3 @@ Enjoy!
 ![Mambisanda Mission Station](/assets/images/003-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/003.mp3)
-

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: BUSH HOUSES - How they are built
+title: "BUSH HOUSES - How they are built"
 image: /assets/images/021-01.jpg
 caption: 1955; Raiakama New Guinea Close-up of the Wagner's first home, a two-room Bush house
+next: /pages/home-away-from-home---getting-settled.html
+prev: /pages/starting-a-new-life-together---arriving-in-papua-new-guinea.html
 ...
-
-
-
 Bush houses, like the one Reverend William and Mrs. Ruth Wagner lived
 in when they arrived in Yaramanda and also similar to their living quarters
 in Saka Raiakama, were built mostly of saplings, trees, and grass, with
@@ -33,4 +32,3 @@ designed to catch rain water.
 ![Bush House at Raiakama; Mrs. Ruth Wagner cutting bananas Reverend Wagner hung outside front door for his family](/assets/images/021-03.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/Pg21a.mp3)
-

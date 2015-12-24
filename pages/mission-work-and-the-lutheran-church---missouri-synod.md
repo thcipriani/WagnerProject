@@ -1,12 +1,11 @@
 ---
 layout: page
-title: MISSION WORK AND THE LUTHERAN CHURCH - Missouri Synod
+title: "MISSION WORK AND THE LUTHERAN CHURCH - Missouri Synod"
 image: /assets/images/011-04.jpg
 caption: Enga Primary School Children in their Uniforms; Older school mates as teaching assistants
+next: /pages/the-beginning---william-p-wagner.html
+prev: /pages/contents.html
 ...
-
-
-
 The Highland Mountains were inhabited by some of the most primitive people
 on earth.  Of all the mission fields in Asia, the Highlands of Papua New
 Guinea were areas where Western civilization had been the last to arrive.
@@ -78,4 +77,3 @@ Yaramanda, Enga Province.
 [Click HERE to watch movie clip](video/Life.wmv)
 
 [Click HERE to hear Mrs. Wagner](audio/014.mp3)
-

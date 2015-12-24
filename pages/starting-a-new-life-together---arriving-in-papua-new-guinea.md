@@ -1,12 +1,11 @@
 ---
 layout: page
-title: STARTING A NEW LIFE TOGETHER - Arriving in Papua, New Guinea
+title: "STARTING A NEW LIFE TOGETHER - Arriving in Papua, New Guinea"
 image: /assets/images/019-01.jpg
 caption: a woman splitting the bamboo
+next: /pages/bush-houses---how-they-are-built.html
+prev: /pages/marriage-proposal---then-off-to-new-guinea.html
 ...
-
-
-
 In March 1955, Reverend William and Ruth Wagner's plane touched down in
 New Guinea.  Reverend Wagner writes:
 
@@ -37,4 +36,3 @@ Both Enga men and women construct blind walls. Shown above, a woman
 splitting the bamboo, preparing it for pounding
 
 [Click HERE to view movie clip](video/WallBuilding.wmf)
-

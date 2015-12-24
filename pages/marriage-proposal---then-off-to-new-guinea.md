@@ -1,12 +1,11 @@
 ---
 layout: page
-title: MARRIAGE PROPOSAL - Then Off to New Guinea!
+title: "MARRIAGE PROPOSAL - Then Off to New Guinea!"
 image: /assets/images/017-03.jpg
 caption: Strackbein's house (L) at Yaramanda, later the temporary house for the Wagners before going to Saka Raiakama - The Mitianda (R), Pidgin English for Gospel House, is behind the Enga man.
+next: /pages/starting-a-new-life-together---arriving-in-papua-new-guinea.html
+prev: /pages/the-beginning---william-p-wagner.html
 ...
-
-
-
 Two months later, William Wagner proposed marriage to Ohioan Ruth L.
 Prueter and they were married on August 14, 1954 in Memorial Lutheran
 Church in Toledo, Ohio.  Ruth, the daughter of Mr. and Mrs. Henry W.
@@ -36,4 +35,3 @@ into the Hewa territories.
 ![Reverend and Mrs. Wagner on front porch of Strackbein's house in Yaramanda; notice the blind wall and floor.  Blind making is not indigenous the Enga; they use wood and grasses to construct their housing.](/assets/images/017-02.jpg)
 
 ![Mission Aviation Fellowship - This is one type of plane used to transport mail, freight, and missionaries from one station to another.](/assets/images/017-01.jpg)
-

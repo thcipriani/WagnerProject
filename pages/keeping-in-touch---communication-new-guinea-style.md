@@ -1,12 +1,11 @@
 ---
 layout: page
-title: KEEPING IN TOUCH - Communication New Guinea Style
+title: "KEEPING IN TOUCH - Communication New Guinea Style"
 image: /assets/images/041-03.jpg
 caption: New road still under construction
+next: /pages/traveling-in-new-guinea---the-making-of-roads.html
+prev: /pages/reverend-william-p-wagner---his-missionary-duties.html
 ...
-
-
-
 > Imagine living in a lonely outpost with no near neighbors outside
 > a few friendly natives.  No one to talk to over coffee, none of
 > your friends around to help out in case of emergency, no
@@ -45,4 +44,3 @@ Women's Mission League.
 ![Women gather the rocks for the surface. A Woman's bilum is packed with rocks, and she uses her turi as sun shade](/assets/images/041-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/041-003.mp3)
-

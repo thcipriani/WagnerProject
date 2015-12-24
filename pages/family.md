@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Family
+title: "Family"
 image: /assets/images/063-01.jpg
 caption: Women, babies, children under 5 years of age - male and female - live in the women’s house, along with the pigs. Girls wear kuta skirts before they can walk.
 ...

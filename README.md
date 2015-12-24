@@ -75,6 +75,8 @@ B.A., M.A. Anthropology
 
 [Click HERE to hear Mrs. Wagner](audio/005.mp3)
 
+<!-- PAGE BREAK -->
+
 ## Contents
 
 ### Home
@@ -84,29 +86,29 @@ B.A., M.A. Anthropology
 
 ### Forward
 
-* [What is this Website About?](#what-is-this-website-about)
-* [Acknowledgements](#acknowledgments)
-* [Contents](#contents)
-* [Pronunciation Key](#pronunciation-key)
+* [What is this Website About?](/#what-is-this-website-about)
+* [Acknowledgements](/pages/acknowledgments.html)
+* [Contents](/pages/contents.html)
+* [Pronunciation Key](/pages/pronunciation-key)
 
 ### Chapter 1:
 
 #### The Wagner Story
 
-* [Mission Work and The Lutheran Church – Missouri Synod](/mission-work-and-the-lutheran-church---missouri-synod.html)
-* [The Beginning – William P. Wagner and Ruth L. Prueter](/the-beginning---william-p-wagner.html)
-* [Marriage Proposal – Then off to New Guinea!](/marriage-proposal---then-off-to-new-guinea.html)
-* [Starting a New Life Together – Arriving in New Guinea](/starting-a-new-life-together---arriving-in-papua-new-guinea.html)
-* [Bush houses – How they are built](/bush-houses---how-they-are-built.html)
-* [Home Away from Home – Getting Settled](/home-away-from-home---getting-settled.html)
-* [Mrs. Ruth Wagner – A Missionary Wife’s Life](/mrs-ruth-wagner---a-missionary-wifes-life.html)
-* [Raising a Family - In New Guinea](/raising-a-family--in-new-guinea.html)
-* [Christmas – Away From Home](/christmas---away-from-home.html)
-* [Reverend William Wagner – His Missionary Duties](/reverend-william-p-wagner---his-missionary-duties.html)
-* [Keeping in Touch – Communication New Guinean Style](/keeping-in-touch---communication-new-guinea-style.html)
-* [Traveling in New Guinea – The Making of Roads](/traveling-in-new-guinea---the-making-of-roads.html)
-* [Bridges – Connecting Roads](/bridges---connecting-roads.html)
-* [New Guinean “Walkabout”](/a-new-guinean-walkabout.html)
+* [Mission Work and The Lutheran Church – Missouri Synod](/pages/mission-work-and-the-lutheran-church---missouri-synod.html)
+* [The Beginning – William P. Wagner and Ruth L. Prueter](/pages/the-beginning---william-p-wagner.html)
+* [Marriage Proposal – Then off to New Guinea!](/pages/marriage-proposal---then-off-to-new-guinea.html)
+* [Starting a New Life Together – Arriving in New Guinea](/pages/starting-a-new-life-together---arriving-in-papua-new-guinea.html)
+* [Bush houses – How they are built](/pages/bush-houses---how-they-are-built.html)
+* [Home Away from Home – Getting Settled](/pages/home-away-from-home---getting-settled.html)
+* [Mrs. Ruth Wagner – A Missionary Wife’s Life](/pages/mrs-ruth-wagner---a-missionary-wifes-life.html)
+* [Raising a Family - In New Guinea](/pages/raising-a-family--in-new-guinea.html)
+* [Christmas – Away From Home](/pages/christmas---away-from-home.html)
+* [Reverend William Wagner – His Missionary Duties](/pages/reverend-william-p-wagner---his-missionary-duties.html)
+* [Keeping in Touch – Communication New Guinean Style](/pages/keeping-in-touch---communication-new-guinea-style.html)
+* [Traveling in New Guinea – The Making of Roads](/pages/traveling-in-new-guinea---the-making-of-roads.html)
+* [Bridges – Connecting Roads](/pages/bridges---connecting-roads.html)
+* [New Guinean “Walkabout”](/pages/a-new-guinean-walkabout.html)
 * Going Home
 
 ![Reverend Wagner with Enga in the Kandep](/assets/images/007-01.jpg)

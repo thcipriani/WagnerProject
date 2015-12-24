@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trade and Commerce
+title: "Trade and Commerce"
 image: /assets/images/083-01.jpg
 caption: Building a haus-mari (Pidgin for woman's house); Enga men sharpening the stakes to be pounded into the ground
 ...

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: TRAVELING IN NEW GUINEA - The Making of Roads
+title: "TRAVELING IN NEW GUINEA - The Making of Roads"
 image: /assets/images/043-02.jpg
 caption: Pulling log for bridge building
+next: /pages/bridges---connecting-roads.html
+prev: /pages/keeping-in-touch---communication-new-guinea-style.html
 ...
-
-
-
 Until 1954, traffic problems were nonexistent; there were no roads or
 bridges.  If anyone wanted to go anywhere, he walked – not over nice,
 graveled paths, but up and down grassy clay trails which also served as
@@ -41,4 +40,3 @@ bridges had to be put in place.
 ![Bridge building](/assets/images/043-01.jpg)
 
 [Click HERE to hear Mrs. Wagner](audio/043-002.mp3)
-

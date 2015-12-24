@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Death and Grief
+title: "Death and Grief"
 image: /assets/images/075-01.jpg
 caption: Enga man wearing a “yabati”, an apron-like woven garment in the front and a bunch of leaves in the rear
 ...

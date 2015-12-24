@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ceremonial Grounds
+title: "Ceremonial Grounds"
 image: /assets/images/081-01.jpg
 caption: 1950s; Enga men with their Pigs on the way to a Te Cycle; pigs are a sign of wealth
 ...
