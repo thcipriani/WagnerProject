@@ -1,0 +1,86 @@
+#!/usr/bin/env python2
+
+import sys
+
+FLOW = {
+    'index.md': {
+        'prev': '',
+        'next': '/pages/acknowledgments.html',
+    },
+    'pages/acknowledgments.md': {
+        'prev': '/#what-is-this-website-about',
+        'next': '/pages/contents.html'
+    },
+    'pages/contents.md': {
+        'prev': '/pages/acknowledgments.html',
+        'next': '/pages/mission-work-and-the-lutheran-church---missouri-synod.html',
+    },
+    'pages/mission-work-and-the-lutheran-church---missouri-synod.md': {
+        'prev': '/pages/contents.html',
+        'next': '/pages/the-beginning---william-p-wagner.html'
+    },
+    'pages/the-beginning---william-p-wagner.md': {
+        'prev': '/pages/mission-work-and-the-lutheran-church---missouri-synod.html',
+        'next': '/pages/marriage-proposal---then-off-to-new-guinea.html'
+    },
+    'pages/marriage-proposal---then-off-to-new-guinea.md': {
+        'prev': '/pages/the-beginning---william-p-wagner.html',
+        'next': '/pages/starting-a-new-life-together---arriving-in-papua-new-guinea.html'
+    },
+    'pages/starting-a-new-life-together---arriving-in-papua-new-guinea.md': {
+        'prev': '/pages/marriage-proposal---then-off-to-new-guinea.html',
+        'next': '/pages/bush-houses---how-they-are-built.html',
+    },
+    'pages/bush-houses---how-they-are-built.md': {
+        'prev': '/pages/starting-a-new-life-together---arriving-in-papua-new-guinea.html',
+        'next': '/pages/home-away-from-home---getting-settled.html'
+    },
+    'pages/home-away-from-home---getting-settled.md': {
+        'prev': '/pages/bush-houses---how-they-are-built.html',
+        'next': '/pages/mrs-ruth-wagner---a-missionary-wifes-life.html'
+    },
+    'pages/mrs-ruth-wagner---a-missionary-wifes-life.md': {
+        'prev': '/pages/home-away-from-home---getting-settled.html',
+        'next': '/pages/raising-a-family---in-new-guinea.html'
+    },
+    'pages/raising-a-family---in-new-guinea.md': {
+        'prev': '/pages/mrs-ruth-wagner---a-missionary-wifes-life.html',
+        'next': '/pages/christmas---away-from-home.html'
+    },
+    'pages/christmas---away-from-home.md': {
+        'prev': '/pages/raising-a-family---in-new-guinea.html',
+        'next': '/pages/reverend-william-p-wagner---his-missionary-duties.html'
+    },
+    'pages/reverend-william-p-wagner---his-missionary-duties.md': {
+        'prev': '/pages/christmas---away-from-home.html',
+        'next': '/pages/keeping-in-touch---communication-new-guinea-style.html'
+    },
+    'pages/keeping-in-touch---communication-new-guinea-style.md': {
+        'prev': '/pages/reverend-william-p-wagner---his-missionary-duties.html',
+        'next': '/pages/traveling-in-new-guinea---the-making-of-roads.html'
+    },
+    'pages/traveling-in-new-guinea---the-making-of-roads.md': {
+        'prev': '/pages/keeping-in-touch---communication-new-guinea-style.html',
+        'next': '/pages/bridges---connecting-roads.html',
+    },
+    'pages/bridges---connecting-roads.md': {
+        'prev': '/pages/traveling-in-new-guinea---the-making-of-roads.html',
+        'next': '/pages/a-new-guinean-walkabout.html',
+    }
+}
+
+for page, links in FLOW.iteritems():
+    page_conts = ''
+    with open(page, 'r') as f:
+        page_conts = f.read()
+
+    contents = page_conts.split('...\n')
+
+    with open(page, 'w') as f:
+        f.write('\n'.join([
+            contents[0].strip(),
+            'next: {}'.format(links['next']),
+            'prev: {}'.format(links['prev']),
+            '...',
+            contents[1].strip()
+        ]))

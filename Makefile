@@ -36,5 +36,6 @@ text/raw_text.txt: text/200.txt
 
 deploy:
 	s3cmd sync --exclude '.git/*' --acl-public _site/ s3://wagnercollection.org/
+	s3cmd modify --add-header='Content-type:text/css' s3://wagnercollection.org/assets/css/main.css
 
 .PHONY: help text setup build serve pages
