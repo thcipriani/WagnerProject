@@ -1,23 +1,15 @@
 {% include header.html %}
+{% include chapters_setup.html %}
 <body>
+{% include toc.html %}
+
 <header>
-  {% include nav.html %}
   <h1>{{ page.title }}</h1>
 </header>
 <main>
 
-{% if page.image %}
-  <figure class=title-figure>
-    <img src="{{ page.image }}" />
-    {% if page.caption %}
-      <figcaption>
-        {{ page.caption }}
-      </figcaption>
-    {% endif %}
-  </figure>
-{% endif %}
+{{ content }}
 
-  {{ content }}
 <nav class="next-previous">
 {% if page.prev %}
     <a class="next-previous-previous" rel="previous" href="{{ page.prev }}" title="Previous">&larr; Previous</a>

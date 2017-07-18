@@ -18,12 +18,15 @@ pages:
 	./scripts/make_pages
 	./scripts/add_links
 
-build:
+build: clean
 	# cp -Lr big_images/*.jpg _site/assets/images/
 	bundle exec jekyll build --destination '_site'
 
-serve:
+serve: clean
 	bundle exec jekyll serve
+
+clean:
+	bundle exec jekyll clean
 
 text: $(addprefix text/, $(notdir $(addsuffix .txt, $(basename $(wildcard flash/*.swf))))) text/raw_text.txt
 
@@ -34,8 +37,11 @@ text/%.txt: flash/%.swf
 text/raw_text.txt: text/200.txt
 	tail -n +1 text/*.txt > raw_text.txt
 
-deploy:
+thumbs:
+	s3cmd sync --acl-public thumbs/ s3://wagnercollection.org/images/
+
+deploy: thumbs
 	s3cmd sync --exclude '.git/*' --acl-public _site/ s3://wagnercollection.org/
 	s3cmd modify --add-header='Content-type:text/css' s3://wagnercollection.org/assets/css/main.css
 
-.PHONY: help text setup build serve pages
+.PHONY: help text setup build serve pages clean thumbs

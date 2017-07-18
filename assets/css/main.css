@@ -461,6 +461,48 @@ html {
 
 }
 
+a:link,
+a:active,
+a:visited,
+a:hover {
+    color: #18f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #18f;
+    text-decoration: underline\9;
+    text-shadow: 2px 0 0 #fefefe, -2px 0 0 #fefefe;
+    background-image: -webkit-gradient(linear, left top, right top, from(currentColor), to(currentColor));
+    background-image: -webkit-linear-gradient(left, #18f 0%, #18f  100%);
+    background-image:      -o-linear-gradient(left, #18f 0%, #18f 100%);
+    background-image:      -o-linear-gradient(left, #18f 0%, #18f 100%);
+    background-image:         linear-gradient(to right, #18f 0%, #18f 100%);
+    background-repeat: repeat-x;
+    background-position: 0 90%;
+    -webkit-background-size: 100% 1px;
+            background-size: 100% 1px;
+
+}
+
+a[href*="//"]:not([href*="wagnercollection.org"]) {
+    break-after: avoid;
+}
+
+a[href*="//"]:not([href*="wagnercollection.org"]):after {
+    content: "\0000a0" url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=);
+}
+
+dt {
+    font-weight: 700;
+    border-bottom: 1px solid #a2a9b1;
+    margin-bottom: 1.6em;
+}
+
+dd {
+    margin: 1em;
+}
+
 img {
     max-width: 100%;
 }
@@ -475,37 +517,27 @@ figure {
 
 header {
     overflow: hidden;
+    border-left: 1px solid #a2a9b1;
+    border-bottom: 1px solid #a2a9b1;
+    padding-left: 1em;
 }
 
 header h1 {
     font-family: 'Linux Libertine','Georgia','Times',serif;
-    font-size: 4em;
-    text-align: center;
 }
 
-header nav {
+.toc {
     overflow: hidden;
-    border-bottom: 1px solid #a2a9b1;
-}
-
-header nav ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
-
-header nav li {
     float: left;
-}
-
-header nav li a {
+    width: 25%;
     padding: 1em;
-    display: block;
 }
 
 main {
-    width: 85%;
-    margin: 0 auto;
+    width: 75%;
+    float: left;
+    border-left: 1px solid #a2a9b1;
+    padding-left: 1em;
 }
 
 footer {
@@ -513,10 +545,13 @@ footer {
     font-size: smaller;
     border-top: 1px solid #a2a9b1;
     padding: 1em;
+    clear: both;
 }
 
 .next-previous {
     position: relative;
+    clear: both;
+    padding: 2em;
 }
 
 .next-previous-previous {
@@ -531,4 +566,18 @@ footer {
     right: 0;
     top: 0;
     display: block;
+}
+
+.media-include {
+    max-width: 640px;
+    width: 40%;
+}
+
+.media-include-caption {
+    font-size: smaller
+}
+
+.media-include-caption audio {
+    display: block;
+    width: 100%;
 }

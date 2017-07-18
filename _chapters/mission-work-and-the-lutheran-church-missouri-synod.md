@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "MISSION WORK AND THE LUTHERAN CHURCH - Missouri Synod"
+title: Mission Work and the Lutheran Church
+subtitle: Missouri Synod
 image: /assets/images/011-04.jpg
 caption: Enga Primary School Children in their Uniforms; Older school mates as teaching assistants
-next: /pages/the-beginning---william-p-wagner.html
-prev: /pages/contents.html
+next: the-beginning-william-p-wagner
+category: story
+categoryindex: 001
 ...
 The Highland Mountains were inhabited by some of the most primitive people
 on earth.  Of all the mission fields in Asia, the Highlands of Papua New
@@ -35,7 +37,6 @@ Wagner family moved to Kopiago and in 1965 went on furlough for six (6)
 months.
 
 [Click HERE to hear Mrs. Wagner](audio/010.mp3)
-
 
 ![Enga men and women carrying heavy loads](/assets/images/011-01.jpg)
 

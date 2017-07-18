@@ -1,0 +1,37 @@
+<nav class=toc>
+<a href="{{site.baseurl}}/">Home</a>
+    <dl>
+        <dd></dd>
+        <dt>The Wagner Story</dt>
+        {%for story in story_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>Western Highlands</dt>
+        {%for story in westernhighlands_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>Southern Highlands</dt>
+        {%for story in southernhighlands_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>Mrs. Ruth Wagner - Synopsis</dt>
+        {%for story in synopsis_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>Credits</dt>
+        {%for story in credits_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>Maps</dt>
+        {%for story in maps_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>The Wagner Collection</dt>
+        {%for story in collection_chapter-%}
+        <dd><a href="{{story.url}}">{{story.title}}</a></dd>
+        {%endfor-%}
+        <dt>Links</dt>
+        <dd><a href="http://holmes.anthropology.museum/">Lowell D. Holmes Museum of Anthropology</a></dd>
+        <dd><a href="http://www.holmes.anthropology.museum/message/contact0.asp">Contact Us</a></dd>
+    </dl>
+</nav>

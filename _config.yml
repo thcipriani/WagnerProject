@@ -12,19 +12,12 @@ exclude:
     - images
     - Gemfile
     - Gemfile.lock
-
-keep_files:
+    - pages
     - assets/images
-    - assets/audio
 
 collections:
-    pages:
+    chapters:
         output: true
-        permalink: /pages/:title/
+        permalink: /:path/
 
-# defaults:
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: page
+keep_files: [assets/images]
